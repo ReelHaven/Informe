@@ -127,3 +127,13 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+## STUDENT OUTCOME
+<b>ABET – EAC - Student Outcome 3</b>
+
+
+
+| Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro** <br> **TB1:** <br>(TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br>  | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miemdro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br>  (TB1) <br> <br> <br>  |                                                                                                                                    |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br>   | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br>            |
