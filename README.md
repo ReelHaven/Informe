@@ -302,3 +302,75 @@ En conclusión, existe una problemática en la ciudad de Lima relacionada con el
 #### 1.2.2.1. Lean UX Problem Statements
 
 Ciudadanos universitarios y/o trabajadores buscan formas de relajarse y reducir el cansancio mental luego de largas jornadas de estudio/trabajo, pero les suele ser difícil encontrar algún contenido que les ayude a desconectar y aliviar dicha fatiga. Debido a esto, muchos experimentan altos niveles de estrés lo cual produce un deterioro de su salud mental con el tiempo. Si bien existe cierto contenido el cual puede ayudar a los usuarios a contrarrestar este agotamiento mental, no se encuentra una plataforma la cual ofrezca contenido personalizado de acuerdo al estado de ánimo del usuario. Si este problema se resuelve, las personas podrían contar con recursos audiovisuales que le alineen a sus necesidades y les permitan relajarse de forma efectiva, logrando así reducir sus niveles de estrés y mejorando su bienestar mental.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions** 
+
+* Lograr aumentar nuestro público objetivo gradualmente con el tiempo.
+* Las ganancias iniciales deben compensar el capital invertido para el negocio
+* Obtener mayor ganancias con las suscripciones con el fin de aumentar los beneficios para los usuarios. 
+
+**Users**
+
+*Ciudadanos universitarios/trabajadores
+*Creadores de contenido
+
+**User Outcomes**
+
+*Ciudadanos universitarios/trabajadores:*
+
+*Desconectar de sus actividades académicas/laborales con el fin de aliviar el estrés. 
+*Conocer nuevo contenido audiovisual que los ayuden a cambiar su estado de ánimo.
+
+*Creadores de contenido:*
+
+*Difundir sus producciones y que lleguen a un mayor público.
+*Obtener feedback acerca del contenido desarrollado
+
+**Features**
+
+* Contenido personalizado para el usuario en cuanto a películas/series/documentales. 
+* Foros en los cuales se compartan opiniones acerca del contenido recomendado. 
+* Información acerca de eventos a los cuales los usuarios pueden asistir de manera presencial. 
+* Impulso de contenido que promueve el bienestar mental. 
+
+**Business Assumptions**
+
+1. **Creemos que nuestros clientes necesitan** un medio en el cual encontrar recomendaciones de contenido audiovisual el cual le brinde mejoría en su bienestar mental. Para los creadores de contenido, un espacio donde su contenido alcance el público que se plantean.
+2. **Estas necesidades se pueden resolver con** una plataforma la cual conozca la situación mental del usuario y le brinde recomendaciones adecuadas a sus necesidades y promueva el contenido relacionado a bienestar mental.
+3. **El valor #1 que mi cliente quiere de mi servicio es** efectividad al momento de encontrar una solución para calmar sus problemas. En cuanto a los creadores, que sus producciones lleguen a la mayor cantidad de público objetivo posible.
+4. **El cliente también puede obtener beneficios adicionales como** acceso a una gran cantidad de películas, series, documentales, los cuales pueden tomar en cuenta sin importar la situación en la que estén. Además de opiniones de otros usuarios y eventos a los que asistir. Para los creadores, la opción de crear eventos dedicados a personas que quieran ver sus producciones en vivo.
+5. **Voy a adquirir la mayoría de mis clientes con** publicidad en redes sociales y grupos en los cuales se hable de temas relacionados con películas/series/documentales.
+6. **Haré dinero a través de** distintos niveles de suscripción para poder acceder a la plataforma.
+7. **Mi competencia principal en el mercado** aplicaciones que brinden servicios de streaming de películas o que ofrezcan recomendaciones de películas 
+8. **Lo venceremos debido a**    nuestra propuesta de valor se relaciona con recomendaciones personalizadas al usuario 
+9. **El mayor riesgo es que** existan errores al momento de recomendar el contenido y que el usuario no esté de acuerdo con lo recomendado.
+10. **Resolveremos esto a través de** un análisis previo en el cual se conozca las emociones y estado de ánimo actual del usuario. 
+
+**User Assumptions**
+
+**Who is the user?**
+
+* Ciudadanos universitarios/trabajadores que presenten gran cansancio mental luego de largas jornadas de estudio/trabajo
+* Creadores de contenido que toquen temas en específico y ayuden a mejorar el ánimo de su público. 
+
+**Where does our product fit in their work or life?**
+
+El aplicativo encaja tanto en las consecuencias del arduo trabajo o estudio del usuario, como en el estado de ánimo actual que tenga el usuario al interactuar con el producto. 
+
+**What problem does our product solve?**
+
+El producto contrarresta el estrés de los usuarios y ayuda a promover el bienestar mental a través de contenido audiovisual
+
+**When and how is our product used?**
+
+El aplicativo podría usarse en un lapso de descanso que tengan los usuarios al igual que en sus días libres . Para los creadores de contenido, se puede emplear al momento de estrenar nuevo contenido audiovisual. 
+
+**What features are important?**
+
+Que el producto cumpla con recomendar las películas/series/documentales más precisas de acuerdo a la necesidad del usuario que lo requiera.
+
+**How should our product look and behave?**
+
+El producto debe verse amigable con el usuario, funcional y simple de usar, esto con el objetivo que cualquier persona que lo requiera pueda usar la aplicación, sin importar que esté familiarizado con otras plataformas similares o no. 
