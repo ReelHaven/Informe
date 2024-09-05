@@ -447,3 +447,13 @@ Tonos blancos: Colores que se usarán mayormente en los fondos de la aplicación
 
 * **Tono de Comunicación y lenguaje aplicado**
 El tono de comunicación que se usará en el aplicativo será Entusiasta/Sereno. Creemos que usando este tono transmitiremos confianza y seguridad al usuario, el cual busca relajarse y ser tratado de manera que se sienta como y calmado, para así desconectar de las actividades que lo llevaron a sentirse estresado. 
+
+### 4.1.2. Web Style Guidelines. 
+
+El diseño de la aplicación será desarrollado con el objetivo de que se pueda visualizar, de manera adecuada, desde cualquier dispositivo con el que interactúe el usuario. Estos mayormente serán dispositivos móviles, tablets o computadoras. Se tendrá en cuenta las medidas de cada uno para que así la estructura de la aplicación se adecúe a ellas, sin deformar el contenido. 
+
+![web style](images/web-styles-guidelines.JPG)
+
+De igual manera, se empleará el patrón Z, el cual consiste en que los usuarios comiencen reconociendo el logo de la aplicación en la esquina superior izquierda, seguido de las opciones mostradas al lado derecho. Luego, el usuario podrá ver el contenido principal de la aplicación, y por último se apreciará un footer en la parte inferior, con información de contacto y datos adicionales. 
+
+![z pattern](images/z-pattern.JPG)
