@@ -601,4 +601,32 @@ En esta sección se muestra la base para el diseño del landing page. Con la ayu
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1  
 
+### 4.3.2. Landing Page Mock-up.
+
+* **Portada**
+
+![portada](images/portada-mu.JPG)
+
+* **Beneficios**
+
+![beneficios](images/beneficios-mu.JPG)
+
+* **Testimonios**
+
+![testimonios](images/testimonios-mu.JPG)
+
+* **Membresias**
+
+![membresias](images/membership-mu.JPG)
+
+* **Equipo de Trabajo**
+
+![equipo](images/equipo-mu.JPG)
+
+* **Contacto**
+
+![contacto](images/contacto-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
 
