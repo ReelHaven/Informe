@@ -539,3 +539,24 @@ Sistema de etiquetado que se usará en la aplicación, con el fin de brindar inf
 A continuación se muestran los SEO Tags y los Meta Tags, los cuales son usados con el objetivo de aumentar la visibilidad del Landing Page en los motores de búsqueda. 
 
 ![SEO tags](images/seo-tags.JPG)
+
+### 4.2.4. Searching Systems.
+
+Para el Landing Page no se incluyó un sistema de búsqueda dedicado, ya que toda la información que se proporciona está segmentada y se puede acceder a un punto en específico gracias a la barra de navegación. 
+
+Dentro de la aplicación de MindFlix, si se pueden encontrar ciertos sistemas de búsqueda los cuales ayudará a los usuarios a encontrar información específica de manera más eficaz.
+
+**Para segmento usuario trabajador/estudiante:** 
+* **Explorar contenido:** un filtro con en la cual el usuario pueda buscar una categoría de películas/series/documentales en específico.
+
+* **Foros:** una barra de búsqueda en la cual el usuario pueda buscar opiniones sobre una película/serie/documental en específico.
+
+* **Eventos:** se podrán filtrar los eventos por fechas, desde los más próximos hasta los más lejanos. 
+
+**Para segmento creador de contenido:**
+
+* **Foros:** se mostrará un filtro con el cual el creador podrá ver las opiniones a de su contenido los cuales tengan mayor calificación. 
+
+* **Eventos:** se apreciará un buscador para que el creador pueda ver que usuarios planean asistir a su evento. 
+
+
