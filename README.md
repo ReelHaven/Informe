@@ -127,3 +127,269 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+## STUDENT OUTCOME
+<b>ABET – EAC - Student Outcome 3</b>
+
+
+
+| Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro** <br> **TB1:** <br>(TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br>  | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miemdro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br>  (TB1) <br> <br> <br>  |                                                                                                                                    |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.   | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br>   | **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br>            |
+
+# Capitulo I: Introducción
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada para ayudar a las personas a reducir el estrés cotidiano mediante recomendaciones personalizadas de películas, series y documentales. MindFlix no solo se centra en mejorar el bienestar mental de sus usuarios, sino que también ofrece un espacio para que los creadores de contenido promuevan sus obras enfocadas en la salud mental y el bienestar.
+
+**Objetivo:** Brindar una plataforma novedosa que ayude a las personas a reducir el estrés y mejorar su bienestar mental mediante recomendaciones personalizadas de contenido audiovisual, a la vez que apoya a los creadores en la difusión de sus proyectos relacionados con la salud mental.
+
+**Misión:** En ReelHaven, nuestra misión es mejorar la vida de nuestros usuarios ofreciéndoles una experiencia de entretenimiento personalizada que impulse su bienestar mental y emocional. Con MindFlix, buscamos crear una comunidad inclusiva y empática, donde los usuarios puedan descubrir contenido inspirador, participar en debates enriquecedores y acceder a recursos adicionales para su bienestar. Al mismo tiempo, promovemos las creaciones de cineastas y productores, impulsando un entorno de colaboración y crecimiento compartido.
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/Piero.JPG" alt="Piero Miranda" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Piero Stephano Miranda Sinarahua
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Me llamo Piero Miranda y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual 
+         manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido: </b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+	  
+</table>
+
+## 1.2. Solution Profile
+En esta sección se analizarán cuales son los antecedentes y la problemática acerca del estrés y cansancio mental de las personas luego de realizar actividades cotidianas y cómo el entretenimiento audiovisual está involucrado en el tema . Luego, se examinará la raíz del problema, con ayuda de un proceso UX, el cual ayudará a identificar las necesidades que ayuden a encontrar una solución a la problemática mencionada. 
+
+### 1.2.1. Antecedentes y problematica
+**Quien?** Las personas que estudian, trabajan, o realizan ambas actividades. Se pueden incluir a universitarios que llevan a cabo actividades académicas la mayor parte del día. También se incluyen personas las cuales trabajan arduamente durante el día. O personas que realizan ambas actividades. El rango de personas que cumplen con dichas características suelen variar entre los 18 a 50 años. 
+También se toma en cuenta a creadores de contenido relacionados con el bienestar mental, ya sean directores, productores, actores, etc. Estas personas buscarían formas de difundir su contenido en alguna plataforma.
+
+**Qué?** Los usuarios mencionados presentan cierto nivel de cansancio mental o estrés luego de realizar sus actividades estudiantiles o laborales y no pueden encontrar contenido el cual les ayude no solo a distraerse, sino también a reducir ese nivel de estrés, mejorando así su salud mental. 
+
+**Dónde?** En la ciudad de Lima-Perú  se puede observar a muchas personas que cumplen con las características descritas. Tanto en las calles como en los mismos hogares se puede evidenciar el nivel de cansancio que presentan estas personas.
+
+**Por qué?** El deterioro de salud mental provocado por estrés es un problema creciente en la población, el cual muchas veces no se le da la suficiente atención. Existe una demanda en formas para combatir dicho estrés por medio de entretenimiento visual, los cuales tocan temas que ayudan a regular el bienestar mental de las personas. 
+
+**Cuando?** Se evidencia el problema luego de largas jornadas de trabajo, exámenes, incluso durante tiempos de descanso, ya sean periodos cortos o al momento de retornar a sus hogares.
+
+**Cómo?** Se cree que ciertos contenidos audiovisuales, como películas, series,documentales, pueden ayudar a contrarrestar el cansancio de las personas,  y así cambiar la mentalidad de los usuarios, al igual que su estado de ánimo. 
+
+**Cuánto?** Se considera un sistema de suscripciones el cual ayude a financiar una solución óptima que ofrezca alternativas que ayuden a los usuarios a normalizar su bienestar mental
+
+En conclusión, existe una problemática en la ciudad de Lima relacionada con el deterioro de la salud mental de las personas causadas por el cansancio o estrés luego de realizar actividades laborales y/o académicas durante largas jornadas. De igual manera, se tiene en cuenta que existen medios, como contenido audiovisual (películas, series, documentales), los cuales pueden ayudar a mejorar el ánimo de las personas y de cierta forma aliviar la fatiga mental que pueden tener los usuarios
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+Ciudadanos universitarios y/o trabajadores buscan formas de relajarse y reducir el cansancio mental luego de largas jornadas de estudio/trabajo, pero les suele ser difícil encontrar algún contenido que les ayude a desconectar y aliviar dicha fatiga. Debido a esto, muchos experimentan altos niveles de estrés lo cual produce un deterioro de su salud mental con el tiempo. Si bien existe cierto contenido el cual puede ayudar a los usuarios a contrarrestar este agotamiento mental, no se encuentra una plataforma la cual ofrezca contenido personalizado de acuerdo al estado de ánimo del usuario. Si este problema se resuelve, las personas podrían contar con recursos audiovisuales que le alineen a sus necesidades y les permitan relajarse de forma efectiva, logrando así reducir sus niveles de estrés y mejorando su bienestar mental.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Business Assumptions** 
+
+* Lograr aumentar nuestro público objetivo gradualmente con el tiempo.
+* Las ganancias iniciales deben compensar el capital invertido para el negocio
+* Obtener mayor ganancias con las suscripciones con el fin de aumentar los beneficios para los usuarios. 
+
+**Users**
+
+*Ciudadanos universitarios/trabajadores
+*Creadores de contenido
+
+**User Outcomes**
+
+*Ciudadanos universitarios/trabajadores:*
+
+*Desconectar de sus actividades académicas/laborales con el fin de aliviar el estrés. 
+*Conocer nuevo contenido audiovisual que los ayuden a cambiar su estado de ánimo.
+
+*Creadores de contenido:*
+
+*Difundir sus producciones y que lleguen a un mayor público.
+*Obtener feedback acerca del contenido desarrollado
+
+**Features**
+
+* Contenido personalizado para el usuario en cuanto a películas/series/documentales. 
+* Foros en los cuales se compartan opiniones acerca del contenido recomendado. 
+* Información acerca de eventos a los cuales los usuarios pueden asistir de manera presencial. 
+* Impulso de contenido que promueve el bienestar mental. 
+
+**Business Assumptions**
+
+1. **Creemos que nuestros clientes necesitan** un medio en el cual encontrar recomendaciones de contenido audiovisual el cual le brinde mejoría en su bienestar mental. Para los creadores de contenido, un espacio donde su contenido alcance el público que se plantean.
+2. **Estas necesidades se pueden resolver con** una plataforma la cual conozca la situación mental del usuario y le brinde recomendaciones adecuadas a sus necesidades y promueva el contenido relacionado a bienestar mental.
+3. **El valor #1 que mi cliente quiere de mi servicio es** efectividad al momento de encontrar una solución para calmar sus problemas. En cuanto a los creadores, que sus producciones lleguen a la mayor cantidad de público objetivo posible.
+4. **El cliente también puede obtener beneficios adicionales como** acceso a una gran cantidad de películas, series, documentales, los cuales pueden tomar en cuenta sin importar la situación en la que estén. Además de opiniones de otros usuarios y eventos a los que asistir. Para los creadores, la opción de crear eventos dedicados a personas que quieran ver sus producciones en vivo.
+5. **Voy a adquirir la mayoría de mis clientes con** publicidad en redes sociales y grupos en los cuales se hable de temas relacionados con películas/series/documentales.
+6. **Haré dinero a través de** distintos niveles de suscripción para poder acceder a la plataforma.
+7. **Mi competencia principal en el mercado** aplicaciones que brinden servicios de streaming de películas o que ofrezcan recomendaciones de películas 
+8. **Lo venceremos debido a**    nuestra propuesta de valor se relaciona con recomendaciones personalizadas al usuario 
+9. **El mayor riesgo es que** existan errores al momento de recomendar el contenido y que el usuario no esté de acuerdo con lo recomendado.
+10. **Resolveremos esto a través de** un análisis previo en el cual se conozca las emociones y estado de ánimo actual del usuario. 
+
+**User Assumptions**
+
+**Who is the user?**
+
+* Ciudadanos universitarios/trabajadores que presenten gran cansancio mental luego de largas jornadas de estudio/trabajo
+* Creadores de contenido que toquen temas en específico y ayuden a mejorar el ánimo de su público. 
+
+**Where does our product fit in their work or life?**
+
+El aplicativo encaja tanto en las consecuencias del arduo trabajo o estudio del usuario, como en el estado de ánimo actual que tenga el usuario al interactuar con el producto. 
+
+**What problem does our product solve?**
+
+El producto contrarresta el estrés de los usuarios y ayuda a promover el bienestar mental a través de contenido audiovisual
+
+**When and how is our product used?**
+
+El aplicativo podría usarse en un lapso de descanso que tengan los usuarios al igual que en sus días libres . Para los creadores de contenido, se puede emplear al momento de estrenar nuevo contenido audiovisual. 
+
+**What features are important?**
+
+Que el producto cumpla con recomendar las películas/series/documentales más precisas de acuerdo a la necesidad del usuario que lo requiera.
+
+**How should our product look and behave?**
+
+El producto debe verse amigable con el usuario, funcional y simple de usar, esto con el objetivo que cualquier persona que lo requiera pueda usar la aplicación, sin importar que esté familiarizado con otras plataformas similares o no. 
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+* **Creemos que**  el sistema de recomendación de contenido propuesto por nuestra plataforma hacia nuestros usuarios logrará elevar el estado de ánimo de las personas y aliviará el agobio mental que puedan estar atravesando al momento. **Sabremos que esto es cierto cuando** el porcentaje de usuarios activos en la aplicación aumente en un 20% durante los primeros meses.
+
+* **Creemos que** el impacto que tendría un sistema por el cual los usuarios compartan opiniones acerca de nuestra aplicación será considerable tomando en cuenta la competencia .**Sabremos que hemos tenido éxito cuando** leamos los comentarios positivos por parte de los usuarios publicados en los foros incluidos en la misma plataforma virtual.
+
+* **Creemos que** la ciudadanía en general dará mayor importancia a la salud mental y tomará en cuenta métodos audiovisuales para calmar sus angustias .**Sabremos que hemos tenido éxito cuando** interactuamos con los usuarios y evidenciamos que realizan sus actividades cotidianas con buena actitud
+
+#### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](images/leancanvasUX.JPG)
+
+## 1.3. Segmentos Objetivos
+
+Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los cuales son: 
+
+* **Ciudadano universitario/trabajador promedio:** se considera a un usuario, en el rango de edades de 18 a 50 años aproximadamente, el cual presenta problemas relacionados con cansancio mental a raíz del estrés académico o laboral. 
+* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
