@@ -457,3 +457,7 @@ El diseño de la aplicación será desarrollado con el objetivo de que se pueda 
 De igual manera, se empleará el patrón Z, el cual consiste en que los usuarios comiencen reconociendo el logo de la aplicación en la esquina superior izquierda, seguido de las opciones mostradas al lado derecho. Luego, el usuario podrá ver el contenido principal de la aplicación, y por último se apreciará un footer en la parte inferior, con información de contacto y datos adicionales. 
 
 ![z pattern](images/z-pattern.JPG)
+
+## 4.2. Information Architecture 
+
+En esta sección se establecerá la estructura que seguirá nuestro software según los segmentos objetivos planteados. De igual manera, se definirán elementos los cuales serán empleados para una correcta navegación dentro de la aplicación.
