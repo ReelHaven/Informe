@@ -533,3 +533,9 @@ Sistema de etiquetado que se usará en la aplicación, con el fin de brindar inf
 * **Foros:**  espacio dentro de foros dedicado para promocionar adicionalmente el contenido subido por los creadores.
 
 * **Eventos:**  opción para crear eventos presenciales para el resto de usuarios.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+A continuación se muestran los SEO Tags y los Meta Tags, los cuales son usados con el objetivo de aumentar la visibilidad del Landing Page en los motores de búsqueda. 
+
+![SEO tags](images/seo-tags.JPG)
