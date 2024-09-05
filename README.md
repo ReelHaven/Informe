@@ -278,3 +278,21 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
 
 ## 1.2. Solution Profile
 En esta sección se analizarán cuales son los antecedentes y la problemática acerca del estrés y cansancio mental de las personas luego de realizar actividades cotidianas y cómo el entretenimiento audiovisual está involucrado en el tema . Luego, se examinará la raíz del problema, con ayuda de un proceso UX, el cual ayudará a identificar las necesidades que ayuden a encontrar una solución a la problemática mencionada. 
+
+### 1.2.1. Antecedentes y problemática
+**Quien?** Las personas que estudian, trabajan, o realizan ambas actividades. Se pueden incluir a universitarios que llevan a cabo actividades académicas la mayor parte del día. También se incluyen personas las cuales trabajan arduamente durante el día. O personas que realizan ambas actividades. El rango de personas que cumplen con dichas características suelen variar entre los 18 a 50 años. 
+También se toma en cuenta a creadores de contenido relacionados con el bienestar mental, ya sean directores, productores, actores, etc. Estas personas buscarían formas de difundir su contenido en alguna plataforma.
+
+**Qué?** Los usuarios mencionados presentan cierto nivel de cansancio mental o estrés luego de realizar sus actividades estudiantiles o laborales y no pueden encontrar contenido el cual les ayude no solo a distraerse, sino también a reducir ese nivel de estrés, mejorando así su salud mental. 
+
+**Dónde?** En la ciudad de Lima-Perú  se puede observar a muchas personas que cumplen con las características descritas. Tanto en las calles como en los mismos hogares se puede evidenciar el nivel de cansancio que presentan estas personas.
+
+**Por qué?** El deterioro de salud mental provocado por estrés es un problema creciente en la población, el cual muchas veces no se le da la suficiente atención. Existe una demanda en formas para combatir dicho estrés por medio de entretenimiento visual, los cuales tocan temas que ayudan a regular el bienestar mental de las personas. 
+
+**Cuando?** Se evidencia el problema luego de largas jornadas de trabajo, exámenes, incluso durante tiempos de descanso, ya sean periodos cortos o al momento de retornar a sus hogares.
+
+**Cómo?** Se cree que ciertos contenidos audiovisuales, como películas, series,documentales, pueden ayudar a contrarrestar el cansancio de las personas,  y así cambiar la mentalidad de los usuarios, al igual que su estado de ánimo. 
+
+**Cuánto?** Se considera un sistema de suscripciones el cual ayude a financiar una solución óptima que ofrezca alternativas que ayuden a los usuarios a normalizar su bienestar mental
+
+En conclusión, existe una problemática en la ciudad de Lima relacionada con el deterioro de la salud mental de las personas causadas por el cansancio o estrés luego de realizar actividades laborales y/o académicas durante largas jornadas. De igual manera, se tiene en cuenta que existen medios, como contenido audiovisual (películas, series, documentales), los cuales pueden ayudar a mejorar el ánimo de las personas y de cierta forma aliviar la fatiga mental que pueden tener los usuarios
