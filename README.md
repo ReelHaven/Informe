@@ -569,4 +569,36 @@ Para el aplicativo, se optó por usar una barra de navegación lateral, en la cu
 
 Estas características ayudan a que nuestros usuarios puedan realizar una navegación fácil e intuitiva dentro del producto que se les ofrece. 
 
+## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
+
+En esta sección se muestra la base para el diseño del landing page. Con la ayuda de esta base se nos permitirá tener una idea de cómo se verá cada apartado del landing page y en qué lugar irá cada contenido. 
+
+* **Portada**
+  
+![portada](images/portada-wf.JPG)
+
+* **Beneficios**
+  
+![beneficios](images/beneficios-wf.JPG)
+
+* **Testimonios**
+  
+![testimonios](images/testimonios-wf.JPG)
+
+* **Membresias**
+  
+![membresias](images/membership-wf.JPG)
+
+* **Equipo de Trabajo**
+  
+![equipo](images/equipo-wf.JPG)
+
+* **Contacto**
+  
+![contacto](images/contacto-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1  
+
 
