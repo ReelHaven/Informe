@@ -148,3 +148,130 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
 **Objetivo:** Brindar una plataforma novedosa que ayude a las personas a reducir el estrés y mejorar su bienestar mental mediante recomendaciones personalizadas de contenido audiovisual, a la vez que apoya a los creadores en la difusión de sus proyectos relacionados con la salud mental.
 
 **Misión:** En ReelHaven, nuestra misión es mejorar la vida de nuestros usuarios ofreciéndoles una experiencia de entretenimiento personalizada que impulse su bienestar mental y emocional. Con MindFlix, buscamos crear una comunidad inclusiva y empática, donde los usuarios puedan descubrir contenido inspirador, participar en debates enriquecedores y acceder a recursos adicionales para su bienestar. Al mismo tiempo, promovemos las creaciones de cineastas y productores, impulsando un entorno de colaboración y crecimiento compartido.
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/Piero.JPG" alt="Piero Miranda" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Piero Stephano Miranda Sinarahua
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Me llamo Piero Miranda y actualmente estoy llevando la carrera de Ingeniería de Software. Considero que soy una persona responsable y que puedo aportar al equipo en cualquier aspecto que se requiera. De igual 
+         manera, siento que los conocimientos que he ido adquiriendo en ciclos anteriores serán de gran ayuda para llevar a cabo el presente trabajo.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido: </b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            (nombre)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Description)
+        </td>
+    </tr>
+	  
+</table>
