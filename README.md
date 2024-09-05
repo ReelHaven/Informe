@@ -557,6 +557,16 @@ Dentro de la aplicación de MindFlix, si se pueden encontrar ciertos sistemas de
 
 * **Foros:** se mostrará un filtro con el cual el creador podrá ver las opiniones a de su contenido los cuales tengan mayor calificación. 
 
-* **Eventos:** se apreciará un buscador para que el creador pueda ver que usuarios planean asistir a su evento. 
+* **Eventos:** se apreciará un buscador para que el creador pueda ver que usuarios planean asistir a su evento.
+
+### 4.2.5. Navigation Systems.
+
+A continuación se mencionara los sistemas de navegación que el equipo de diseño tuvo en cuenta tanto para el landing page como para el aplicativo. Estos sistemas ayudarán a que los usuarios puedan trasladarse por distintas secciones con mayor facilidad. 
+
+Para el Landing Page se optó por usar una barra de navegación superior, en la cual se encuentran los respectivos encabezados de cada sección de la página web. Gracias a esta barra de navegación, el usuario no tendrá que hacer una traslación manual por la página, ya que al pulsar sobre cada encabezado será redirigido a la sección correspondiente. 
+
+Para el aplicativo, se optó por usar una barra de navegación lateral, en la cual los usuarios podrán encontrar las distintas páginas con las que cuenta la plataforma y sus respectivas funciones en cada una de ellas. Estas páginas varían entre las etiquetas mencionadas previamente. Dependiendo del usuario, algunas funcionalidades estarán disponibles mientras que otras no. Esto también puede variar dependiendo del nivel de membresía con el que cuente el usuario. 
+
+Estas características ayudan a que nuestros usuarios puedan realizar una navegación fácil e intuitiva dentro del producto que se les ofrece. 
 
 
