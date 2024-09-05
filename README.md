@@ -530,7 +530,9 @@ Sistema de etiquetado que se usará en la aplicación, con el fin de brindar inf
 
 * **Mi contenido:** biblioteca de todo el contenido subido por el creador. 
 
-* **Foros:**  espacio dentro de foros dedicado para promocionar adicionalmente el contenido subido por los creadores.
+* **Explorar:**  espacio dedicado para promocionar adicionalmente el contenido subido por los creadores.
+
+* **Foros:**  foro donde el creador podra ver comentarios acerca de sus producciones y publicaciones. 
 
 * **Eventos:**  opción para crear eventos presenciales para el resto de usuarios.
 
