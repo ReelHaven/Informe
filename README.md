@@ -275,3 +275,6 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
 	  
 </table>
+
+## 1.2. Solution Profile
+En esta sección se analizarán cuales son los antecedentes y la problemática acerca del estrés y cansancio mental de las personas luego de realizar actividades cotidianas y cómo el entretenimiento audiovisual está involucrado en el tema . Luego, se examinará la raíz del problema, con ayuda de un proceso UX, el cual ayudará a identificar las necesidades que ayuden a encontrar una solución a la problemática mencionada. 
