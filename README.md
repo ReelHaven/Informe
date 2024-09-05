@@ -404,3 +404,46 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 # Capítulo IV: Product Design
 
 En esta sección se mostrarán una serie de estilos y características que servirán como guía para la elaboración de nuestra del diseño de nuestra solución. 
+
+## 4.1. Style Guidelines.
+
+### 4.1.1. General Style Guidelines.
+
+* **Brand Overview:** El bienestar mental es una problemática que se hace cada vez mayor en la sociedad de hoy en día. Lamentablemente no muchas personas le dan importancia y muchos de ellos terminan sufriendo las consecuencias sin darse cuenta del todo. 
+Nuestro aplicativo “MindFlix” surge de la idea de dar solución a esta problemática. En nuestra Startup se cree que la relajación mediante contenido audiovisual es una buena técnica para aliviar y tratar el estrés post-trabajo/estudio, si es que el contenido visto es el adecuado para el usuario.
+
+* **Brand Name:** El nombre “MindFlix” nace a partir de las palabras “mind”, que significa mente en inglés, y “flix”, que hace referencia a lo relacionado con películas. El equipo pensó que este nombre sería llamativo y fácil de recordar para los usuarios.
+
+
+El logo diseñado para representar la aplicación es el siguiente:
+
+![MindFlix Logo](images/mindflix-logo.JPG)
+
+* **Colors:** 
+
+![Main Colors](images/main-colors.JPG)
+
+Colores primarios: Los colores Castleton green, Viridian, y Dark Cyan serán los tonos principales de la aplicación. Estos colores se emplearán para los componentes principales del aplicativo. Creemos que estos colores representan seguridad y confianza para los usuarios, lo cual ayudará a generar un buen vínculo entre la persona que interactúe y el producto que les estamos ofreciendo. 
+
+Colores secundarios: Los colores Air Force Blue y Celeste son colores que se emplearán para componentes secundarios y/o fondos que requieran cierta distinción de las pantallas principales de la aplicación. 
+
+![Dark Colors](images/dark-colors.JPG)
+
+Tonos negros/grises: Colores los cuales se empleatan principalmente para los textos
+
+![Light Colors](images/light-colors.JPG)
+
+Tonos blancos: Colores que se usarán mayormente en los fondos de la aplicación.
+
+* **Typography:** La tipografía principal que se decidió usar para el aplicativo es “Inter” de Google Fonts.
+
+![typography](images/typography.JPG)
+
+![typography twp](images/tipography-two.JPG)
+
+* **Spacing:** Estos son los niveles de espaciado que se usarán en el aplicativo. Estos tamaños varían entre múltiplos de 8 pixeles. 
+
+![spacing](images/spacing.JPG)
+
+* **Tono de Comunicación y lenguaje aplicado**
+El tono de comunicación que se usará en el aplicativo será Entusiasta/Sereno. Creemos que usando este tono transmitiremos confianza y seguridad al usuario, el cual busca relajarse y ser tratado de manera que se sienta como y calmado, para así desconectar de las actividades que lo llevaron a sentirse estresado. 
