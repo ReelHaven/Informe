@@ -461,3 +461,35 @@ De igual manera, se empleará el patrón Z, el cual consiste en que los usuarios
 ## 4.2. Information Architecture 
 
 En esta sección se establecerá la estructura que seguirá nuestro software según los segmentos objetivos planteados. De igual manera, se definirán elementos los cuales serán empleados para una correcta navegación dentro de la aplicación.
+
+### 4.2.1. Organization Systems.
+
+En esta sección se explicará en qué grupos de información se aplicará los distintos sistemas de organización visual de contenido para nuestros segmentos objetivos.
+
+**Segmento usuario trabajador/estudiante:**
+
+* **Jerarquica** 
+
+ Lista de recomendaciones: la lista de películas/series/documentales que se le recomiendan al usuario serán mostradas de manera ordenada priorizando las que sean mayormente recomendadas para el usuario. 
+
+* **Secuencial**
+
+Determinar estado de ánimo: para lograr determinar el estado de ánimo del usuario este deberá seguir una serie de pasos en los cuales la aplicación le hará una serie de preguntas con las cuales se podrá saber qué contenido es el más recomendable en ese momento para el usuario. 
+
+* **Matricial**
+
+Menú de opciones: menú principal en el cual el usuario será libre de seleccionar la opción que lo redirija a una sección del aplicativo el cual requiera el usuario, sin tener en cuenta un orden específico. Cada tópico tendrá una función distinta.
+
+**Segmento creador de contenido:**
+
+* **Jerarquica**
+
+Visualización de contenido subido: el contenido que suba el usuario creador, ya sea una película/serie/documental, será mostrado al usuario por fecha en la que esta se subió, empezando por la más reciente.
+
+* **Secuencial** 
+
+Subir nuevo contenido: al momento de subir un nuevo contenido, el usuario creador deberá seguir una serie de pasos en los cuales completará información relacionada con su contenido. Esto ayudará a organizar mejor la biblioteca de películas/series/documentales. 
+
+* **Matricial** 
+
+Menú de opciones: menú principal en el cual el usuario creador será libre de seleccionar la opción que lo redirija a una sección del aplicativo el cual requiera, sin tener en cuenta un orden específico. Cada tópico tendrá una función distinta.
