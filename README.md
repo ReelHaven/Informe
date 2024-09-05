@@ -387,7 +387,7 @@ El producto debe verse amigable con el usuario, funcional y simple de usar, esto
 
 ![Lean UX Canvas](images/leancanvasUX.JPG)
 
-## 1.3. Segmentos Objetivo
+## 1.3. Segmentos Objetivos
 
 Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los cuales son: 
 
