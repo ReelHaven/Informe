@@ -493,3 +493,43 @@ Subir nuevo contenido: al momento de subir un nuevo contenido, el usuario creado
 * **Matricial** 
 
 Menú de opciones: menú principal en el cual el usuario creador será libre de seleccionar la opción que lo redirija a una sección del aplicativo el cual requiera, sin tener en cuenta un orden específico. Cada tópico tendrá una función distinta.
+
+### 4.2.2. Labeling Systems.
+
+Sistema de etiquetado que se usará en el Landing page, con el fin de brindar información clara acerca de cada sección de la página : 
+
+* **Inicio:** sección por defecto en la cual se ve el nombre y logo de la aplicación, al igual que una breve descripción acerca de ella misma.
+
+* **Beneficios:** apartado en el cual se describen los beneficios que brinda la aplicación y las principales características con las que contará el usuario al momento de acceder.
+
+* **Testimonios:** opiniones provenientes de algunos usuarios que ya probaron la aplicación. En esta sección se evidencia la eficacia de cómo influyó el aplicativo en algunos de los segmentos objetivos.
+
+* **Membresias:** Se muestran los niveles de membresías a los que los usuarios pueden acceder si desean probar el software. También se menciona que a que beneficios acceden por cada nivel.
+
+* **Equipo de Trabajo:**  Información acerca del equipo detrás del desarrollo de la aplicación y startup. 
+
+* **Contacto:** Información de contacto en caso que los usuarios requieran interactuar con el equipo de desarrollo directamente.
+
+Sistema de etiquetado que se usará en la aplicación, con el fin de brindar información clara acerca de cada sección del software:
+
+**Para usuarios trabajadores/estudiante:**
+
+* **Inicio:** dashboard donde se mostrará información principal acerca del usuario, como por ejemplo, recomendación de películas, historial, estado de ánimo de los últimos días, etc.
+
+* **Explorar:**  biblioteca de películas, series, documentales a los que podrá acceder el usuario. Este contenido estará visible en distintas categorías. 
+
+* **Listas:** listas personalizadas por el usuario, como por ejemplo, favoritos, ver mas tarde, etc. 
+
+* **Foros:**  foro en el cual los usuarios podrán dar sus opiniones acerca del contenido recomendado por el aplicativo. De igual manera se podrá ver las publicaciones de otros usuarios. 
+
+* **Eventos:**  lista de eventos donde se transmitirán películas en vivo. Los usuarios podrán seleccionar si quieren asistir a alguno.
+
+**Para usuario creador de contenido:**
+
+* **Inicio:** dashboard especial para creador de contenido. Se podrá ver información como el último contenido agregado por el creador, su película/serie/documental con mejor calificación, una opción para añadir nuevo contenido, etc.
+
+* **Mi contenido:** biblioteca de todo el contenido subido por el creador. 
+
+* **Foros:**  espacio dentro de foros dedicado para promocionar adicionalmente el contenido subido por los creadores.
+
+* **Eventos:**  opción para crear eventos presenciales para el resto de usuarios.
