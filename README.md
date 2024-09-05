@@ -279,7 +279,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
 ## 1.2. Solution Profile
 En esta sección se analizarán cuales son los antecedentes y la problemática acerca del estrés y cansancio mental de las personas luego de realizar actividades cotidianas y cómo el entretenimiento audiovisual está involucrado en el tema . Luego, se examinará la raíz del problema, con ayuda de un proceso UX, el cual ayudará a identificar las necesidades que ayuden a encontrar una solución a la problemática mencionada. 
 
-### 1.2.1. Antecedentes y problemática
+### 1.2.1. Antecedentes y problematica
 **Quien?** Las personas que estudian, trabajan, o realizan ambas actividades. Se pueden incluir a universitarios que llevan a cabo actividades académicas la mayor parte del día. También se incluyen personas las cuales trabajan arduamente durante el día. O personas que realizan ambas actividades. El rango de personas que cumplen con dichas características suelen variar entre los 18 a 50 años. 
 También se toma en cuenta a creadores de contenido relacionados con el bienestar mental, ya sean directores, productores, actores, etc. Estas personas buscarían formas de difundir su contenido en alguna plataforma.
 
@@ -296,3 +296,9 @@ También se toma en cuenta a creadores de contenido relacionados con el bienesta
 **Cuánto?** Se considera un sistema de suscripciones el cual ayude a financiar una solución óptima que ofrezca alternativas que ayuden a los usuarios a normalizar su bienestar mental
 
 En conclusión, existe una problemática en la ciudad de Lima relacionada con el deterioro de la salud mental de las personas causadas por el cansancio o estrés luego de realizar actividades laborales y/o académicas durante largas jornadas. De igual manera, se tiene en cuenta que existen medios, como contenido audiovisual (películas, series, documentales), los cuales pueden ayudar a mejorar el ánimo de las personas y de cierta forma aliviar la fatiga mental que pueden tener los usuarios
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+Ciudadanos universitarios y/o trabajadores buscan formas de relajarse y reducir el cansancio mental luego de largas jornadas de estudio/trabajo, pero les suele ser difícil encontrar algún contenido que les ayude a desconectar y aliviar dicha fatiga. Debido a esto, muchos experimentan altos niveles de estrés lo cual produce un deterioro de su salud mental con el tiempo. Si bien existe cierto contenido el cual puede ayudar a los usuarios a contrarrestar este agotamiento mental, no se encuentra una plataforma la cual ofrezca contenido personalizado de acuerdo al estado de ánimo del usuario. Si este problema se resuelve, las personas podrían contar con recursos audiovisuales que le alineen a sus necesidades y les permitan relajarse de forma efectiva, logrando así reducir sus niveles de estrés y mejorando su bienestar mental.
