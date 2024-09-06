@@ -758,4 +758,90 @@ Para lograr el despliegue seguimos lo siguientes pasos:
     </tbody>
 </table>
 
+- #### 5.2.1.2. Sprint Backlog 1
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>US12</td>
+                <td>Visualizar contenido en tamaño de dispositivo</td>
+                <td>01</td>
+                <td>Visualizar contenido en tamaño de dispositivo</td>
+                <td>Como usuario quiero poder acceder a la landing page desde dispositivos de cualquier tamaño Para visualizarla de manera efectiva</td>
+                <td>3 hrs</td>
+                <td>Not assigned yet</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US13</td>
+                <td>Saber los beneficios ofrecidos</td>
+                <td>02</td>
+                <td>Saber los beneficios ofrecidos</td>
+                <td>Como usuario quiero poder acceder a una página dentro de la landing page Para que me explique los servicios ofrecidos.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US14</td>
+                <td>Desplazar de forma efectiva por la web</td>
+                <td>03</td>
+                <td>Desplazar de forma efectiva por la web</td>
+                <td>Como usuario quiero poder desplazarme por la landing page de forma efectiva Para no confundirme y perder tiempo.</td>
+                <td>2 hrs</td>
+                <td>Not assigned yet</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US15</td>
+                <td>Contar con información de contacto</td>
+                <td>04</td>
+                <td>Contar con información de contacto</td>
+                <td>Como usuario quiero poder contar con información de contacto Para comunicarme en caso tenga una consulta</td>
+                <td>3 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US16</td>
+                <td>Redes sociales</td>
+                <td>05</td>
+                <td>Redes sociales</td>
+                <td>Como usuario quiero encontrar las redes sociales de la plataforma Para conocer más sobre sus planes y decisiones.</td>
+                <td>1 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US17</td>
+                <td>Conocer las membresías</td>
+                <td>06</td>
+                <td>Conocer las membresías </td>
+                <td>Como usuario quiero acceder a la información de las membresías desde la landing page Para tomar una decisión informada.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+    </tbody>
+</table>
 
