@@ -576,6 +576,46 @@ Nataly comenta que trabaja en el rubro de psicología y estudia marketing. Su ti
 
 ### **2.2.3. Análisis de entrevistas**
 
+<table border="1">
+    <tr>
+        <td colspan="2" align="center"><b>Características</b></td>
+        <td align="center"><b>Ciudadano universitario/trabajador promedio</b></td>
+        <td align="center"><b>Creador de contenido de salud mental</b></td>
+    </tr>
+    <tr>
+        <td rowspan="3"><b>Objetivas</b></td>
+        <td>Carga laboral y estrés</td>
+        <td>El 100% enfrenta estrés y cansancio mental debido a la carga laboral.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Dificultad para relajarse</td>
+        <td>El 50% tiene problemas para encontrar tiempo para relajarse.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Consumo de Plataformas de Streaming</td>
+        <td>El 50% usa plataformas como Netflix y YouTube para bienestar mental, pero tiene dificultades para encontrar contenido específico.</td>
+        <td>El 50% usa redes sociales para promocionar su contenido de bienestar mental, el resto conoce más plataformas para compartir su contenido</td>
+    </tr>
+    <tr>
+        <td rowspan="3"><b>Subjetivas</b></td>
+        <td>Interés en Contenido de Bienestar Mental</td>
+        <td>El 100% está interesado en contenido para aliviar estrés y cansancio mental.</td>
+        <td>El 100% está interesado en ampliar su audiencia con contenido de bienestar emocional.</td>
+    </tr>
+    <tr>
+        <td>Interés en Terapias y Consejos en Vivo</td>
+        <td>El 50% valora el acceso a terapias y consejos en vivo.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Herramientas de Promoción y Retroalimentación</td>
+        <td>No relevante</td>
+        <td>El 100% busca herramientas para ampliar su público y obtener retroalimentación.</td>
+    </tr>
+</table>
+
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
 En el desarrollo de servicios, comprender a los usuarios es fundamental para diseñar soluciones que realmente satisfagan sus necesidades. Las fichas de User Personas son herramientas que nos permiten entender mejor a nuestros segmentos objetivo. Se realizaron entrevistas y se analizaron con el objetivo de identificar necesidades comunes de los usuarios. De acuerdo a lo obtenido, se crearon perfiles detallados para los dos arquetipos de usuarios.
