@@ -396,6 +396,294 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 
 * **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental.
 
+# Capítulo II: Requirements Elicitation & Analysis
+
+## **2.1. Competidores**
+### **2.1.1. Análisis competitivo**
+
+<table border="1" style="width:100%">
+    <tr>
+        <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <th>Startup y Competidores</th>
+        <th>MindFlix</th>
+        <th>Headspace</th>
+        <th>Calm</th>
+        <th>TeenToks</th>
+    </tr>
+    <tr>
+        <td>Overview</td>
+        <td>Aplicación de contenido relacionado al bienestar mental</td>
+        <td>App de meditaciones guiadas</td>
+        <td>App de meditaciones enfocado en dormir</td>
+        <td>Aplicación de contenido de bienestar hecho por y para adolescentes</td>
+    </tr>
+    <tr>
+        <td>Mercado Objetivo</td>
+        <td>Creadores de contenido, Estudiantes y trabajadores</td>
+        <td>Meditadores principiante</td>
+        <td>Personas que sufren de Insomnio</td>
+        <td>Adolescentes creadores de contenido y consumidores</td>
+    </tr>
+    <tr>
+        <td>Perfil y Estrategias de Marketing</td>
+        <td>Anuncios, Publicidad Boca a boca</td>
+        <td>Anuncios en redes sociales, Búsqueda de Palabras claves, SEO</td>
+        <td>Anuncio en redes sociales usadas por mercado objetivo</td>
+        <td>Publicidad en redes sociales</td>
+    </tr>
+    <tr>
+        <td>Productos y Servicios</td>
+        <td>Consumo de contenido de diferentes creadores</td>
+        <td>Membresías gratis y premium</td>
+        <td>Membresía</td>
+        <td>Contenido de usuario</td>
+    </tr>
+    <tr>
+        <td>Precios y Costos</td>
+        <td>$69.99 Anual por premium</td>
+        <td>$39.99 Anual o $399.99 por vida</td>
+        <td>Gratis con anuncios</td>
+        <td>Gratis</td>
+    </tr>
+    <tr>
+        <td>Canales de Distribución</td>
+        <td>Sitio Web</td>
+        <td>Aplicación Android y iOS</td>
+        <td>Aplicación móvil y canal en YouTube</td>
+        <td>Aplicación móvil</td>
+    </tr>
+    <tr>
+        <td>Fortalezas</td>
+        <td>Contenido creado por usuarios</td>
+        <td>Respaldado por psicólogos</td>
+        <td>Enganche diario de usuarios</td>
+        <td>Segmento definido</td>
+    </tr>
+    <tr>
+        <td>Debilidades</td>
+        <td>Desconocido en el mercado</td>
+        <td>Precio elevado, no hay contenido de usuario</td>
+        <td>No existe versión gratuita</td>
+        <td>Mercado limitado</td>
+    </tr>
+    <tr>
+        <td>Ventaja Competitiva</td>
+        <td>Contenido generado por usuarios de varios formatos</td>
+        <td>Conocido en el mercado</td>
+        <td>Líder de mercado</td>
+        <td>Contenido de Usuario</td>
+    </tr>
+</table>
+
+### **2.1.2. Estrategias y tácticas frente a competidores**
+
+Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos por su contenido de usuario personalizado en cuanto a películas/series/documentales. Además, resalta como una alternativa para creadores de contenido de salud mental que buscan un lugar para difundir sus proyectos, contribuyendo a mejorar el bienestar de un mayor público.
+
+## **2.2. Entrevistas**
+
+### **2.2.1. Diseño de Entrevistas**
+
+#### Formato de Preguntas para Entrevistas (Ambos segmentos)
+
+1. **Introducción (Nombre, Edad)**
+
+2. **Conexión con Problemática**
+   - ¿Estudias, trabajas, o realizas ambas actividades? ¿Cuánta parte de tu día dedicas a ello?
+
+3. **Identificación de Segmento Objetivo**
+   - ¿Presenta problemas relacionados con cansancio mental a raíz del estrés académico/laboral? (Según corresponda)
+   - ¿Conoces de alguien involucrado en la creación de vídeos/películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental?
+
+4. **Familiaridad con Competidores**
+   - ¿Conoces alguna aplicación, página, o red social que ayude a promover el bienestar mental a través de contenido audiovisual? De ser así, ¿cuáles de estas has usado? [Explicación breve del startup]
+
+5. **Estimación de Interés en el Startup**
+   - A partir de lo explicado, ¿te verías utilizando la aplicación descrita? De ser así, ¿qué funcionalidades esperarías de ella?
+
+### **2.2.2. Registro de entrevistas**
+**Entrevista para el "Ciudadano universitario/trabajador promedio":**
+
+**Entrevista N°1:**
+- Nombre: Sergio
+- Apellidos: Licas Rodriguez
+- Edad: 40 años
+- Ubicación: San Borja - Lima
+- Inicio de la Entrevista: 0:00 
+- Duración de la Entrevista: 4:12 min
+
+**Resumen de la Entrevista:**
+  
+El sr. Sergio, trabajador de ayudante de cocina, cuenta que hay muchas semanas en las que debido a la carga laboral suele presentar ciertos niveles de estrés o cansancio mental, y que en muchas ocasiones, le es difícil encontrar un momento para desconectarse y relajarse. También comenta que consume plataformas de contenido vía streaming, como netflix, además de youtube. Él dice encontrar contenido que trate temáticas relacionadas a mejorar en bienestar mental, pero lo encuentra de manera indirecta, y que no es fácil de encontrar películas o series relacionadas a esta temática si las busca por cuenta propia. 
+Luego de comentarle la idea del aplicativo, el sr.Sergio opina qué le parece una buena idea promover contenido que ayude a aliviar problemas de estrés y cansancio mental. También comenta que la idea de los foros le parece buena, y que le gustaría poder ver las distintas opiniones de personas que puedan tener problemas similares a los suyos, saber sus experiencias con el aplicativo y tomar recomendaciones adicionales de ellos. 
+
+![entrevista-uno](images/entrevista-sergio.JPG)
+
+**Entrevista N°2:**
+- Nombre: Angela
+- Apellidos: Ushiñahua Becerra
+- Edad: 23 años
+- Ubicación: Villa el Salvador - Lima
+- Inicio de la Entrevista: 0:02
+- Duración de la Entrevista: 04:43 min
+- Video: https://drive.google.com/file/d/1nnz7haXusitUq_7FSzJiTlytl-_0XCRZ/view?usp=sharing
+
+**Resumen de la Entrevista:**
+
+Ángela nos comenta que trabaja 10 horas al día, lo que le genera estrés y ansiedad, llevándola a depender de medicamentos para dormir. Le interesan soluciones de bienestar mental, aunque no conoce a creadores de contenido en esa área. Ha utilizado una página de Facebook llamada Psicología Mental, que le ayudó temporalmente.
+
+Al escuchar sobre MindFlix, una aplicación diseñada para ayudar a las personas a aliviar el estrés mediante contenido audiovisual, Ángela se mostró interesada. Destacó la importancia de poder acceder a sesiones o terapias en vivo, en cualquier momento del día, ya que su horario laboral no le permite encontrar ayuda en horas convencionales. Para ella, sería clave contar con la posibilidad de recibir consejos o guías de expertos en salud mental, disponibles en cualquier horario, y poder participar en discusiones y acceder a contenido relevante para su bienestar.
+
+![entrevista-dos](images/entrevista-angela.png)
+
+
+**Entrevista para el "Creador de contenido de salud mental":**
+
+**Entrevista N°3:**
+- Nombre: Diego
+- Apellidos: Cacho Seminario
+- Edad: 20 años
+- Ubicación: Surco - Lima
+- Inicio de la Entrevista: 0 .
+- Duración de la Entrevista: 05:00 minutos
+
+**Resumen de la Entrevista:**
+Diego tiene el hobby de producir videos cortos acerca del bienestar emocional y la salud mental. Le interesa una plataforma que lo ayude a agrandar su público a personas interesadas en cambiar su mentalidad. Conocía a uno de nuestro competidores y remarcó la falta de contenido de usuarios. Destacó la importancia de una aplicación simple de usar para los usuarios.
+
+![entrevista-tres](images/entrevista-diego.jpeg)
+
+**Entrevista N°4:**
+- Nombre: Nataly
+- Apellidos: Huarcaya Quispe
+- Edad: 26 años
+- Ubicación: Surco - Lima
+- Inicio de la Entrevista: 0:02
+- Duración de la Entrevista: 02:44
+
+**Resumen de la Entrevista:**
+Nataly comenta que trabaja en el rubro de psicología y estudia marketing. Su tiempo se divide en el trabajo por las mañanas y los estudios por la noche. Es una creadora de contenido que se centra en temas de salud mental y bienestar. Utiliza en su mayoría las redes sociales, para compartir y promocionar su contenido y conocer más creadores que hablen sobre estos temas. Además, menciona que estaría dispuesta a usar la solución web, si puede facilitarle la promoción de su contenido a personas realmente interesadas en el bienestar emocional y recibir retroalimentación de sus consumidores. 
+
+![entrevista-cuatro](images/entrevista-nataly.png)
+
+**Entrevista N°5:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+### **2.2.3. Análisis de entrevistas**
+
+<table border="1">
+    <tr>
+        <td colspan="2" align="center"><b>Características</b></td>
+        <td align="center"><b>Ciudadano universitario/trabajador promedio</b></td>
+        <td align="center"><b>Creador de contenido de salud mental</b></td>
+    </tr>
+    <tr>
+        <td rowspan="3"><b>Objetivas</b></td>
+        <td>Carga laboral y estrés</td>
+        <td>El 100% enfrenta estrés y cansancio mental debido a la carga laboral.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Dificultad para relajarse</td>
+        <td>El 50% tiene problemas para encontrar tiempo para relajarse.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Consumo de Plataformas de Streaming</td>
+        <td>El 50% usa plataformas como Netflix y YouTube para bienestar mental, pero tiene dificultades para encontrar contenido específico.</td>
+        <td>El 50% usa redes sociales para promocionar su contenido de bienestar mental, el resto conoce más plataformas para compartir su contenido</td>
+    </tr>
+    <tr>
+        <td rowspan="3"><b>Subjetivas</b></td>
+        <td>Interés en Contenido de Bienestar Mental</td>
+        <td>El 100% está interesado en contenido para aliviar estrés y cansancio mental.</td>
+        <td>El 100% está interesado en ampliar su audiencia con contenido de bienestar emocional.</td>
+    </tr>
+    <tr>
+        <td>Interés en Terapias y Consejos en Vivo</td>
+        <td>El 50% valora el acceso a terapias y consejos en vivo.</td>
+        <td>No relevante</td>
+    </tr>
+    <tr>
+        <td>Herramientas de Promoción y Retroalimentación</td>
+        <td>No relevante</td>
+        <td>El 100% busca herramientas para ampliar su público y obtener retroalimentación.</td>
+    </tr>
+</table>
+
+## **2.3. Needfinding**
+### **2.3.1. User Personas**
+En el desarrollo de servicios, comprender a los usuarios es fundamental para diseñar soluciones que realmente satisfagan sus necesidades. Las fichas de User Personas son herramientas que nos permiten entender mejor a nuestros segmentos objetivo. Se realizaron entrevistas y se analizaron con el objetivo de identificar necesidades comunes de los usuarios. De acuerdo a lo obtenido, se crearon perfiles detallados para los dos arquetipos de usuarios.
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/user-personas-ciudadano.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+
+![image](images/user-persona-creador.jpg)
+
+### **2.3.2. User Task Matrix**
+
+| Tareas del usuario                                      | Ciudadano universitario/trabajador promedio           | Creador de contenido de salud mental                 |
+|---------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|
+| Búsqueda de plataforma con contenido para relajarse     | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Media<br>Importancia: Media              |
+| Búsqueda de recomendaciones sobre contenido relajante   | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Baja<br>Importancia: Media               |
+| Reproducción del contenido que se adapta a sus necesidades | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Media<br>Importancia: Media              |
+| Recolección de referencias del contenido                | Frecuencia: Baja<br>Importancia: Baja                  | Frecuencia: Alta<br>Importancia: Alta                |
+| Lectura de contenido acerca de la mejora del bienestar  | Frecuencia: Media<br>Importancia: Media                | Frecuencia: Alta<br>Importancia: Alta                |
+| Implementación de consejos o técnicas aprendidas        | Frecuencia: Media<br>Importancia: Alta                 | Frecuencia: Media<br>Importancia: Media              |
+| Gestión de preferencias del contenido que consume       | Frecuencia: Media<br>Importancia: Alta                 | Frecuencia: Media<br>Importancia: Alta               |
+
+El usuario ciudadano trabajador / universitario se enfoca mayormente en la búsqueda y consumo de contenido relajante, evidenciado con una alta importancia en la búsqueda de recomendaciones y reproducción de contenido que se ajuste a sus necesidades. Se interesa en la mejora del bienestar por lo que lee contenido e implementa los consejos. Por otro lado, el segundo segmento, creador de contenido audiovisual, comparte la alta prioridad a la búsqueda de plataformas que ofrezcan contenido relajante, pero le asigna mayor importancia a la recolección de referencias, lectura de técnicas para el bienestar y gestión de preferencias.
+
+### **2.3.3. User Journey Mapping**
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/Ciudadano-trabajador-CJM.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+  
+![image](images/Creador-CJM.jpg)
+
+### **2.3.4. Empathy Mapping**
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/Empathy-map_ciudadano.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+  
+![image](images/Empathy-map_creador.jpg)
+
+### **2.3.5. As-is Scenario Mapping**
+**Ciudadano trabajador / universitario***
+![image](images/As-Is-Scenario_Ciudadano.jpg)
+
+**Creador de contenido audiovisual***
+![image](images/As-Is-Scenario_CreadorContenido.jpg)
+https://miro.com/app/board/uXjVKkQHFZI=/?share_link_id=942422651628
+
+## **2.4. Ubiquitous Language**
+En esta sección se definirá el lenguaje ubicuo para facilitar la comunicación efectiva entre los miembros del equipo de desarrollo y los interesados en el proyecto. Este glosario de términos clave asegura una comprensión clara y un acuerdo común sobre los conceptos fundamentales.
+
+- **Usuario:** Persona que utiliza MindFlix para acceder a contenido audiovisual con el objetivo de mejorar su bienestar mental.
+- **Creador de Contenido:** Persona encargada de producir y subir contenido audiovisual a MindFlix, enfocado en temas de bienestar mental y relajación.
+- **Suscriptor:** Usuario que paga una tarifa para acceder a contenido exclusivo y funciones adicionales en MindFlix.
+- **Recomendación Personalizada:** Sistema de sugerencias automáticas en MindFlix basado en las preferencias y el historial de visualización del usuario.
+- **Contenido Audiovisual:** Material disponible en MindFlix, como películas, series y documentales, diseñado para promover el bienestar mental.
+- **Perfil de Usuario:** Información detallada sobre un usuario en MindFlix, incluyendo historial de visualización, preferencias y niveles de suscripción.
+- **Interacción en la Plataforma:** Actividades realizadas por los usuarios en MindFlix, como dejar comentarios, participar en discusiones y evaluar el contenido.
+- **Métricas de Impacto:** Datos recopilados por MindFlix que evalúan el efecto del contenido en el bienestar mental de los usuarios, como cambios en el estado de ánimo.
+- **Panel de Control:** Herramienta dentro de MindFlix que permite a los usuarios seguir su progreso en el bienestar mental y explorar contenido relacionado.
+
+
+
 # Capítulo III: Requirements Specification
 
 ## **3.1. To-Be Scenario Mapping**
@@ -1901,5 +2189,3 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  ![report-insights](images/insights-report.JPG)
   
  
-
-
