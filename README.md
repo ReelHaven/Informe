@@ -28,7 +28,7 @@
 
 | Version | Fecha    | Autor        | Descripcion de modificacion       |
 |---------|----------|--------------|-----------------------------------|
-|         |          |              |                                   |  
+|   1.0   | 06-09-24 |   Todos  | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
 |         |          |              |                                   |
 |         |          |              |                                   |
 |         |          |              |                                   |
