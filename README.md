@@ -525,6 +525,7 @@ Luego de comentarle la idea del aplicativo, el sr.Sergio opina qué le parece un
 - Ubicación: Villa el Salvador - Lima
 - Inicio de la Entrevista: 0:02
 - Duración de la Entrevista: 04:43 min
+- Video: https://drive.google.com/file/d/1nnz7haXusitUq_7FSzJiTlytl-_0XCRZ/view?usp=sharing
 
 **Resumen de la Entrevista:**
 
