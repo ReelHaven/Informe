@@ -651,7 +651,13 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+![IMG-20240906-WA0010](https://github.com/user-attachments/assets/62652f72-401e-4a40-be6e-2380e892782a)
 
+![IMG-20240906-WA0011](https://github.com/user-attachments/assets/3ac3f4a3-b25d-49ab-a9e8-f5d3838d6785)
+
+![IMG-20240906-WA0012](https://github.com/user-attachments/assets/a57a432b-e9ce-4eac-900b-699646a23eea)
+
+![IMG-20240906-WA0013](https://github.com/user-attachments/assets/ce158f3f-044d-4e3a-8e7f-3193b45e5b11)
 
 ### 4.4.3. Web Applications Mock-ups. 
 
