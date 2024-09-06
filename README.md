@@ -663,7 +663,7 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 ![creator-mu](images/creator-mu.JPG)
 
-![creator-twwo-mu](images/creator-twwo-mu.JPG)
+![creator-twwo-mu](images/creator-two-mu.JPG)
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
