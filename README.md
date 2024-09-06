@@ -245,12 +245,12 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
+           <img src="images/Niurka.jpg" alt="Niurka Huarcaya" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
             <br>
-            (nombre)
+            Niurka Lucero Huarcaya Quispe
         </td>
     </tr>
     <tr>
@@ -264,7 +264,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Niurka Huarcaya, con el código U20221B226 y soy estudiante de Ingeniería de Software. Mi experiencia abarca varios lenguajes de programación, incluyendo C++ y Python, así como bases de datos. Considero que puedo trabajar en armonía con el equipo y escuchar sus ideas para lograr un buen trabajo.
         </td>
     </tr>
     <tr align="center">
