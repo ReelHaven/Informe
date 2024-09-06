@@ -400,3 +400,188 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 
 En esta sección se mencionan las decisiones y convenciones las cuales permitirán mantener una consistencia durante el desarrollo del proyecto. 
 
+### 5.1.1 Software Development Environment Configuration
+
+**Project Management:**
+
+La gestión de los proyectos tiene como objetivo mejorar los procesos y su entorno para alcanzar los resultados esperados.
+
+* **Trello:** Es una herramienta visual que permite gestionar cualquier tipo de proyecto y el flujo de trabajo que el equipo desarrollador seguirá para implementar correctamente las tareas de código para el Landing Page y el web Application.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://trello.com/es </td>
+        </tr>
+    </tbody>
+</table>
+
+**Requirements Management:**
+
+Es el proceso de garantizar que una organización documente verifique y satisfaga las necesidades, expectativas de sus clientes con las partes interesadas internas o externas.
+
+* **Pivotal Tracker:** Esta herramienta se define como una plataforma en la que se realiza la gestión de user stories, agrupándolos en epics y clasificando su presencia en el programa, por puntaje. Se usó porque permite que cada miembro del equipo comparta la misma vista en tiempo real de lo que está sucediendo con cada proyecto, ya sea aportando con diferentes secciones o corrigiendo el flujo del proyecto.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.pivotaltracker.com/  </td>
+        </tr>
+    </tbody>
+</table>
+
+**Product UX/UI Design:**
+
+Nos permite desarrollar el modelo en nuestro producto de manera digital y forme parte de la vida del consumidor. En este caso realizar un modelo de sitio web para computadoras y celulares.
+
+* **Uxpressia:** es una herramienta en línea para el mapeo de la trayectoria del cliente que crea mapas de impacto y personas. Sus herramientas nos permitieron establecer las bases del modelado de User Persona, Empathy Map y Journey Map
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://uxpressia.com/ </td>
+        </tr>
+    </tbody>
+</table>
+
+* **MIRO:** es una pizarra digital colaborativa en línea, que puede ser usada para la investigación, la ideación, la creación de lluvias de ideas, mapas mentales y una variedad de otras actividades colaborativas.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.miro.com/</td>
+        </tr>
+    </tbody>
+</table>
+
+* **Figma:** es una herramienta de prototipo web y editor de gráficos vectorial, que, a diferencia de las otras herramientas, se aloja en la web, permitiendo establecer los modelos para versión en Web Browser y Landing Page.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.figma.com/ </td>
+        </tr>
+    </tbody>
+</table>
+
+* **LucidChart:** es una herramienta de diagramación basada en la web, que permite a los usuarios colaborar y trabajar juntos en tiempo real, creando diseños UML, mapas mentales, prototipos de software y muchos otros tipos de diagrama. 
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://www.lucidchart.com </td>
+        </tr>
+    </tbody>
+</table>
+
+* **Structurizr:** es una herramienta de diseño que soporta el modelo C4, para visualizar la arquitectura de software de nuestra solución. 
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td>https://structurizr.com/ </td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Development:**
+
+Es una estructura aplicada al desarrollo de un producto de software. Se utiliza para el establecimiento de un proceso para el desarrollo de software, cada uno de los cuales describe un enfoque diferente para diferentes actividades que tienen lugar durante el proceso. 
+
+* **Github:** Es un repositorio comunitario cuya función es almacenar los avances de un proyecto elaborado por un grupo de personas.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://github.com/  </td>
+        </tr>
+    </tbody>
+</table>
+
+* **WebStorm:** Es un entorno de JetBrains, empresa desarrolladora de Software. Este nos ofrece facilidad en probar nuestro entorno web en navegadores web. Para el proyecto se implementará la ayuda de los lenguajes HTML, CSS y TypeScript.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://www.jetbrains.com/webstorm/ 
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+* **HTML:** Es un lenguaje que sirve como desarrollador de plataformas web que trabaja con hipertextos, que enlace a otros documentos. Este lenguaje ofrece herramientas para el diseño del sitio web.
+
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://www.jetbrains.com/help/webstorm/editing-html-files.html 
+             </td>
+        </tr>
+    </tbody>
+</table>
+
+* **CSS:** Es un lenguaje de diseño para el entorno web. Permite elaborar el interfaz de usuario diseñada anteriormente, agregando colores, tamaños entre otros elementos. 
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://www.jetbrains.com/help/webstorm/style-sheets.html#ws_css_completion 
+             </td>
+        </tr>
+    </tbody>
+</table>
+
+
+* **TypeScript:** Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://www.typescriptlang.org/ 
+             </td>
+        </tr>
+    </tbody>
+</table>
+
+* **Angular:**  Framework de TypeScript, de código abierto, utilizado para desarrollar SPA(Single Page Application). 
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://angular.io  </td>
+        </tr>
+    </tbody>
+</table>
+
+**Software Testing:**
+
+ Es el acto de examinar los artefactos y el comportamiento del software bajo prueba  mediante validación y verificación.
+
+* **Lenguaje Gherkins:** Es un DSL o Lenguaje Específico de Dominio (Domain-Specific Language), es decir, un lenguaje que está creado para resolver un problema. Además de ser interpretado en código, se puede agregar los users stories del programa con sus respectivas partes: Feature, Scenario, Example, Scenario Outline, Given, When, Then y And.
+
+**Software Development:**
+
+* **Github pages:** Servicio de Github que nos permitió alojar nuestra landing page y nos permitirá alojar nuestro web applications.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link de referencia: </td>
+            <td> https://pages.github.com/ </td>
+        </tr>
+    </tbody>
+</table>
