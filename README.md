@@ -220,12 +220,12 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
+           <img src="images/Gabriel.jpg" alt="Gabriel Lapa" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Gabriel Omar Lapa de la Cruz
         </td>
     </tr>
     <tr>
@@ -239,7 +239,8 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Gabriel Omar Lapa de la Cruz y tengo 23 años. Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera ya que me llamó la atención el desarrollo de diferentes tipos de softwares
+	y aplicaciones. Estoy mayormente acostumbrado al trabajo individual, pero mis responsabilidades pueden ayudar al grupo en lo que sea necesario.
         </td>
     </tr>
     <tr align="center">
