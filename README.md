@@ -12,11 +12,11 @@
 
 ## Integrantes:
 
-* ### 1
-* ### 2
-* ### 3
-* ### 4
-* ### 5
+* ### 1 Piero Miranda
+* ### 2 Sebastian De Las Casas
+* ### 3 Gabriel Lapa
+* ### 4 Niurka Huarcaya
+* ### 5 Johan Bottger
 
 -----
 
