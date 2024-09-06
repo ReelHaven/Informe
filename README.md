@@ -667,6 +667,20 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
+## 4.5. Web Applications Prototyping
+En la creación de los dos flujos de acción de los prototipos, se consideraron las posibles formas en que los usuarios interactúan con la aplicación web. Además, se generó el prototipo de manera interactiva para que gran parte de las secciones puedan garantizar que nuestros usuarios disfruten de una experiencia intuitiva y funcional. También, se tomaron en cuenta los Wireflow Diagrams y las decisiones de arquitectura de información para mejorar la comprensión de cada funcionalidad de la aplicación web.
+
+- Primer segmento: Ciudadano universitario/trabajador promedio
+  
+![web-prototype-one](images/prototype-user.png)
+
+Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-4278&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A4278>
+
+- Segundo segmento: Creador de contenido de salud mental
+
+![web-prototype-one](images/prototype-creator.png)
+
+Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-6042&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A6042>
 
 ## 4.6. Domain Driven Software Architecture.
 - La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con MindFlix, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
