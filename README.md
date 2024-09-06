@@ -898,3 +898,11 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 
 Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+ ![landing-evidence](images/landing-evidence.JPG)
+
+ Vista principal implementada: 
+
+ ![home-evidence](images/home-evidence.JPG)
+
