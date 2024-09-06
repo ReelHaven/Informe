@@ -536,6 +536,8 @@ Al escuchar sobre MindFlix, una aplicación diseñada para ayudar a las personas
 ![entrevista-dos](images/entrevista-angela.png)
 
 
+**Entrevista para el "Creador de contenido de salud mental":**
+
 **Entrevista N°3:**
 - Nombre: Diego
 - Apellidos: Cacho Seminario
@@ -549,27 +551,20 @@ Diego tiene el hobby de producir videos cortos acerca del bienestar emocional y 
 
 ![entrevista-tres](images/entrevista-diego.jpeg)
 
-**Entrevista N°1:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+**Entrevista N°4:**
+- Nombre: Nataly
+- Apellidos: Huarcaya Quispe
+- Edad: 26 años
+- Ubicación: Surco - Lima
+- Inicio de la Entrevista: 0:02
+- Duración de la Entrevista: 02:44
 
 **Resumen de la Entrevista:**
+Nataly comenta que trabaja en el rubro de psicología y estudia marketing. Su tiempo se divide en el trabajo por las mañanas y los estudios por la noche. Es una creadora de contenido que se centra en temas de salud mental y bienestar. Utiliza en su mayoría las redes sociales, para compartir y promocionar su contenido y conocer más creadores que hablen sobre estos temas. Además, menciona que estaría dispuesta a usar la solución web, si puede facilitarle la promoción de su contenido a personas realmente interesadas en el bienestar emocional y recibir retroalimentación de sus consumidores. 
 
-**Entrevista N°2:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+![entrevista-cuatro](images/entrevista-nataly.png)
 
-**Resumen de la Entrevista:**
-
-**Entrevista N°3:**
+**Entrevista N°5:**
 - Nombre: 
 - Apellidos:
 - Edad: 
