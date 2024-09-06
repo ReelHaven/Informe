@@ -662,3 +662,11 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
     - ### 4.6.3. Software Architecture Components Diagrams
     
       ![structurizr-82724-Component-001](https://github.com/user-attachments/assets/14320f16-0c71-4c96-a579-6faea98c21ce)
+
+
+## **4.7. Software Object-Oriented Design**
+### **4.7.1. Class Diagrams**
+![class-diagram](images/class-diagram.png)
+### **4.7.2. Class Dictionary**
+
+
