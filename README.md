@@ -649,6 +649,25 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
+### 4.4.2. Web Applications Mock-ups. 
+
+* Segmento ciudadano trabajador/estudiante:
+  
+![ciudadano-mu](images/ciudadano-mu.JPG)
+
+![ciudadano-two-mu](images/ciudadano-two-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+* Segmento creador de contenido:
+
+![creator-mu](images/creator-mu.JPG)
+
+![creator-twwo-mu](images/creator-twwo-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+
 ## 4.6. Domain Driven Software Architecture.
 - La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con MindFlix, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
     - ### 4.6.1. Software Architecture Context Diagram
