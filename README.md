@@ -479,4 +479,23 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 
 Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos por su contenido de usuario personalizado en cuanto a películas/series/documentales. Además, resalta como una alternativa para creadores de contenido de salud mental que buscan un lugar para difundir sus proyectos, contribuyendo a mejorar el bienestar de un mayor público.
 
+## **2.2. Entrevistas**
 
+### **2.2.1. Diseño de Entrevistas**
+
+#### Formato de Preguntas para Entrevistas (Ambos segmentos)
+
+1. **Introducción (Nombre, Edad)**
+
+2. **Conexión con Problemática**
+   - ¿Estudias, trabajas, o realizas ambas actividades? ¿Cuánta parte de tu día dedicas a ello?
+
+3. **Identificación de Segmento Objetivo**
+   - ¿Presenta problemas relacionados con cansancio mental a raíz del estrés académico/laboral? (Según corresponda)
+   - ¿Conoces de alguien involucrado en la creación de vídeos/películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental?
+
+4. **Familiaridad con Competidores**
+   - ¿Conoces alguna aplicación, página, o red social que ayude a promover el bienestar mental a través de contenido audiovisual? De ser así, ¿cuáles de estas has usado? [Explicación breve del startup]
+
+5. **Estimación de Interés en el Startup**
+   - A partir de lo explicado, ¿te verías utilizando la aplicación descrita? De ser así, ¿qué funcionalidades esperarías de ella?
