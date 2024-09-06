@@ -580,4 +580,15 @@ Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos 
 ![image](images/As-Is-Scenario_CreadorContenido.jpg)
 https://miro.com/app/board/uXjVKkQHFZI=/?share_link_id=942422651628
 
+## **2.4. Ubiquitous Language**
+En esta sección se definirá el lenguaje ubicuo para facilitar la comunicación efectiva entre los miembros del equipo de desarrollo y los interesados en el proyecto. Este glosario de términos clave asegura una comprensión clara y un acuerdo común sobre los conceptos fundamentales.
 
+- **Usuario:** Persona que utiliza MindFlix para acceder a contenido audiovisual con el objetivo de mejorar su bienestar mental.
+- **Creador de Contenido:** Persona encargada de producir y subir contenido audiovisual a MindFlix, enfocado en temas de bienestar mental y relajación.
+- **Suscriptor:** Usuario que paga una tarifa para acceder a contenido exclusivo y funciones adicionales en MindFlix.
+- **Recomendación Personalizada:** Sistema de sugerencias automáticas en MindFlix basado en las preferencias y el historial de visualización del usuario.
+- **Contenido Audiovisual:** Material disponible en MindFlix, como películas, series y documentales, diseñado para promover el bienestar mental.
+- **Perfil de Usuario:** Información detallada sobre un usuario en MindFlix, incluyendo historial de visualización, preferencias y niveles de suscripción.
+- **Interacción en la Plataforma:** Actividades realizadas por los usuarios en MindFlix, como dejar comentarios, participar en discusiones y evaluar el contenido.
+- **Métricas de Impacto:** Datos recopilados por MindFlix que evalúan el efecto del contenido en el bienestar mental de los usuarios, como cambios en el estado de ánimo.
+- **Panel de Control:** Herramienta dentro de MindFlix que permite a los usuarios seguir su progreso en el bienestar mental y explorar contenido relacionado.
