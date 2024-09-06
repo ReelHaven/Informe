@@ -1,22 +1,39 @@
-# Universidad Peruana De Ciencas Aplicadas
+<h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-## Open Source SW51
+<h3 align="center"> Ingeniería de Software </h3>
+<h3 align="center"> Ciclo 2024 - 2 </h3>
 
-![LOGO](logo_upc.png)
+<br>
 
-## "Informe de Trabajo Final"
+<div align="center">
+  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
+</div>
 
-## ReelHaven - MindFlix
+<br>
+<h3 align="center"> Desarrollo de Aplicaciones Open Source - SW51 </h3>
+<h3 align="center"> Profesor: Hugo Allan Mori Paiva </h3>
+<h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
+<h3 align="center"> StartUp: ReelHaven </h3>
 
-## Profesor: Hugo Allan Mori Paiva
+<h3 align="center"> Producto: "MindFlix"</h3>
 
-## Integrantes:
+<div align="center">
 
-* ### 1
-* ### 2
-* ### 3
-* ### 4
-* ### 5
+| Miembro                                |    Código     |
+| :------------------------------------- | :-----------: |
+| Miranda Sinarahua, Piero Stephano      | u20181g752    |
+| De Las Casas Latour, Sebastián         | U202213553    |
+| Lapa de la Cruz, Gabriel Omar          | U202216831    |
+| Bottger Salazar, Johan Karl            | U202210735    |
+| Huarcaya Quispe, Niurka Lucero         | U20221b226    |
+
+
+
+</div>
+
+<h3 align="center"> 2024 </h3>
+
+<br>
 
 -----
 
