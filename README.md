@@ -583,9 +583,47 @@ Diego tiene el hobby de producir videos cortos acerca del bienestar emocional y 
 
 ## **2.3. Needfinding**
 ### **2.3.1. User Personas**
+En el desarrollo de servicios, comprender a los usuarios es fundamental para diseñar soluciones que realmente satisfagan sus necesidades. Las fichas de User Personas son herramientas que nos permiten entender mejor a nuestros segmentos objetivo. Se realizaron entrevistas y se analizaron con el objetivo de identificar necesidades comunes de los usuarios. De acuerdo a lo obtenido, se crearon perfiles detallados para los dos arquetipos de usuarios.
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/user-personas-ciudadano.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+
+![image](images/user-persona-creador.jpg)
+
 ### **2.3.2. User Task Matrix**
+
+| Tareas del usuario                                      | Ciudadano universitario/trabajador promedio           | Creador de contenido de salud mental                 |
+|---------------------------------------------------------|--------------------------------------------------------|------------------------------------------------------|
+| Búsqueda de plataforma con contenido para relajarse     | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Media<br>Importancia: Media              |
+| Búsqueda de recomendaciones sobre contenido relajante   | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Baja<br>Importancia: Media               |
+| Reproducción del contenido que se adapta a sus necesidades | Frecuencia: Alta<br>Importancia: Alta                  | Frecuencia: Media<br>Importancia: Media              |
+| Recolección de referencias del contenido                | Frecuencia: Baja<br>Importancia: Baja                  | Frecuencia: Alta<br>Importancia: Alta                |
+| Lectura de contenido acerca de la mejora del bienestar  | Frecuencia: Media<br>Importancia: Media                | Frecuencia: Alta<br>Importancia: Alta                |
+| Implementación de consejos o técnicas aprendidas        | Frecuencia: Media<br>Importancia: Alta                 | Frecuencia: Media<br>Importancia: Media              |
+| Gestión de preferencias del contenido que consume       | Frecuencia: Media<br>Importancia: Alta                 | Frecuencia: Media<br>Importancia: Alta               |
+
+El usuario ciudadano trabajador / universitario se enfoca mayormente en la búsqueda y consumo de contenido relajante, evidenciado con una alta importancia en la búsqueda de recomendaciones y reproducción de contenido que se ajuste a sus necesidades. Se interesa en la mejora del bienestar por lo que lee contenido e implementa los consejos. Por otro lado, el segundo segmento, creador de contenido audiovisual, comparte la alta prioridad a la búsqueda de plataformas que ofrezcan contenido relajante, pero le asigna mayor importancia a la recolección de referencias, lectura de técnicas para el bienestar y gestión de preferencias.
+
 ### **2.3.3. User Journey Mapping**
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/Ciudadano-trabajador-CJM.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+  
+![image](images/Creador-CJM.jpg)
+
 ### **2.3.4. Empathy Mapping**
+- **Primer segmento: Ciudadano universitario/trabajador promedio**
+  
+![image](images/Empathy-map_ciudadano.jpg)
+
+- **Segundo segmento: Creador de contenido de salud mental**
+  
+![image](images/Empathy-map_creador.jpg)
+
 ### **2.3.5. As-is Scenario Mapping**
 **Ciudadano trabajador / universitario***
 ![image](images/As-Is-Scenario_Ciudadano.jpg)
