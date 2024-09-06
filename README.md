@@ -546,7 +546,7 @@ Al escuchar sobre MindFlix, una aplicación diseñada para ayudar a las personas
 **Resumen de la Entrevista:**
 Diego tiene el hobby de producir videos cortos acerca del bienestar emocional y la salud mental. Le interesa una plataforma que lo ayude a agrandar su público a personas interesadas en cambiar su mentalidad. Conocía a uno de nuestro competidores y remarcó la falta de contenido de usuarios. Destacó la importancia de una aplicación simple de usar para los usuarios.
 
-![entrevista-tres](images/entrevista-diego.png)
+![entrevista-tres](images/entrevista-diego.jpeg)
 
 **Entrevista N°1:**
 - Nombre: 
