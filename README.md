@@ -649,7 +649,7 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
-### 4.4.2. Web Applications Mock-ups. 
+### 4.4.3. Web Applications Mock-ups. 
 
 * Segmento ciudadano trabajador/estudiante:
   
@@ -667,7 +667,7 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
-### 4.4.3. Web Applications User Flow Diagrams
+### 4.4.4. Web Applications User Flow Diagrams
 
 Segmento objetivo: Ciudadanos trabajadores/universitarios
 User Goal: Como usuario, quiero iniciar sesión para ver las recomendaciones.
