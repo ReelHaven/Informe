@@ -909,3 +909,33 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  - #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
  De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
+
+ - #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+ Vistas del Landing Page desplegado en Github Pages: 
+
+ * Home
+
+ ![home-deployed](images/home-landing-deployed.JPG)
+
+ * Beneficios
+
+ ![beneficios-deployed](images/beneficios-landing-deployed.JPG)
+
+ * Testimonios
+
+ ![testimonios-deployed](images/testimonios-landing-deployed.JPG)
+
+ * Membresias 
+
+![membresias-deployed](images/membresias-landing-deployed.JPG)
+
+ * Equipo de trabajo
+
+![team-deployed](images/equipo-landing-deployed.JPG)
+
+ * Contactanos
+
+ ![contacto-deployed](images/contacto-landing-deployed.JPG)
+
+ Link a web desplegada:  https://reelhaven.github.io/Landing-Page/  
