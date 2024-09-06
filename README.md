@@ -271,7 +271,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Mi nombre es Sebastián.
+        Mi nombre es Sebastián De Las Casas, soy estudiante de Ingenieria de Software. Tengo experiencia con lenguajes de programación como python y c++. 
         </td>
     </tr>
 	  
