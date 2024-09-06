@@ -519,14 +519,21 @@ Luego de comentarle la idea del aplicativo, el sr.Sergio opina qué le parece un
 ![entrevista-uno](images/entrevista-sergio.JPG)
 
 **Entrevista N°2:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Nombre: Angela
+- Apellidos: Ushiñahua Becerra
+- Edad: 23 años
+- Ubicación: Villa el Salvador - Lima
+- Inicio de la Entrevista: 0:02
+- Duración de la Entrevista: 04:43 min
 
 **Resumen de la Entrevista:**
+
+Ángela nos comenta que trabaja 10 horas al día, lo que le genera estrés y ansiedad, llevándola a depender de medicamentos para dormir. Le interesan soluciones de bienestar mental, aunque no conoce a creadores de contenido en esa área. Ha utilizado una página de Facebook llamada Psicología Mental, que le ayudó temporalmente.
+
+Al escuchar sobre MindFlix, una aplicación diseñada para ayudar a las personas a aliviar el estrés mediante contenido audiovisual, Ángela se mostró interesada. Destacó la importancia de poder acceder a sesiones o terapias en vivo, en cualquier momento del día, ya que su horario laboral no le permite encontrar ayuda en horas convencionales. Para ella, sería clave contar con la posibilidad de recibir consejos o guías de expertos en salud mental, disponibles en cualquier horario, y poder participar en discusiones y acceder a contenido relevante para su bienestar.
+
+![entrevista-dos](images/entrevista-angela.png)
+
 
 **Entrevista N°3:**
 - Nombre: 
