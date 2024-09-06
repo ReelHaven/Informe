@@ -650,12 +650,33 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero Iniciar sesión a la aplicación webEn el siguiente wireflow, se evidencia el flujo que sigue un usuario para iniciar sesión o crear una cuenta nueva. Para ingresar se solicita el nombre de usuario y contraseña, y para crear una cuenta es necesario los nombres, fecha de nacimiento, número de teléfono, tipo de usuario (creador o no), y correo.
 
 ![IMG-20240906-WA0010](https://github.com/user-attachments/assets/62652f72-401e-4a40-be6e-2380e892782a)
 
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero realizar una búsqueda de recomendaciones sobre contenido relajante.
+
+En el siguiente wireflow se evidencia el uso de la pantalla “User´s mood”, donde el usuario responde tres preguntas acerca de su estado actual. Siguiendo esto se darán recomendaciones guiadas al usuario.
+
 ![IMG-20240906-WA0011](https://github.com/user-attachments/assets/3ac3f4a3-b25d-49ab-a9e8-f5d3838d6785)
 
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero reproducir contenido que se adapte a mis necesidades.
+
+En el siguiente wireflow se evidencia el uso de la sección explorar en dos categorías: Contenido disponible y Contenido reciente.
+
 ![IMG-20240906-WA0012](https://github.com/user-attachments/assets/a57a432b-e9ce-4eac-900b-699646a23eea)
+
+**Segmento Objetivo:** Creador de Contenido
+
+**User Goal:** Como creador de contenido quiero subir un nuevo contenido a la aplicación.
+
+En el siguiente wireflow se evidencia el proceso para subir contenido de usuario como creador de contenido. Se selecciona la opción de Añadir Contenido desde la pantalla de inicio, se completa la información, incluyendo el nombre, la descripción, el enlace, la categoría, la duración, la fecha de lanzamiento y una imagen de portada. Finalmente se comprueba que se subió el contenido en la sección Mi Contenido.
 
 ![IMG-20240906-WA0013](https://github.com/user-attachments/assets/ce158f3f-044d-4e3a-8e7f-3193b45e5b11)
 
