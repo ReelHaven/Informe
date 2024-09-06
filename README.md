@@ -585,3 +585,26 @@ Es una estructura aplicada al desarrollo de un producto de software. Se utiliza 
         </tr>
     </tbody>
 </table>
+
+### 5.1.2 Source Code Management
+
+En esta sección se presenta la gestión de código fuente o como es conocido por sus siglas en inglés SCM (Source Code Management). Su función principal es realizar un seguimiento de las modificaciones que el equipo realizará a lo largo del desarrollo de sus proyectos en los repositorios de código fuente. Se emplea como un sistema de control de versiones que permite dar seguimiento a los cambios que cada integrante o desarrollador realice en el proyecto. Asimismo, cabe resaltar que para el sistema de control de versiones emplearemos GitHub.
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link al repositorio de la Organización: </td>
+            <td>  https://github.com/ReelHaven  </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>Link al repositorio del Landing page </td>
+            <td> https://github.com/ReelHaven/Landing-Page 
+             </td>
+        </tr>
+    </tbody>
+</table>
