@@ -250,12 +250,12 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;" width="800"/>
+            <img src="images/Johan.png" alt="nombre" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Johan Karl Bottger Salazar
         </td>
     </tr>
     <tr>
@@ -269,7 +269,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       (Description)
+       Soy Johan Bottger, estoy en mi sexto ciclo de la carrera Ingeniería de Software en la UPC. Tengo conocimientos en los lenguajes C++, Python, JavaScript y HTML. Tengo gran interés en las metodologías ágiles por lo que en un futuro quisiera dedicarme a su implementación.
         </td>
     </tr>
     <tr align="center">
