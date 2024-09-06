@@ -499,3 +499,70 @@ Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos 
 
 5. **Estimación de Interés en el Startup**
    - A partir de lo explicado, ¿te verías utilizando la aplicación descrita? De ser así, ¿qué funcionalidades esperarías de ella?
+
+### **2.2.2. Registro de entrevistas**
+**Entrevista para el "Ciudadano universitario/trabajador promedio":**
+
+**Entrevista N°1:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+**Entrevista N°2:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+**Entrevista N°3:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+**Entrevista para el "Creador de contenido de salud mental":**
+
+**Entrevista N°1:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+**Entrevista N°2:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+**Entrevista N°3:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+### **2.2.3. Análisis de entrevistas**
