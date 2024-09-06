@@ -113,7 +113,9 @@ A continuación, la realización de los user stories con sus criterios de acepta
 
 - [3.3. Impact Mapping](#33-impact-mapping)
 - Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. Nos permitirá identificar claramente los resultados deseados, los comportamientos esperados de nuestros usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, podremos alinear mejor nuestras actividades con nuestros objetivos, tomar decisiones más informadas y maximizar el impacto de nuestro proyecto.
-- 
+  
+![Impact map Mindflix1](https://github.com/user-attachments/assets/57a6eab9-ae70-4f41-a071-9a5156b81d16)
+
 - [3.4. Product Backlog](#34-product-backlog)
   
 | Orden | User Story ID | Título | Descripción | Story Points |
