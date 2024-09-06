@@ -573,3 +573,11 @@ Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos 
 ### **2.3.3. User Journey Mapping**
 ### **2.3.4. Empathy Mapping**
 ### **2.3.5. As-is Scenario Mapping**
+**Ciudadano trabajador / universitario***
+![image](images/As-Is-Scenario_Ciudadano.jpg)
+
+**Creador de contenido audiovisual***
+![image](images/As-Is-Scenario_CreadorContenido.jpg)
+https://miro.com/app/board/uXjVKkQHFZI=/?share_link_id=942422651628
+
+
