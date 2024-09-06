@@ -2188,4 +2188,14 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  ![report-insights](images/insights-report.JPG)
   
- 
+
+ **VIDEOS:**
+
+ * Presentacion del trabajo:
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+* Entrevistas:
+
+  Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
