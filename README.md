@@ -939,3 +939,15 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  ![contacto-deployed](images/contacto-landing-deployed.JPG)
 
  Link a web desplegada:  https://reelhaven.github.io/Landing-Page/  
+
+- #### 5.2.1.8. Team Collaboration Insights during Sprint.
+  * Para Landing Page:
+  
+![landing-insights](images/insights-landing.JPG)
+ 
+  * Para informe de trabajo:
+
+ ![report-insights](images/insights-report.JPG)
+  
+ 
+    
