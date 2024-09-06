@@ -439,13 +439,13 @@ A continuación, la realización de los user stories con sus criterios de acepta
 |US16|Redes sociales|Como usuario quiero encontrar las redes sociales de la plataforma Para conocer más sobre sus planes y decisiones.|Happy Path: Given el usuario quiere ver las redes sociales de la plataforma.<br>When el usuario haga click en los iconos de la respectiva red en la landing page.<br>Then el usuario será redireccionado a las páginas de la red social de la plataforma.<br>Unhappy Path: Given el usuario quiere ver las redes sociales de la plataforma.<br>When el usuario haga click en los iconos de la respectiva red en la landing page.<br>Then el usuario no será redireccionado a las páginas de la red social de la plataforma.<br>|EP05|
 |US17|Conocer las membresías|Como usuario quiero acceder a la información de las membresías desde la landing page Para tomar una decisión informada.|Happy Path: Given el usuario quiere conocer las membresías disponibles.<br>When el usuario haga click en la pestaña “membresías”.<br>Then se encontrará con toda la información de las membresías disponibles.<br>Unhappy Path: Given el usuario quiere conocer las membresías disponibles.<br>When el usuario haga click en la pestaña “membresías”.<br>Then no se encontrará con toda la información de las membresías disponibles.<br>|EP05|
 
-##**3.3. Impact Mapping**
+## **3.3. Impact Mapping**
 
 - Impact Mapping es una herramienta poderosa que nos ayudará a visualizar y planificar cómo nuestro proyecto puede generar un impacto significativo en nuestros usuarios y en nuestro objetivo final. Nos permitirá identificar claramente los resultados deseados, los comportamientos esperados de nuestros usuarios y las acciones necesarias para alcanzar esos objetivos. Al utilizar Impact Mapping, podremos alinear mejor nuestras actividades con nuestros objetivos, tomar decisiones más informadas y maximizar el impacto de nuestro proyecto.
   
 ![Impact map Mindflix1](https://github.com/user-attachments/assets/57a6eab9-ae70-4f41-a071-9a5156b81d16)
 
-##**3.4. Product Backlog**
+## **3.4. Product Backlog**
 
 | Orden | User Story ID | Título | Descripción | Story Points |
 |-------|---------------|--------|-------------|--------------|
