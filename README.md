@@ -393,8 +393,8 @@ El producto debe verse amigable con el usuario, funcional y simple de usar, esto
 Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los cuales son: 
 
 * **Ciudadano universitario/trabajador promedio:** se considera a un usuario, en el rango de edades de 18 a 50 años aproximadamente, el cual presenta problemas relacionados con cansancio mental a raíz del estrés académico o laboral. 
-* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
 
+* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental.
 
 # Capítulo III: Requirements Specification
 
@@ -468,6 +468,882 @@ A continuación, la realización de los user stories con sus criterios de acepta
 15|US15|Contar con información de contacto|Como usuario quiero poder contar con información de contacto Para comunicarme en caso tenga una consulta.|1
 16|US16|Redes sociales|Como usuario quiero encontrar las redes sociales de la plataforma Para conocer más sobre sus planes y decisiones.|2|
 17|US17|Conocer las membresías|Como usuario quiero acceder a la información de las membresías desde la landing page Para tomar una decisión informada.|2|
+
+
+
+
+
+
+# Capítulo IV: Product Design
+
+En esta sección se mostrarán una serie de estilos y características que servirán como guía para la elaboración de nuestra del diseño de nuestra solución. 
+
+## 4.1. Style Guidelines.
+
+### 4.1.1. General Style Guidelines.
+
+* **Brand Overview:** El bienestar mental es una problemática que se hace cada vez mayor en la sociedad de hoy en día. Lamentablemente no muchas personas le dan importancia y muchos de ellos terminan sufriendo las consecuencias sin darse cuenta del todo. 
+Nuestro aplicativo “MindFlix” surge de la idea de dar solución a esta problemática. En nuestra Startup se cree que la relajación mediante contenido audiovisual es una buena técnica para aliviar y tratar el estrés post-trabajo/estudio, si es que el contenido visto es el adecuado para el usuario.
+
+* **Brand Name:** El nombre “MindFlix” nace a partir de las palabras “mind”, que significa mente en inglés, y “flix”, que hace referencia a lo relacionado con películas. El equipo pensó que este nombre sería llamativo y fácil de recordar para los usuarios.
+
+
+El logo diseñado para representar la aplicación es el siguiente:
+
+![MindFlix Logo](images/mindflix-logo.JPG)
+
+* **Colors:** 
+
+![Main Colors](images/main-colors.JPG)
+
+Colores primarios: Los colores Castleton green, Viridian, y Dark Cyan serán los tonos principales de la aplicación. Estos colores se emplearán para los componentes principales del aplicativo. Creemos que estos colores representan seguridad y confianza para los usuarios, lo cual ayudará a generar un buen vínculo entre la persona que interactúe y el producto que les estamos ofreciendo. 
+
+Colores secundarios: Los colores Air Force Blue y Celeste son colores que se emplearán para componentes secundarios y/o fondos que requieran cierta distinción de las pantallas principales de la aplicación. 
+
+![Dark Colors](images/dark-colors.JPG)
+
+Tonos negros/grises: Colores los cuales se empleatan principalmente para los textos
+
+![Light Colors](images/light-colors.JPG)
+
+Tonos blancos: Colores que se usarán mayormente en los fondos de la aplicación.
+
+* **Typography:** La tipografía principal que se decidió usar para el aplicativo es “Inter” de Google Fonts.
+
+![typography](images/typography.JPG)
+
+![typography twp](images/tipography-two.JPG)
+
+* **Spacing:** Estos son los niveles de espaciado que se usarán en el aplicativo. Estos tamaños varían entre múltiplos de 8 pixeles. 
+
+![spacing](images/spacing.JPG)
+
+* **Tono de Comunicación y lenguaje aplicado**
+El tono de comunicación que se usará en el aplicativo será Entusiasta/Sereno. Creemos que usando este tono transmitiremos confianza y seguridad al usuario, el cual busca relajarse y ser tratado de manera que se sienta como y calmado, para así desconectar de las actividades que lo llevaron a sentirse estresado. 
+
+### 4.1.2. Web Style Guidelines. 
+
+El diseño de la aplicación será desarrollado con el objetivo de que se pueda visualizar, de manera adecuada, desde cualquier dispositivo con el que interactúe el usuario. Estos mayormente serán dispositivos móviles, tablets o computadoras. Se tendrá en cuenta las medidas de cada uno para que así la estructura de la aplicación se adecúe a ellas, sin deformar el contenido. 
+
+![web style](images/web-styles-guidelines.JPG)
+
+De igual manera, se empleará el patrón Z, el cual consiste en que los usuarios comiencen reconociendo el logo de la aplicación en la esquina superior izquierda, seguido de las opciones mostradas al lado derecho. Luego, el usuario podrá ver el contenido principal de la aplicación, y por último se apreciará un footer en la parte inferior, con información de contacto y datos adicionales. 
+
+![z pattern](images/z-pattern.JPG)
+
+## 4.2. Information Architecture 
+
+En esta sección se establecerá la estructura que seguirá nuestro software según los segmentos objetivos planteados. De igual manera, se definirán elementos los cuales serán empleados para una correcta navegación dentro de la aplicación.
+
+### 4.2.1. Organization Systems.
+
+En esta sección se explicará en qué grupos de información se aplicará los distintos sistemas de organización visual de contenido para nuestros segmentos objetivos.
+
+**Segmento usuario trabajador/estudiante:**
+
+* **Jerarquica** 
+
+ Lista de recomendaciones: la lista de películas/series/documentales que se le recomiendan al usuario serán mostradas de manera ordenada priorizando las que sean mayormente recomendadas para el usuario. 
+
+* **Secuencial**
+
+Determinar estado de ánimo: para lograr determinar el estado de ánimo del usuario este deberá seguir una serie de pasos en los cuales la aplicación le hará una serie de preguntas con las cuales se podrá saber qué contenido es el más recomendable en ese momento para el usuario. 
+
+* **Matricial**
+
+Menú de opciones: menú principal en el cual el usuario será libre de seleccionar la opción que lo redirija a una sección del aplicativo el cual requiera el usuario, sin tener en cuenta un orden específico. Cada tópico tendrá una función distinta.
+
+**Segmento creador de contenido:**
+
+* **Jerarquica**
+
+Visualización de contenido subido: el contenido que suba el usuario creador, ya sea una película/serie/documental, será mostrado al usuario por fecha en la que esta se subió, empezando por la más reciente.
+
+* **Secuencial** 
+
+Subir nuevo contenido: al momento de subir un nuevo contenido, el usuario creador deberá seguir una serie de pasos en los cuales completará información relacionada con su contenido. Esto ayudará a organizar mejor la biblioteca de películas/series/documentales. 
+
+* **Matricial** 
+
+Menú de opciones: menú principal en el cual el usuario creador será libre de seleccionar la opción que lo redirija a una sección del aplicativo el cual requiera, sin tener en cuenta un orden específico. Cada tópico tendrá una función distinta.
+
+### 4.2.2. Labeling Systems.
+
+Sistema de etiquetado que se usará en el Landing page, con el fin de brindar información clara acerca de cada sección de la página : 
+
+* **Inicio:** sección por defecto en la cual se ve el nombre y logo de la aplicación, al igual que una breve descripción acerca de ella misma.
+
+* **Beneficios:** apartado en el cual se describen los beneficios que brinda la aplicación y las principales características con las que contará el usuario al momento de acceder.
+
+* **Testimonios:** opiniones provenientes de algunos usuarios que ya probaron la aplicación. En esta sección se evidencia la eficacia de cómo influyó el aplicativo en algunos de los segmentos objetivos.
+
+* **Membresias:** Se muestran los niveles de membresías a los que los usuarios pueden acceder si desean probar el software. También se menciona que a que beneficios acceden por cada nivel.
+
+* **Equipo de Trabajo:**  Información acerca del equipo detrás del desarrollo de la aplicación y startup. 
+
+* **Contacto:** Información de contacto en caso que los usuarios requieran interactuar con el equipo de desarrollo directamente.
+
+Sistema de etiquetado que se usará en la aplicación, con el fin de brindar información clara acerca de cada sección del software:
+
+**Para usuarios trabajadores/estudiante:**
+
+* **Inicio:** dashboard donde se mostrará información principal acerca del usuario, como por ejemplo, recomendación de películas, historial, estado de ánimo de los últimos días, etc.
+
+* **Explorar:**  biblioteca de películas, series, documentales a los que podrá acceder el usuario. Este contenido estará visible en distintas categorías. 
+
+* **Listas:** listas personalizadas por el usuario, como por ejemplo, favoritos, ver mas tarde, etc. 
+
+* **Foros:**  foro en el cual los usuarios podrán dar sus opiniones acerca del contenido recomendado por el aplicativo. De igual manera se podrá ver las publicaciones de otros usuarios. 
+
+* **Eventos:**  lista de eventos donde se transmitirán películas en vivo. Los usuarios podrán seleccionar si quieren asistir a alguno.
+
+**Para usuario creador de contenido:**
+
+* **Inicio:** dashboard especial para creador de contenido. Se podrá ver información como el último contenido agregado por el creador, su película/serie/documental con mejor calificación, una opción para añadir nuevo contenido, etc.
+
+* **Mi contenido:** biblioteca de todo el contenido subido por el creador. 
+
+* **Explorar:**  espacio dedicado para promocionar adicionalmente el contenido subido por los creadores.
+
+* **Foros:**  foro donde el creador podra ver comentarios acerca de sus producciones y publicaciones. 
+
+* **Eventos:**  opción para crear eventos presenciales para el resto de usuarios.
+
+### 4.2.3. SEO Tags and Meta Tags
+
+A continuación se muestran los SEO Tags y los Meta Tags, los cuales son usados con el objetivo de aumentar la visibilidad del Landing Page en los motores de búsqueda. 
+
+![SEO tags](images/seo-tags.JPG)
+
+### 4.2.4. Searching Systems.
+
+Para el Landing Page no se incluyó un sistema de búsqueda dedicado, ya que toda la información que se proporciona está segmentada y se puede acceder a un punto en específico gracias a la barra de navegación. 
+
+Dentro de la aplicación de MindFlix, si se pueden encontrar ciertos sistemas de búsqueda los cuales ayudará a los usuarios a encontrar información específica de manera más eficaz.
+
+**Para segmento usuario trabajador/estudiante:** 
+* **Explorar contenido:** un filtro con en la cual el usuario pueda buscar una categoría de películas/series/documentales en específico.
+
+* **Foros:** una barra de búsqueda en la cual el usuario pueda buscar opiniones sobre una película/serie/documental en específico.
+
+* **Eventos:** se podrán filtrar los eventos por fechas, desde los más próximos hasta los más lejanos. 
+
+**Para segmento creador de contenido:**
+
+* **Foros:** se mostrará un filtro con el cual el creador podrá ver las opiniones a de su contenido los cuales tengan mayor calificación. 
+
+* **Eventos:** se apreciará un buscador para que el creador pueda ver que usuarios planean asistir a su evento.
+
+### 4.2.5. Navigation Systems.
+
+A continuación se mencionara los sistemas de navegación que el equipo de diseño tuvo en cuenta tanto para el landing page como para el aplicativo. Estos sistemas ayudarán a que los usuarios puedan trasladarse por distintas secciones con mayor facilidad. 
+
+Para el Landing Page se optó por usar una barra de navegación superior, en la cual se encuentran los respectivos encabezados de cada sección de la página web. Gracias a esta barra de navegación, el usuario no tendrá que hacer una traslación manual por la página, ya que al pulsar sobre cada encabezado será redirigido a la sección correspondiente. 
+
+Para el aplicativo, se optó por usar una barra de navegación lateral, en la cual los usuarios podrán encontrar las distintas páginas con las que cuenta la plataforma y sus respectivas funciones en cada una de ellas. Estas páginas varían entre las etiquetas mencionadas previamente. Dependiendo del usuario, algunas funcionalidades estarán disponibles mientras que otras no. Esto también puede variar dependiendo del nivel de membresía con el que cuente el usuario. 
+
+Estas características ayudan a que nuestros usuarios puedan realizar una navegación fácil e intuitiva dentro del producto que se les ofrece. 
+
+## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
+
+En esta sección se muestra la base para el diseño del landing page. Con la ayuda de esta base se nos permitirá tener una idea de cómo se verá cada apartado del landing page y en qué lugar irá cada contenido. 
+
+* **Portada**
+  
+![portada](images/portada-wf.JPG)
+
+* **Beneficios**
+  
+![beneficios](images/beneficios-wf.JPG)
+
+* **Testimonios**
+  
+![testimonios](images/testimonios-wf.JPG)
+
+* **Membresias**
+  
+![membresias](images/membership-wf.JPG)
+
+* **Equipo de Trabajo**
+  
+![equipo](images/equipo-wf.JPG)
+
+* **Contacto**
+  
+![contacto](images/contacto-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1  
+
+### 4.3.2. Landing Page Mock-up.
+
+* **Portada**
+
+![portada](images/portada-mu.JPG)
+
+* **Beneficios**
+
+![beneficios](images/beneficios-mu.JPG)
+
+* **Testimonios**
+
+![testimonios](images/testimonios-mu.JPG)
+
+* **Membresias**
+
+![membresias](images/membership-mu.JPG)
+
+* **Equipo de Trabajo**
+
+![equipo](images/equipo-mu.JPG)
+
+* **Contacto**
+
+![contacto](images/contacto-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes. 
+* Segmento ciudadano trabajador/estudiante:
+  
+![web-wireframes-one](images/ciudadano-segmento-wf.JPG)
+
+![web-wireframes-one](images/ciudadano-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+* Segmento creador de contenido:
+
+![web-wireframes-one](images/creator-segmento-wf.JPG)
+
+![web-wireframes-one](images/creator-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+### 4.4.2. Web Applications Wireflow Diagrams
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero Iniciar sesión a la aplicación webEn el siguiente wireflow, se evidencia el flujo que sigue un usuario para iniciar sesión o crear una cuenta nueva. Para ingresar se solicita el nombre de usuario y contraseña, y para crear una cuenta es necesario los nombres, fecha de nacimiento, número de teléfono, tipo de usuario (creador o no), y correo.
+
+![IMG-20240906-WA0010](https://github.com/user-attachments/assets/62652f72-401e-4a40-be6e-2380e892782a)
+
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero realizar una búsqueda de recomendaciones sobre contenido relajante.
+
+En el siguiente wireflow se evidencia el uso de la pantalla “User´s mood”, donde el usuario responde tres preguntas acerca de su estado actual. Siguiendo esto se darán recomendaciones guiadas al usuario.
+
+![IMG-20240906-WA0011](https://github.com/user-attachments/assets/3ac3f4a3-b25d-49ab-a9e8-f5d3838d6785)
+
+**Segmento Objetivo:** Ciudadanos universitarios/trabajadores
+
+**User Goal:** Como usuario quiero reproducir contenido que se adapte a mis necesidades.
+
+En el siguiente wireflow se evidencia el uso de la sección explorar en dos categorías: Contenido disponible y Contenido reciente.
+
+![IMG-20240906-WA0012](https://github.com/user-attachments/assets/a57a432b-e9ce-4eac-900b-699646a23eea)
+
+**Segmento Objetivo:** Creador de Contenido
+
+**User Goal:** Como creador de contenido quiero subir un nuevo contenido a la aplicación.
+
+En el siguiente wireflow se evidencia el proceso para subir contenido de usuario como creador de contenido. Se selecciona la opción de Añadir Contenido desde la pantalla de inicio, se completa la información, incluyendo el nombre, la descripción, el enlace, la categoría, la duración, la fecha de lanzamiento y una imagen de portada. Finalmente se comprueba que se subió el contenido en la sección Mi Contenido.
+
+![IMG-20240906-WA0013](https://github.com/user-attachments/assets/ce158f3f-044d-4e3a-8e7f-3193b45e5b11)
+
+### 4.4.3. Web Applications Mock-ups. 
+
+* Segmento ciudadano trabajador/estudiante:
+  
+![ciudadano-mu](images/ciudadano-mu.JPG)
+
+![ciudadano-two-mu](images/ciudadano-two-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+* Segmento creador de contenido:
+
+![creator-mu](images/creator-mu.JPG)
+
+![creator-twwo-mu](images/creator-two-mu.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+### 4.4.4. Web Applications User Flow Diagrams
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario, quiero iniciar sesión para ver las recomendaciones.
+
+* En este User Flow, el usuario ingresa sus credenciales para iniciar sesión. Si tiene cuenta, completa un formulario de bienestar antes de acceder a la interfaz principal. Si no, se registra, inicia sesión, completa el formulario y luego accede a la interfaz donde se visualiza las recomendaciones según su estado.
+
+![image](images/userflow-1.png)
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario, quiero reproducir contenido que se ajusten a mis preferencias según mi estado de ánimo.
+
+* En este User Flow, el usuario visualiza la opción “Explorar”, lo selecciona y puede escoger si quiere ver el contenido que hay disponible o lo más reciente subido por los creadores de contenido.
+
+![image](images/userflow-2.png)
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario quiero categorizar el contenido en listas según mis preferencias
+
+* En este User Flow, el usuario visualiza la opción “Listas”, lo selecciona y escoge como lo quiere categorizar, como “Favoritos”, “Ver más tarde” y “Pendiente”, según lo que prefiera.
+
+![image](images/userflow-3.png)
+
+Segmento objetivo: Creadores de contenido audiovisual
+User Goal: Como creador de contenido, quiero compartir mi contenido con los usuarios
+
+* En este User Flow, el creador de contenido quiere mostrar a los usuarios su nuevo contenido para ellos. Por lo tanto, añade contenido pulsando el botón “Añadir contenido”, donde detalla su nuevo contenido. Lo podrá visualizar en el apartado de “Mi contenido”.
+
+![image](images/userflow-4.png)
+
+https://lucid.app/lucidchart/9e585c86-46d8-4b2b-8164-171dc7389447/edit?invitationId=inv_af682ab9-6ffb-4ef4-8ca2-5ce276061cc7
+
+## 4.5. Web Applications Prototyping
+En la creación de los dos flujos de acción de los prototipos, se consideraron las posibles formas en que los usuarios interactúan con la aplicación web. Además, se generó el prototipo de manera interactiva para que gran parte de las secciones puedan garantizar que nuestros usuarios disfruten de una experiencia intuitiva y funcional. También, se tomaron en cuenta los Wireflow Diagrams y las decisiones de arquitectura de información para mejorar la comprensión de cada funcionalidad de la aplicación web.
+
+- Primer segmento: Ciudadano universitario/trabajador promedio
+  
+![web-prototype-one](images/prototype-user.png)
+
+Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-4278&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A4278>
+
+- Segundo segmento: Creador de contenido de salud mental
+
+![web-prototype-one](images/prototype-creator.png)
+
+Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-6042&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A6042>
+
+## 4.6. Domain Driven Software Architecture.
+- La arquitectura de software orientada al dominio es un enfoque de diseño que se centra en la estructura y organización del software en torno a los conceptos y procesos clave de un dominio específico. Este enfoque nos permite crear sistemas que reflejen con precisión los requisitos y la lógica del negocio, lo que facilita la implementación de funcionalidades específicas y la adaptación a los cambios en el dominio. Con MindFlix, utilizamos una arquitectura de software orientada al dominio para estructurar nuestro sistema de manera coherente y escalable, lo que nos permitirá desarrollar una aplicación robusta y fácil de mantener.
+    - ### 4.6.1. Software Architecture Context Diagram
+      
+      ![structurizr-82724-SystemContext-001](https://github.com/user-attachments/assets/504962e6-59dd-4ff4-9866-f99d0e2b6c1d)
+      
+    - ### 4.6.2. Software Architecture Container Diagrams
+      
+      ![structurizr-82724-Container-001](https://github.com/user-attachments/assets/e21413d0-a6e5-414f-b025-00936dbd77da)
+
+    - ### 4.6.3. Software Architecture Components Diagrams
+    
+      ![structurizr-82724-Component-001](https://github.com/user-attachments/assets/14320f16-0c71-4c96-a579-6faea98c21ce)
+
+
+## **4.7. Software Object-Oriented Design**
+### **4.7.1. Class Diagrams**
+![class-diagram](images/class-diagram.png)
+
+### **4.7.2. Class Dictionary**
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: red; color: white;">N</th>
+      <th style="background-color: red; color: white;">Entidad</th>
+      <th style="background-color: red; color: white;">Nombre de Atributos</th>
+      <th style="background-color: red; color: white;">Definición</th>
+      <th style="background-color: red; color: white;">Tipo de Dato</th>
+      <th style="background-color: red; color: white;">Rango</th>
+      <th style="background-color: red; color: white;">Unidad de Medida</th>
+      <th style="background-color: red; color: white;">Valores Restringidos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>User</td>
+      <td>user_id</td>
+      <td>Identificador único del usuario</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>name</td>
+      <td>Nombre del usuario</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>email</td>
+      <td>Correo electrónico del usuario</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Debe seguir el formato de correo electrónico</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>age</td>
+      <td>Edad del usuario</td>
+      <td>int</td>
+      <td>0 a 120</td>
+      <td>Años</td>
+      <td>Permite valores enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>mood</td>
+      <td>Estado emocional del usuario</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>user_type</td>
+      <td>Tipo de usuario (normal/admin)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Normal, Admin</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>subscription_level</td>
+      <td>Nivel de suscripción del usuario</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Standard, Premium, Platinum</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Profile</td>
+      <td>profile_id</td>
+      <td>Identificador único del perfil</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>bio</td>
+      <td>Biografía del usuario</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>profile_picture</td>
+      <td>URL de la imagen de perfil</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>URL</td>
+      <td>Debe seguir el formato de URL</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>social_links</td>
+      <td>Enlaces sociales del usuario</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>URL</td>
+      <td>Debe seguir el formato de URL</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>ContentCreator</td>
+      <td>creator_id</td>
+      <td>Identificador único del creador de contenido</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>name</td>
+      <td>Nombre del creador de contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>content_type</td>
+      <td>Tipo de contenido creado</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>production_count</td>
+      <td>Cantidad de contenidos producidos</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores enteros positivos</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Content</td>
+      <td>content_id</td>
+      <td>Identificador único del contenido</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>title</td>
+      <td>Título del contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>type</td>
+      <td>Tipo de contenido (película/serie/etc.)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Permite valores como Película, Serie, Documental</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>duration</td>
+      <td>Duración del contenido</td>
+      <td>String</td>
+      <td>0 a 10 characters</td>
+      <td>Minutos/Segundos</td>
+      <td>Formato HH:MM o MM:SS</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>theme</td>
+      <td>Tema del contenido</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>release_date</td>
+      <td>Fecha de lanzamiento del contenido</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creator</td>
+      <td>Nombre del creador del contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>RecommendedContent</td>
+      <td>recommendation_id</td>
+      <td>Identificador único de la recomendación</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>recommendation_date</td>
+      <td>Fecha de la recomendación</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>recommendation_reason</td>
+      <td>Razón de la recomendación</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Membership</td>
+      <td>membership_id</td>
+      <td>Identificador único de la membresía</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>type</td>
+      <td>Tipo de membresía (Standard/Premium/Platinum)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Standard, Premium, Platinum</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>features</td>
+      <td>Características de la membresía</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Standard</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Standard</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Premium</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Premium</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Platinum</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Platinum</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Feedback</td>
+      <td>feedback_id</td>
+      <td>Identificador único del feedback</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>comment</td>
+      <td>Comentario del feedback</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>rating</td>
+      <td>Calificación del feedback</td>
+      <td>int</td>
+      <td>0 a 10</td>
+      <td>Puntuación</td>
+      <td>Permite valores enteros entre 0 y 10</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>comment_date</td>
+      <td>Fecha del feedback</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Event</td>
+      <td>event_id</td>
+      <td>Identificador único del evento</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>title</td>
+      <td>Título del evento</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>date</td>
+      <td>Fecha del evento</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>host</td>
+      <td>Nombre del anfitrión del evento</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>location</td>
+      <td>Ubicación del evento</td>
+      <td>String</td>
+      <td>0 a 200 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Forum</td>
+      <td>forum_id</td>
+      <td>Identificador único del foro</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>topic</td>
+      <td>Tema del foro</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creation_date</td>
+      <td>Fecha de creación del foro</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creator</td>
+      <td>Nombre del creador del foro</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+  </tbody>
+</table>
+
+## **4.8. Database Design**
+### **4.8.1. Database Diagram**
+
+![image](images/DB_Mindflix.png)
+
+* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
+
+
+
 
 # Capítulo V: Product Implementation
 
@@ -1025,5 +1901,5 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  ![report-insights](images/insights-report.JPG)
   
  
-    
+
 
