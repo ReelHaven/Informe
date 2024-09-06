@@ -257,7 +257,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Sebastián De Las Casas Latour
         </td>
     </tr>
     <tr>
@@ -271,7 +271,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Sebastián.
         </td>
     </tr>
 	  
