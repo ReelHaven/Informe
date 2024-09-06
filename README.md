@@ -536,16 +536,17 @@ Al escuchar sobre MindFlix, una aplicación diseñada para ayudar a las personas
 
 
 **Entrevista N°3:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Nombre: Diego
+- Apellidos: Cacho Seminario
+- Edad: 20 años
+- Ubicación: Surco - Lima
+- Inicio de la Entrevista: 0 .
+- Duración de la Entrevista: 05:00 minutos
 
 **Resumen de la Entrevista:**
+Diego tiene el hobby de producir videos cortos acerca del bienestar emocional y la salud mental. Le interesa una plataforma que lo ayude a agrandar su público a personas interesadas en cambiar su mentalidad. Conocía a uno de nuestro competidores y remarcó la falta de contenido de usuarios. Destacó la importancia de una aplicación simple de usar para los usuarios.
 
-**Entrevista para el "Creador de contenido de salud mental":**
+![entrevista-tres](images/entrevista-diego.png)
 
 **Entrevista N°1:**
 - Nombre: 
