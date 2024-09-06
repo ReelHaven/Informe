@@ -667,6 +667,501 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 ## **4.7. Software Object-Oriented Design**
 ### **4.7.1. Class Diagrams**
 ![class-diagram](images/class-diagram.png)
+
 ### **4.7.2. Class Dictionary**
-
-
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: red; color: white;">N</th>
+      <th style="background-color: red; color: white;">Entidad</th>
+      <th style="background-color: red; color: white;">Nombre de Atributos</th>
+      <th style="background-color: red; color: white;">Definición</th>
+      <th style="background-color: red; color: white;">Tipo de Dato</th>
+      <th style="background-color: red; color: white;">Rango</th>
+      <th style="background-color: red; color: white;">Unidad de Medida</th>
+      <th style="background-color: red; color: white;">Valores Restringidos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>User</td>
+      <td>user_id</td>
+      <td>Identificador único del usuario</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>name</td>
+      <td>Nombre del usuario</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>email</td>
+      <td>Correo electrónico del usuario</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Debe seguir el formato de correo electrónico</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>age</td>
+      <td>Edad del usuario</td>
+      <td>int</td>
+      <td>0 a 120</td>
+      <td>Años</td>
+      <td>Permite valores enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>mood</td>
+      <td>Estado emocional del usuario</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>user_type</td>
+      <td>Tipo de usuario (normal/admin)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Normal, Admin</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>subscription_level</td>
+      <td>Nivel de suscripción del usuario</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Standard, Premium, Platinum</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Profile</td>
+      <td>profile_id</td>
+      <td>Identificador único del perfil</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>bio</td>
+      <td>Biografía del usuario</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>profile_picture</td>
+      <td>URL de la imagen de perfil</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>URL</td>
+      <td>Debe seguir el formato de URL</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>social_links</td>
+      <td>Enlaces sociales del usuario</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>URL</td>
+      <td>Debe seguir el formato de URL</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>ContentCreator</td>
+      <td>creator_id</td>
+      <td>Identificador único del creador de contenido</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>name</td>
+      <td>Nombre del creador de contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>content_type</td>
+      <td>Tipo de contenido creado</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>production_count</td>
+      <td>Cantidad de contenidos producidos</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores enteros positivos</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Content</td>
+      <td>content_id</td>
+      <td>Identificador único del contenido</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>title</td>
+      <td>Título del contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>type</td>
+      <td>Tipo de contenido (película/serie/etc.)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Permite valores como Película, Serie, Documental</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>duration</td>
+      <td>Duración del contenido</td>
+      <td>String</td>
+      <td>0 a 10 characters</td>
+      <td>Minutos/Segundos</td>
+      <td>Formato HH:MM o MM:SS</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>theme</td>
+      <td>Tema del contenido</td>
+      <td>String</td>
+      <td>0 a 50 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>release_date</td>
+      <td>Fecha de lanzamiento del contenido</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creator</td>
+      <td>Nombre del creador del contenido</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>RecommendedContent</td>
+      <td>recommendation_id</td>
+      <td>Identificador único de la recomendación</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>recommendation_date</td>
+      <td>Fecha de la recomendación</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>recommendation_reason</td>
+      <td>Razón de la recomendación</td>
+      <td>String</td>
+      <td>0 a 255 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Membership</td>
+      <td>membership_id</td>
+      <td>Identificador único de la membresía</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>type</td>
+      <td>Tipo de membresía (Standard/Premium/Platinum)</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Standard, Premium, Platinum</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>features</td>
+      <td>Características de la membresía</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Standard</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Standard</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Premium</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Premium</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Platinum</td>
+      <td>frequency</td>
+      <td>Frecuencia de pago</td>
+      <td>String</td>
+      <td>0 a 20 characters</td>
+      <td>Caracteres</td>
+      <td>Mensual, Anual</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>price</td>
+      <td>Precio de la membresía Platinum</td>
+      <td>double</td>
+      <td>0.00 a N</td>
+      <td>Moneda</td>
+      <td>Permite valores numéricos decimales positivos</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Feedback</td>
+      <td>feedback_id</td>
+      <td>Identificador único del feedback</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>comment</td>
+      <td>Comentario del feedback</td>
+      <td>String</td>
+      <td>0 a 500 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>rating</td>
+      <td>Calificación del feedback</td>
+      <td>int</td>
+      <td>0 a 10</td>
+      <td>Puntuación</td>
+      <td>Permite valores enteros entre 0 y 10</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>comment_date</td>
+      <td>Fecha del feedback</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Event</td>
+      <td>event_id</td>
+      <td>Identificador único del evento</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>title</td>
+      <td>Título del evento</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>date</td>
+      <td>Fecha del evento</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>host</td>
+      <td>Nombre del anfitrión del evento</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>location</td>
+      <td>Ubicación del evento</td>
+      <td>String</td>
+      <td>0 a 200 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos, espacios y puntuación</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Forum</td>
+      <td>forum_id</td>
+      <td>Identificador único del foro</td>
+      <td>int</td>
+      <td>0 a N</td>
+      <td>Número</td>
+      <td>Permite valores numéricos enteros positivos</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>topic</td>
+      <td>Tema del foro</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creation_date</td>
+      <td>Fecha de creación del foro</td>
+      <td>Date</td>
+      <td>-</td>
+      <td>Fecha</td>
+      <td>Formato YYYY-MM-DD</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td>creator</td>
+      <td>Nombre del creador del foro</td>
+      <td>String</td>
+      <td>0 a 100 characters</td>
+      <td>Caracteres</td>
+      <td>Permite caracteres alfabéticos y espacios</td>
+    </tr>
+  </tbody>
+</table>
