@@ -17,8 +17,6 @@
 
 <h3 align="center"> Producto: "MindFlix"</h3>
 
-<div align="center">
-
 
 
 
