@@ -1165,3 +1165,9 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
     </tr>
   </tbody>
 </table>
+
+## **4.8. Database Design**
+### **4.8.1. Database Diagram**
+
+![image](images/DB_Mindflix.png)
+
