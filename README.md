@@ -906,3 +906,6 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  ![home-evidence](images/home-evidence.JPG)
 
+ - #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+ De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
