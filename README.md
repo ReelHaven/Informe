@@ -393,3 +393,85 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 
 * **Ciudadano universitario/trabajador promedio:** se considera a un usuario, en el rango de edades de 18 a 50 años aproximadamente, el cual presenta problemas relacionados con cansancio mental a raíz del estrés académico o laboral. 
 * **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## **2.1. Competidores**
+### **2.1.1. Análisis competitivo**
+
+<table border="1" style="width:100%">
+    <tr>
+        <th colspan="6">Competitive Analysis Landscape</th>
+    </tr>
+    <tr>
+        <th>Startup y Competidores</th>
+        <th>MindFlix</th>
+        <th>Headspace</th>
+        <th>Calm</th>
+        <th>TeenToks</th>
+    </tr>
+    <tr>
+        <td>Overview</td>
+        <td>Aplicación de contenido relacionado al bienestar mental</td>
+        <td>App de meditaciones guiadas</td>
+        <td>App de meditaciones enfocado en dormir</td>
+        <td>Aplicación de contenido de bienestar hecho por y para adolescentes</td>
+    </tr>
+    <tr>
+        <td>Mercado Objetivo</td>
+        <td>Creadores de contenido, Estudiantes y trabajadores</td>
+        <td>Meditadores principiante</td>
+        <td>Personas que sufren de Insomnio</td>
+        <td>Adolescentes creadores de contenido y consumidores</td>
+    </tr>
+    <tr>
+        <td>Perfil y Estrategias de Marketing</td>
+        <td>Anuncios, Publicidad Boca a boca</td>
+        <td>Anuncios en redes sociales, Búsqueda de Palabras claves, SEO</td>
+        <td>Anuncio en redes sociales usadas por mercado objetivo</td>
+        <td>Publicidad en redes sociales</td>
+    </tr>
+    <tr>
+        <td>Productos y Servicios</td>
+        <td>Consumo de contenido de diferentes creadores</td>
+        <td>Membresías gratis y premium</td>
+        <td>Membresía</td>
+        <td>Contenido de usuario</td>
+    </tr>
+    <tr>
+        <td>Precios y Costos</td>
+        <td>$69.99 Anual por premium</td>
+        <td>$39.99 Anual o $399.99 por vida</td>
+        <td>Gratis con anuncios</td>
+        <td>Gratis</td>
+    </tr>
+    <tr>
+        <td>Canales de Distribución</td>
+        <td>Sitio Web</td>
+        <td>Aplicación Android y iOS</td>
+        <td>Aplicación móvil y canal en YouTube</td>
+        <td>Aplicación móvil</td>
+    </tr>
+    <tr>
+        <td>Fortalezas</td>
+        <td>Contenido creado por usuarios</td>
+        <td>Respaldado por psicólogos</td>
+        <td>Enganche diario de usuarios</td>
+        <td>Segmento definido</td>
+    </tr>
+    <tr>
+        <td>Debilidades</td>
+        <td>Desconocido en el mercado</td>
+        <td>Precio elevado, no hay contenido de usuario</td>
+        <td>No existe versión gratuita</td>
+        <td>Mercado limitado</td>
+    </tr>
+    <tr>
+        <td>Ventaja Competitiva</td>
+        <td>Contenido generado por usuarios de varios formatos</td>
+        <td>Conocido en el mercado</td>
+        <td>Líder de mercado</td>
+        <td>Contenido de Usuario</td>
+    </tr>
+</table>
+
