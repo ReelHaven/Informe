@@ -631,4 +631,20 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes. 
+* Segmento ciudadano trabajador/estudiante:
+  
+![web-wireframes-one](images/ciudadano-segmento-wf.JPG)
 
+![web-wireframes-one](images/ciudadano-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
+
+* Segmento creador de contenido:
+
+![web-wireframes-one](images/creator-segmento-wf.JPG)
+
+![web-wireframes-one](images/creator-segmento-two-wf.JPG)
+
+Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
