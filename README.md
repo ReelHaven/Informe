@@ -1,22 +1,26 @@
-# Universidad Peruana De Ciencas Aplicadas
+ <h3 align="center"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-## Open Source SW51
+ <h3 align="center"> Ingeniería de Software </h3>
+ <h3 align="center"> Ciclo 2024 - 2 </h3>
 
-![LOGO](logo_upc.png)
+<br>
 
-## "Informe de Trabajo Final"
+<div align="center">
+  <img width=140 src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png"/>
+</div>
 
-## ReelHaven - MindFlix
+<br>
+<h3 align="center"> Desarrollo de Aplicaciones Open Source - SW51 </h3>
+<h3 align="center"> Profesor: Hugo Allan Mori Paiva </h3>
+<h3 align="center"> "INFORME DE TRABAJO FINAL"</h3>
+<h3 align="center"> StartUp: ReelHaven </h3>
 
-## Profesor: Hugo Allan Mori Paiva
+<h3 align="center"> Producto: "MindFlix"</h3>
 
-## Integrantes:
 
-* ### 1
-* ### 2
-* ### 3
-* ### 4
-* ### 5
+
+
+
 
 -----
 
@@ -24,7 +28,7 @@
 
 | Version | Fecha    | Autor        | Descripcion de modificacion       |
 |---------|----------|--------------|-----------------------------------|
-|         |          |              |                                   |  
+|   1.0   | 06-09-24 |   Todos  | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
 |         |          |              |                                   |
 |         |          |              |                                   |
 |         |          |              |                                   |
@@ -75,12 +79,9 @@
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 
 #### Capitulo III: Requirements Specification
-
-- [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
-- [3.2. User Stories](#32-user-stories)
 - [3.3. Impact Mapping](#33-impact-mapping)
 - [3.4. Product Backlog](#34-product-backlog)
-
+  
 #### Capitulo IV: Product  Design
 
 - [4.1. Style Guidelines](#41-style-guidelines)
@@ -102,15 +103,14 @@
     - [4.4.4. Web Application User Flow Diagrams](#444-web-application-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
-    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)      
     - [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
-    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)
+    - [4.6.3. Software Architecture Components Diagrams](#463-software-architecture-components-diagrams)    
 - [4.7. Software Object-Oriented Design](#47-software-object-oriented-design)
     - [4.7.1. Class Diagrams](#471-class-diagrams)
     - [4.7.2. Class Dictionary](#472-class-dictionary)
 - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-
 #### Capitulo V: Product Implementation, Validation & Deployment
 - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
@@ -179,12 +179,12 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;" width="800"/>
+            <img src="images/Johan.png" alt="nombre" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Johan Karl Bottger Salazar
         </td>
     </tr>
     <tr>
@@ -198,17 +198,17 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       (Description)
+       Soy Johan Bottger, estoy en mi sexto ciclo de la carrera Ingeniería de Software en la UPC. Tengo conocimientos en los lenguajes C++, Python, JavaScript y HTML. Tengo gran interés en las metodologías ágiles por lo que en un futuro quisiera dedicarme a su implementación.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
+           <img src="images/Gabriel.jpg" alt="Gabriel Lapa" style="margin-bottom: 5px;"style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Gabriel Omar Lapa de la Cruz
         </td>
     </tr>
     <tr>
@@ -222,17 +222,18 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Gabriel Omar Lapa de la Cruz y tengo 23 años. Soy estudiante de la carrera de Ingeniería de Software. Escogí esta carrera ya que me llamó la atención el desarrollo de diferentes tipos de softwares
+	y aplicaciones. Estoy mayormente acostumbrado al trabajo individual, pero mis responsabilidades pueden ayudar al grupo en lo que sea necesario.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-           <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
+           <img src="images/Niurka.jpg" alt="Niurka Huarcaya" style="margin-bottom: 5px;"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
             <br>
-            (nombre)
+            Niurka Lucero Huarcaya Quispe
         </td>
     </tr>
     <tr>
@@ -246,7 +247,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Niurka Huarcaya, con el código U20221B226 y soy estudiante de Ingeniería de Software. Mi experiencia abarca varios lenguajes de programación, incluyendo C++ y Python, así como bases de datos. Considero que puedo trabajar en armonía con el equipo y escuchar sus ideas para lograr un buen trabajo.
         </td>
     </tr>
     <tr align="center">
@@ -256,7 +257,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (nombre)
+            Sebastián De Las Casas Latour
         </td>
     </tr>
     <tr>
@@ -270,7 +271,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Description)
+        Mi nombre es Sebastián De Las Casas, soy estudiante de Ingenieria de Software. Tengo experiencia con lenguajes de programación como python y c++. 
         </td>
     </tr>
 	  
