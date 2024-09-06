@@ -504,14 +504,19 @@ Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos 
 **Entrevista para el "Ciudadano universitario/trabajador promedio":**
 
 **Entrevista N°1:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Nombre: Sergio
+- Apellidos: Licas Rodriguez
+- Edad: 40 años
+- Ubicación: San Borja - Lima
+- Inicio de la Entrevista: 0:00 
+- Duración de la Entrevista: 4:12 min
 
 **Resumen de la Entrevista:**
+  
+El sr. Sergio, trabajador de ayudante de cocina, cuenta que hay muchas semanas en las que debido a la carga laboral suele presentar ciertos niveles de estrés o cansancio mental, y que en muchas ocasiones, le es difícil encontrar un momento para desconectarse y relajarse. También comenta que consume plataformas de contenido vía streaming, como netflix, además de youtube. Él dice encontrar contenido que trate temáticas relacionadas a mejorar en bienestar mental, pero lo encuentra de manera indirecta, y que no es fácil de encontrar películas o series relacionadas a esta temática si las busca por cuenta propia. 
+Luego de comentarle la idea del aplicativo, el sr.Sergio opina qué le parece una buena idea promover contenido que ayude a aliviar problemas de estrés y cansancio mental. También comenta que la idea de los foros le parece buena, y que le gustaría poder ver las distintas opiniones de personas que puedan tener problemas similares a los suyos, saber sus experiencias con el aplicativo y tomar recomendaciones adicionales de ellos. 
+
+![entrevista-uno](images/entrevista-sergio.JPG)
 
 **Entrevista N°2:**
 - Nombre: 
