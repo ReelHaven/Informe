@@ -695,3 +695,67 @@ Para lograr el despliegue seguimos lo siguientes pasos:
 
 ![deployment-evidence](images/deployment-evidence.JPG)
 
+## 5.2 Landing Page, Services & Applications Implementation.
+
+- ### 5.2.1 Sprint 1
+
+- #### 5.2.1.1. Sprint Planning 1
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>25-08-2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>18:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Llamada por meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>ReelHaven team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Piero Miranda/ Sebastián De Las Casas / Gabriel Omar Lapa / Johan Karl Bottger / Niurka Lucero Huarcaya</td>
+        </tr>
+        <tr>
+            <td>Sprint n  Review Summary</td>
+            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint. </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Diseñar e implementar el Landing Page de MindFlix con el objetivo de dar a conocer nuestra propuesta de valor. </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>21</td>
+        </tr>
+    </tbody>
+</table>
+
+
