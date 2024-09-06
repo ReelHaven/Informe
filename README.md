@@ -667,6 +667,38 @@ Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-Mi
 
 Link a Figma: https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1 
 
+### 4.4.3. Web Applications User Flow Diagrams
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario, quiero iniciar sesión para ver las recomendaciones.
+
+* En este User Flow, el usuario ingresa sus credenciales para iniciar sesión. Si tiene cuenta, completa un formulario de bienestar antes de acceder a la interfaz principal. Si no, se registra, inicia sesión, completa el formulario y luego accede a la interfaz donde se visualiza las recomendaciones según su estado.
+
+![image](images/userflow-1.png)
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario, quiero reproducir contenido que se ajusten a mis preferencias según mi estado de ánimo.
+
+* En este User Flow, el usuario visualiza la opción “Explorar”, lo selecciona y puede escoger si quiere ver el contenido que hay disponible o lo más reciente subido por los creadores de contenido.
+
+![image](images/userflow-2.png)
+
+Segmento objetivo: Ciudadanos trabajadores/universitarios
+User Goal: Como usuario quiero categorizar el contenido en listas según mis preferencias
+
+* En este User Flow, el usuario visualiza la opción “Listas”, lo selecciona y escoge como lo quiere categorizar, como “Favoritos”, “Ver más tarde” y “Pendiente”, según lo que prefiera.
+
+![image](images/userflow-3.png)
+
+Segmento objetivo: Creadores de contenido audiovisual
+User Goal: Como creador de contenido, quiero compartir mi contenido con los usuarios
+
+* En este User Flow, el creador de contenido quiere mostrar a los usuarios su nuevo contenido para ellos. Por lo tanto, añade contenido pulsando el botón “Añadir contenido”, donde detalla su nuevo contenido. Lo podrá visualizar en el apartado de “Mi contenido”.
+
+![image](images/userflow-4.png)
+
+https://lucid.app/lucidchart/9e585c86-46d8-4b2b-8164-171dc7389447/edit?invitationId=inv_af682ab9-6ffb-4ef4-8ca2-5ce276061cc7
+
 ## 4.5. Web Applications Prototyping
 En la creación de los dos flujos de acción de los prototipos, se consideraron las posibles formas en que los usuarios interactúan con la aplicación web. Además, se generó el prototipo de manera interactiva para que gran parte de las secciones puedan garantizar que nuestros usuarios disfruten de una experiencia intuitiva y funcional. También, se tomaron en cuenta los Wireflow Diagrams y las decisiones de arquitectura de información para mejorar la comprensión de cada funcionalidad de la aplicación web.
 
