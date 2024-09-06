@@ -475,3 +475,8 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
     </tr>
 </table>
 
+### **2.1.2. Estrategias y tácticas frente a competidores**
+
+Nuestro producto se diferencia de sus competidores en el segmento de ciudadanos por su contenido de usuario personalizado en cuanto a películas/series/documentales. Además, resalta como una alternativa para creadores de contenido de salud mental que buscan un lugar para difundir sus proyectos, contribuyendo a mejorar el bienestar de un mayor público.
+
+
