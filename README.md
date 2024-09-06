@@ -845,3 +845,52 @@ Para lograr el despliegue seguimos lo siguientes pasos:
     </tbody>
 </table>
 
+- #### 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>https://github.com/ReelHaven/Landing-Page </td>
+                <td>Develop</td>
+                <td>772d6e4</td>
+                <td>chore: Initial commit</td>
+                <td>chore: Initial commit</td>
+                <td>01-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>7f0b9a7</td>
+                <td>Add files via upload (feat: added html structure)</td>
+                <td>Add files via upload (feat: added html structure)</td>
+                <td>04-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>36f0cb4</td>
+                <td>feat: added styles.css for layout</td>
+                <td>feat: added styles.css for layout</td>
+                <td>04-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>411dc5e</td>
+                <td>feat: added images</td>
+                <td>feat: added images</td>
+                <td>04-09-24</td>
+            </tr>
+    </tbody>
+</table>
+
