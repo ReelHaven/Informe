@@ -393,3 +393,14 @@ Nuestra propuesta de solución está dirigida hacia 2 segmentos objetivos, los c
 
 * **Ciudadano universitario/trabajador promedio:** se considera a un usuario, en el rango de edades de 18 a 50 años aproximadamente, el cual presenta problemas relacionados con cansancio mental a raíz del estrés académico o laboral. 
 * **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
+
+# Capítulo III: Requirements Specification
+
+## **3.1. To-Be Scenario Mapping**
+**Ciudadano trabajador / universitario***
+![image](images/To-Be-Scenario_Ciudadano.jpg)
+
+**Creador de contenido audiovisual***
+![image](images/To-Be-Scenario_CreadorContenido.jpg)
+https://miro.com/app/board/uXjVKkXdjos=/?share_link_id=419241166516
+
