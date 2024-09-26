@@ -252,7 +252,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"
+            <img src="images/Foto de frente.jpg" alt="nombre" style="margin-bottom: 5px;"
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
