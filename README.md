@@ -2433,4 +2433,4 @@ No se entrega
 - Anexo 1: [Organización en GitHub](https://github.com/ReelHaven)
 - Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
 - Anexo 3: [Trello](https://trello.com/)
-- Anexo 4: [LandingPage] (https://reel-haven.github.io/Landing_Page/)
+- Anexo 4: [LandingPage] (https://reelhaven.github.io/Landing-Page/#contact)
