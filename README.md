@@ -271,7 +271,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Mi nombre es Sebastián De Las Casas, soy estudiante de Ingenieria de Software. Tengo experiencia con lenguajes de programación como python y c++. 
+        Mi nombre es Sebastián De Las Casas y tengo 20 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. Tengo experiencia con lenguajes de programación como python y c++. 
         </td>
     </tr>
 	  
