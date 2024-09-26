@@ -2412,3 +2412,25 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Ef
 * Entrevistas:
 
   Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+# Conclusiones
+
+- Durante el desarrollo de la Landing Page, el equipo de ReelHaven ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
+- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
+- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
+- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
+- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
+- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
+## Video About-the-Team.
+No se entrega 
+# Bibliografía
+- Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
+- Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
+- Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
+
+# Anexos
+- Anexo 1: [Organización en GitHub](https://github.com/ReelHaven)
+- Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
+- Anexo 3: [Trello](https://trello.com/)
+- Anexo 4: [LandingPage] (https://ez-vet.github.io/Landing_Page/)
