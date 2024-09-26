@@ -2429,20 +2429,69 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
 
-#### 5.2.2.5. Execution Evidence for Sprint Review0
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+ ![landing-evidence](images/repositorio.jpeg)
+
+ 
 
  - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Service de FakeAPI
 
+ ![vista-servicios1](images/vista-servicios1.jpeg)
+
+
+ ![vista-servicios2](images/vista-servicios2.jpeg)
+
+
  - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Frontend Web Application
 
-- #### 5.2.2.8. Team Collaboration Insights during Sprint.
-  * Para Frontend:
+Login
+
+ ![vista-login](images/vista-login.jpeg)
+
+Registro
+
+![vista-registro](images/vista-registro.jpeg)
+
+Explorar
+
+![vista-explorar1](images/vista-explorar1.jpeg)
+
+
+![vista-explorar2](images/vista-explorar2.jpeg)
+
+
  
-  * Para informe de trabajo:
+![vista-explorar3](images/vista-explorar3.jpeg)
+
+
+Listas
+
+![vista-listas](images/vista-listas.jpeg)
+
+
+Foros
+
+![vista-foros](images/vista-foros.jpeg)
+
+
+Eventos
+
+![vista-eventos](images/vista-eventos.jpeg)
+
+ 
+
+- #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
+![insights](images/gitcontributions.jpeg)
+
+
+ 
 
 # Conclusiones
 
