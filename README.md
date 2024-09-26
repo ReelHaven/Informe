@@ -2365,7 +2365,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
                 <td>772d6e4</td>
                 <td>chore: Initial commit</td>
                 <td>chore: Initial commit</td>
-                <td>01-09-24</td>
+                <td>21-09-24</td>
             </tr>
 	    <tr>
                 <td></td>
@@ -2373,7 +2373,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
                 <td>7f0b9a7</td>
                 <td>Add files via upload (feat: added html structure)</td>
                 <td>Add files via upload (feat: added html structure)</td>
-                <td>04-09-24</td>
+                <td>24-09-24</td>
             </tr>
 	    <tr>
                 <td></td>
@@ -2381,7 +2381,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
                 <td>36f0cb4</td>
                 <td>feat: added styles.css for layout</td>
                 <td>feat: added styles.css for layout</td>
-                <td>04-09-24</td>
+                <td>24-09-24</td>
             </tr>
 	    <tr>
                 <td></td>
@@ -2389,7 +2389,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
                 <td>411dc5e</td>
                 <td>feat: added images</td>
                 <td>feat: added images</td>
-                <td>04-09-24</td>
+                <td>24-09-24</td>
             </tr>
     </tbody>
 </table>
