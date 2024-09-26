@@ -2188,6 +2188,219 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  ![report-insights](images/insights-report.JPG)
   
+- ### 5.2.2 Sprint 2
+
+- #### 5.2.2.1. Sprint Planning 2
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>25-08-2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>18:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Llamada por meet</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>ReelHaven team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Piero Miranda/ Sebastián De Las Casas / Gabriel Omar Lapa / Johan Karl Bottger / Niurka Lucero Huarcaya</td>
+        </tr>
+        <tr>
+            <td>Sprint n  Review Summary</td>
+            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint. </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Diseñar e implementar el Landing Page de MindFlix con el objetivo de dar a conocer nuestra propuesta de valor. </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>21</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.2.2. Sprint Backlog 2
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="7">Sprint 1</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="6">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>US12</td>
+                <td>Visualizar contenido en tamaño de dispositivo</td>
+                <td>01</td>
+                <td>Visualizar contenido en tamaño de dispositivo</td>
+                <td>Como usuario quiero poder acceder a la landing page desde dispositivos de cualquier tamaño Para visualizarla de manera efectiva</td>
+                <td>3 hrs</td>
+                <td>Not assigned yet</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US13</td>
+                <td>Saber los beneficios ofrecidos</td>
+                <td>02</td>
+                <td>Saber los beneficios ofrecidos</td>
+                <td>Como usuario quiero poder acceder a una página dentro de la landing page Para que me explique los servicios ofrecidos.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US14</td>
+                <td>Desplazar de forma efectiva por la web</td>
+                <td>03</td>
+                <td>Desplazar de forma efectiva por la web</td>
+                <td>Como usuario quiero poder desplazarme por la landing page de forma efectiva Para no confundirme y perder tiempo.</td>
+                <td>2 hrs</td>
+                <td>Not assigned yet</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US15</td>
+                <td>Contar con información de contacto</td>
+                <td>04</td>
+                <td>Contar con información de contacto</td>
+                <td>Como usuario quiero poder contar con información de contacto Para comunicarme en caso tenga una consulta</td>
+                <td>3 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US16</td>
+                <td>Redes sociales</td>
+                <td>05</td>
+                <td>Redes sociales</td>
+                <td>Como usuario quiero encontrar las redes sociales de la plataforma Para conocer más sobre sus planes y decisiones.</td>
+                <td>1 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+	    <tr>
+                <td>US17</td>
+                <td>Conocer las membresías</td>
+                <td>06</td>
+                <td>Conocer las membresías </td>
+                <td>Como usuario quiero acceder a la información de las membresías desde la landing page Para tomar una decisión informada.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Done</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>https://github.com/ReelHaven/Landing-Page </td>
+                <td>Develop</td>
+                <td>772d6e4</td>
+                <td>chore: Initial commit</td>
+                <td>chore: Initial commit</td>
+                <td>01-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>7f0b9a7</td>
+                <td>Add files via upload (feat: added html structure)</td>
+                <td>Add files via upload (feat: added html structure)</td>
+                <td>04-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>36f0cb4</td>
+                <td>feat: added styles.css for layout</td>
+                <td>feat: added styles.css for layout</td>
+                <td>04-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Develop</td>
+                <td>411dc5e</td>
+                <td>feat: added images</td>
+                <td>feat: added images</td>
+                <td>04-09-24</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review0
+
+ - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+ De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
+
+ - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+- #### 5.2.2.8. Team Collaboration Insights during Sprint.
+  * Para Landing Page:
+ 
+  * Para informe de trabajo:
 
  **VIDEOS:**
 
