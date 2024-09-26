@@ -1637,11 +1637,6 @@ Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?n
 
 ![image](images/DB_Mindflix.png)
 
-* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
-
-
-
-
 # Capítulo V: Product Implementation
 
 ## 5.1 Software Configuration Management
@@ -2411,17 +2406,6 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  
   * Para informe de trabajo:
 
- **VIDEOS:**
-
- * Presentacion del trabajo:
-
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-
-* Entrevistas:
-
-  Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 # Conclusiones
 
 - Durante el desarrollo de la Landing Page, el equipo de ReelHaven ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
@@ -2439,7 +2423,16 @@ No se entrega
 - Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
 
 # Anexos
-- Anexo 1: [Organización en GitHub](https://github.com/ReelHaven)
-- Anexo 2: [Mockups - Wireframe - User-Flow - WireFlow](https://www.figma.com/design/U3HFzRFzbx3daXfD7m18YZ/VetSolution?node-id=0-1&t=kbeh7DxEacwi9o9H-1)
-- Anexo 3: [Trello](https://trello.com/)
-- Anexo 4: [LandingPage] (https://reelhaven.github.io/Landing-Page/#contact)
+- Anexo 1: [Entrevistas de segmentos objetivo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Anexo 2: [As-is Scenario Mapping](https://miro.com/app/board/uXjVKkQHFZI=/?share_link_id=942422651628)
+- Anexo 3: [To-Be Scenario Mapping](https://miro.com/app/board/uXjVKkXdjos=/?share_link_id=419241166516)
+- Anexo 4: [Landing Page Wireframe and Mock-up](https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1)
+- Anexo 5: [Web Applications Wireframes and Mock-ups](https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=0-1&node-type=canvas)
+- Anexo 6: [Web Applications User Flow Diagrams](https://lucid.app/lucidchart/9e585c86-46d8-4b2b-8164-171dc7389447/edit?invitationId=inv_af682ab9-6ffb-4ef4-8ca2-5ce276061cc7)
+- Anexo 7: [Web Applications Prototyping - primer segmento](https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-4278&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A4278)
+- Anexo 8: [Web Applications Prototyping - segundo segmento](https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-6042&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A6042)
+- Anexo 9: [Repositorio de la Organización](https://github.com/ReelHaven)
+- Anexo 10: [Repositorio del Landing page](https://github.com/ReelHaven/Landing-Page)
+- Anexo 11: [Landing Page](https://reelhaven.github.io/Landing-Page/)
+- Anexo 12: [TB1 - video presentación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Anexo 13: [Presentación del proyecto](https://www.canva.com/design/DAGP5FNtzuI/0d_bFHSuGx5lRscGSDDsfA/edit)
