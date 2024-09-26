@@ -2209,15 +2209,15 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     <tbody>
         <tr>
             <td>Date</td>
-            <td>25-08-2024</td>
+            <td>20-09-2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>18:00 PM</td>
+            <td>16:00 PM</td>
         </tr>
         <tr>
             <td>Location</td>
-            <td>Llamada por meet</td>
+            <td>Video-conferencia</td>
         </tr>
         <tr>
             <td>Prepared By</td>
@@ -2228,19 +2228,19 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             <td>Piero Miranda/ Sebastián De Las Casas / Gabriel Omar Lapa / Johan Karl Bottger / Niurka Lucero Huarcaya</td>
         </tr>
         <tr>
-            <td>Sprint n  Review Summary</td>
-            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint. </td>
+            <td>Sprint 1  Review Summary</td>
+            <td>Se completó Satisfactoriamente las tareas planteadas en el anterior Sprint. </td>
         </tr>
         <tr>
             <td>Sprint n Retrospective Summary</td>
-            <td>Para esta entrega no hubo un sprint anterior, por lo que no hay un resumen de sprint </td>
+            <td>Se estableció la necesidad de una mejor organización de planeamiento en este Sprint a comparación del primero. </td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Diseñar e implementar el Landing Page de MindFlix con el objetivo de dar a conocer nuestra propuesta de valor. </td>
+            <td>Implementar el frontend de la aplicación web de MindFlix siguiendo con el diseño y poniendo a prueba nuestra propuesta de valor. </td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
@@ -2259,15 +2259,13 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     <thead>
             <tr>
             <td>Sprint #:</td>
-            <td colspan="7">Sprint 1</td>
+            <td colspan="5">Sprint 1</td>
             </tr>
             <tr>
                 <td colspan="2">User Story</td>
-                <td colspan="6">Work-Item / Task</td>
+                <td colspan="4">Work-Item / Task</td>
             </tr>
             <tr>
-                <td>ID</td>
-                <td>Title</td>
                 <td>ID</td>
                 <td>Title</td>
                 <td>Description</td>
@@ -2277,66 +2275,88 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             </tr>
     </thead>
     <tbody>
+	    <tr>
+                <td>US19</td>
+                <td>Explorar Contenido</td>
+                <td>Como usuario, quiero poder navegar por una selección de contenido disponible en la aplicación.</td>
+                <td>3 hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
             <tr>
-                <td>US12</td>
-                <td>Visualizar contenido en tamaño de dispositivo</td>
-                <td>01</td>
-                <td>Visualizar contenido en tamaño de dispositivo</td>
-                <td>Como usuario quiero poder acceder a la landing page desde dispositivos de cualquier tamaño Para visualizarla de manera efectiva</td>
+                <td>US04</td>
+                <td>Filtrar Contenido por Categoría</td>
+                <td>Como usuario, Quiero poder filtrar el contenido por categoría, Para encontrar información relevante más fácilmente.</td>
+                <td>2 hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US01</td>
+                <td>Iniciar sesión</td>
+                <td>Como usuario registrado, quiero poder iniciar sesión en mi cuenta, para utilizar las funciones disponibles de la plataforma.</td>
                 <td>3 hrs</td>
-                <td>Not assigned yet</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US20</td>
+                <td>Listas</td>
+                <td>Como usuario no registrado, quiero poder crear una cuenta nueva, para utilizar las funciones disponibles de la plataforma.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US21</td>
+                <td>Visualizar Listas</td>
+                <td>Como usuario, quiero poder visualizar el contenido en listas personalizadas.</td>
+                <td>3 hrs</td>
+                <td>Johan Bottger</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US22</td>
+                <td>Agregar a Listas</td>
+                <td>Como usuario, quiero poder añadir el contenido de la aplicación a las listas.</td>
+                <td>2 hrs</td>
+                <td>Johan Bottger</td>
                 <td>In progress</td>
             </tr>
 	    <tr>
-                <td>US13</td>
-                <td>Saber los beneficios ofrecidos</td>
-                <td>02</td>
-                <td>Saber los beneficios ofrecidos</td>
-                <td>Como usuario quiero poder acceder a una página dentro de la landing page Para que me explique los servicios ofrecidos.</td>
+                <td>US23</td>
+                <td>Ver foros</td>
+                <td>Como usuario, quiero poder visualizar las publicaciones de la comunidad en la aplicación.</td>
                 <td>2 hrs</td>
-                <td>Piero Miranda</td>
-                <td>Done</td>
-            </tr>
-	    <tr>
-                <td>US14</td>
-                <td>Desplazar de forma efectiva por la web</td>
-                <td>03</td>
-                <td>Desplazar de forma efectiva por la web</td>
-                <td>Como usuario quiero poder desplazarme por la landing page de forma efectiva Para no confundirme y perder tiempo.</td>
-                <td>2 hrs</td>
-                <td>Not assigned yet</td>
+                <td>Sebastián De Las Casas</td>
                 <td>In progress</td>
             </tr>
 	    <tr>
-                <td>US15</td>
-                <td>Contar con información de contacto</td>
-                <td>04</td>
-                <td>Contar con información de contacto</td>
-                <td>Como usuario quiero poder contar con información de contacto Para comunicarme en caso tenga una consulta</td>
+                <td>US24</td>
+                <td>Publicar en foros</td>
+                <td>Como usuario, quiero poder hacer publicaciones propias en los foros de la comunidad en la aplicación.</td>
                 <td>3 hrs</td>
-                <td>Piero Miranda</td>
-                <td>Done</td>
+                <td>Sebastián De Las Casas</td>
+                <td>In progress</td>
             </tr>
 	    <tr>
-                <td>US16</td>
-                <td>Redes sociales</td>
-                <td>05</td>
-                <td>Redes sociales</td>
-                <td>Como usuario quiero encontrar las redes sociales de la plataforma Para conocer más sobre sus planes y decisiones.</td>
-                <td>1 hrs</td>
-                <td>Piero Miranda</td>
-                <td>Done</td>
+                <td>US23</td>
+                <td>Eventos</td>
+                <td>Como usuario, quiero poder visualizar información acerca de eventos.</td>
+                <td>3 hrs</td>
+                <td>Gabriel Lapa</td>
+                <td>Completed</td>
             </tr>
 	    <tr>
-                <td>US17</td>
-                <td>Conocer las membresías</td>
-                <td>06</td>
-                <td>Conocer las membresías </td>
-                <td>Como usuario quiero acceder a la información de las membresías desde la landing page Para tomar una decisión informada.</td>
-                <td>2 hrs</td>
-                <td>Piero Miranda</td>
-                <td>Done</td>
+                <td>US24</td>
+                <td>Eventos</td>
+                <td>Como usuario, quiero poder explorar eventos según su información.</td>
+                <td>3 hrs</td>
+                <td>Gabriel Lapa</td>
+                <td>Completed</td>
             </tr>
+	    
+
     </tbody>
 </table>
 
@@ -2357,7 +2377,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             <tr>
                 <td>https://github.com/ReelHaven/Landing-Page </td>
                 <td>Develop</td>
-                <td>772d6e4</td>
+                <td>009e891</td>
                 <td>chore: Initial commit</td>
                 <td>chore: Initial commit</td>
                 <td>21-09-24</td>
@@ -2397,12 +2417,14 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
- De momento no se desarrolló este punto ya que aún no se implementan servicios dentro de lo presentado.
+Service de FakeAPI
 
  - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Frontend Web Application
+
 - #### 5.2.2.8. Team Collaboration Insights during Sprint.
-  * Para Landing Page:
+  * Para Frontend:
  
   * Para informe de trabajo:
 
