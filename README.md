@@ -2259,7 +2259,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     <thead>
             <tr>
             <td>Sprint #:</td>
-            <td colspan="5">Sprint 1</td>
+            <td colspan="5">Sprint 2</td>
             </tr>
             <tr>
                 <td colspan="2">User Story</td>
@@ -2384,26 +2384,42 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             </tr>
 	    <tr>
                 <td></td>
-                <td>Develop</td>
-                <td>7f0b9a7</td>
-                <td>Add files via upload (feat: added html structure)</td>
-                <td>Add files via upload (feat: added html structure)</td>
+                <td>feature/events</td>
+                <td>b61d0e4092</td>
+                <td>feat: added language switcher to toolbar component</td>
+                <td></td>
                 <td>24-09-24</td>
             </tr>
 	    <tr>
                 <td></td>
-                <td>Develop</td>
-                <td>36f0cb4</td>
-                <td>feat: added styles.css for layout</td>
+                <td>feature/explorer</td>
+                <td>ad6343</td>
+                <td>added available content explorer page</td>
                 <td>feat: added styles.css for layout</td>
                 <td>24-09-24</td>
             </tr>
 	    <tr>
                 <td></td>
-                <td>Develop</td>
-                <td>411dc5e</td>
-                <td>feat: added images</td>
-                <td>feat: added images</td>
+                <td>feature/forums</td>
+                <td>8f519e</td>
+                <td>feat: updated forums</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/lists</td>
+                <td>98b49a4</td>
+                <td>feat: Feature lists</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/login-register</td>
+                <td>860227</td>
+                <td>feat: added register component</td>
+                <td></td>
                 <td>24-09-24</td>
             </tr>
     </tbody>
