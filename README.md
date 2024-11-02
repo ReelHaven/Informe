@@ -2715,6 +2715,66 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
  - ¿Qué cambiarías o agregarías en el landing page o frontend application para hacerlo más claro o atractivo para ti?
   
 - ### 5.3.2 Registro de entrevistas
+
+  **Entrevista N°1:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+*imagen*
+
+ **Entrevista N°2:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+*imagen*
+
+ **Entrevista N°3:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+*imagen*
+
+ **Entrevista N°4:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+*imagen*
+
+ **Entrevista N°5:**
+- Nombre: 
+- Apellidos:
+- Edad: 
+- Ubicación:
+- Inicio de la Entrevista:
+- Duración de la Entrevista:
+
+**Resumen de la Entrevista:**
+
+*imagen*
   
 - ### 5.3.3 Evaluaciones segun heuristicas
 
