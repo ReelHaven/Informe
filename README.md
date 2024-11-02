@@ -2706,6 +2706,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+![insights-sprint-3](images/insights-sprint-3.JPG)
 
 ## 5.3 Validation  Interviews.
 
