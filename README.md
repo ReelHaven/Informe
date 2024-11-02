@@ -2512,11 +2512,11 @@ Eventos
     <tbody>
         <tr>
             <td>Date</td>
-            <td></td>
+            <td>26/10/2024</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td></td>
+            <td>15:00</td>
         </tr>
         <tr>
             <td>Location</td>
@@ -2531,27 +2531,27 @@ Eventos
             <td>Piero Miranda/ Sebastián De Las Casas / Gabriel Omar Lapa / Johan Karl Bottger / Niurka Lucero Huarcaya</td>
         </tr>
         <tr>
-            <td>Sprint 1  Review Summary</td>
-            <td></td>
+            <td>Sprint 2  Review Summary</td>
+            <td>Se completaron parcialmente las tareas del  anterior Sprint.</td>
         </tr>
         <tr>
-            <td>Sprint n Retrospective Summary</td>
-            <td> </td>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
         </tr>
         <tr>
             <td colspan="2">Sprint Goal & User Stories</td>
         </tr>
         <tr>
-            <td>Sprint 1 Goal</td>
-            <td> </td>
+            <td>Sprint 3 Goal</td>
+            <td>Implementar la primera version de los Web Services. </td>
         </tr>
         <tr>
-            <td>Sprint 1 Velocity</td>
-            <td></td>
+            <td>Sprint 3 Velocity</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>Sum of Story Points</td>
-            <td></td>
+            <td>20</td>
         </tr>
     </tbody>
 </table>
