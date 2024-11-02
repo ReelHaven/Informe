@@ -2691,7 +2691,8 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
   ![users-endpoints](images/user-id-endpoint.JPG)
 
- 
+ * **Bounded Context Content**
+![users-endpoints](images/content-endpoints.png)
 
  - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
