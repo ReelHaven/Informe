@@ -28,8 +28,8 @@
 
 | Version | Fecha    | Autor        | Descripcion de modificacion       |
 |---------|----------|--------------|-----------------------------------|
-|   1.0   | 06-09-24 |   Todos  | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
-|         |          |              |                                   |
+|   1.0   | 06-09-24 |   Todos      | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
+|   2.0   | 26-09-24 |   Todos      | Se desarolló el primer avance de la aplicación web, formado por el Front End. Además, se actualizó la información del informe.             |
 |         |          |              |                                   |
 |         |          |              |                                   |
 |         |          |              |                                   |
@@ -127,6 +127,15 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ## STUDENT OUTCOME
 <b>ABET – EAC - Student Outcome 3</b>
@@ -135,8 +144,8 @@
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro: Piero Miranda** <br> **TB1:** <br> Describir la problematica a tratar en el capitulo 1, analizando el problema y definiendo el segmento objetivo, al igual que describir el proposito de la startup. <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Realicé una investigación basada en UX Research para establecer adecuadamente los User Personas, Task Matrix, Journey Maps y Empathy Mapping. <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br>  | Con el trabajo realizado, podemos concluir grupalmente que logramos comunicar de manera efectiva nuestra propuesta de solución al público objetivo, transmitiendo claramente los beneficios y características del producto. Asimismo, supimos adaptar nuestro mensaje a las necesidades y expectativas de diferentes rangos de audiencia.  |                                                                                                                                    |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.   | **Miembro: Piero Miranda** <br> **TB1:** <br> Desarrollé secciones del capitulo 4 como style guidelines, diseño de landing page, web wireframes y mockups, y software management en el capitulo 5 <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Se realizó el Design y Prototyping, bajo un enfoque ágil evidenciado de forma escrita <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1)  <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br> **Miembro** <br> **TB1:** <br> (TB1) <br> <br> <br>   | Gracias a la documentación detallada y al Landing Page implementado, logramos transmitir nuestras ideas de manera clara y efectiva. Además, presentamos un concepto visual atractivo del producto que refuerza la comunicación escrita, permitiendo que nuestro público objetivo entienda la propuesta y los beneficios de forma precisa. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro: Piero Miranda** <br> **TB1:** <br> Describir la problematica a tratar en el capitulo 1, analizando el problema y definiendo el segmento objetivo, al igual que describir el proposito de la startup. <br> **TP:**  <br> Desarrolle el proceso de login y registro del usuario. Al igual que el formulario para determinar el estado de animo del usuario. <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Realicé una investigación basada en UX Research para establecer adecuadamente los User Personas, Task Matrix, Journey Maps y Empathy Mapping.  <br> **TP1:** <br> Desarrollé la sección "Explorar Contenido" del frontend con funcionalidades de filtrado por categorías y tipo. Esto me premitió identificar problemáticas y aplicar principios de UX, teniendo en cuenta las necesidades del usuario y el alcance a diferentes audiencias. <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br> Me encargué del diseño de las entrevistas y realicé una de ellas hacia uno de nuestros segmentos objetivos. Además, realicé la presentación del proyecto. <br> **TP1:** <br> Estuve presente y activo en la organización y planeamiento del proyecto y su segundo sprint al igual que su desarollo. <br> <br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br>  Me encargué del desarrollo de las epic user stories y el backlog. Además me encargué de realizar los cuadros C4 <br>  **TP1** <br> Estuve al tanto de completar la parte asignada a mi persona. <br> <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Me encargué de los Scenarios con su respectivo Lenguaje Ubicuo, además de realizar el Diagrama de clases con su Class Diagram <br>**TP1:** <br> Estuve atento a la organización de mi parte del proyecto, y que se reflejará en el siguiente Sprint<br> |**TB1:** <br> Con el trabajo realizado, podemos concluir grupalmente que logramos comunicar de manera efectiva nuestra propuesta de solución al público objetivo, transmitiendo claramente los beneficios y características del producto. Asimismo, supimos adaptar nuestro mensaje a las necesidades y expectativas de diferentes rangos de audiencia. <br> **TP1:** <br> En esta entrega, el equipo ha demostrado la capacidad de integrar los principios de UX Design y UX Research con el desarrollo técnico, logrando desplegar una nueva versión del Landing Page y la primera versión del Frontend Web Application. Además, los avances alcanzados cumplieron con los objetivos del sprint y aseguraron la alineación entre las necesidades de los usuarios y nuestra solución propuesta. |                                                                                                                                    |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.   | **Miembro: Piero Miranda** <br> **TB1:** <br> Desarrollé secciones del capitulo 4 como style guidelines, diseño de landing page, web wireframes y mockups, y software management en el capitulo 5 <br> **TP:**  <br> Lleve a cabo el desarrollo de la vista home, en la cual se aprecia el contenido recomendado al usuario, al igual que las estadisticas de este mismo. <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Se realizó el Design y Prototyping, bajo un enfoque ágil evidenciado de forma escrita <br> **TP1:** <br> Generé la sección de explorar contenido con la herramienta indicada, así como con las convenciones de nomenclatura para los componentes de la solución. Se abarcó tanto en el código como en las funcionalidades implementadas, asegurando que se facilite la colaboración en el proyecto. <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br>  Me encargué en explorar e investigar el mercado actual para identificar los posibles competidores y sus estándares.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> <br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br> Me informé de la necesidad de los usuarios y planifique la estructura del modelo. <br> **TP1** <br> Fui responsable de la página de foros además de apoyar con el desarrollo del informe <br> <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Resalté los posibles escenarios de los usuarios antes y despúes de conocer nuestro proyecto. <br> **TP1:** <br> Me encargué de la sección de Eventos, además de corregir el informe según la reciente retroalimentación <br>   | **TB1:** <br> Gracias a la documentación detallada y al Landing Page implementado, logramos transmitir nuestras ideas de manera clara y efectiva. Además, presentamos un concepto visual atractivo del producto que refuerza la comunicación escrita, permitiendo que nuestro público objetivo entienda la propuesta y los beneficios de forma precisa. <br> **TP1:** <br> La documentación generada para este avance, refleja un enfoque estructurado y colaborativo en la implementación del proyecto. Se realizaron mejoras iterativas, asegurando que estén claramente documentadas, para facilitar la comprensión y colaboración entre los miembros del equipo. También, se evidenció la correcta aplicación de lenguajes de programación, frameworks y herramientas indicadas en la construcción de los componentes del proyecto. |
 
 # Capitulo I: Introducción
 ## 1.1. Startup Profile
@@ -252,7 +261,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/usuario.jpg" alt="nombre" style="margin-bottom: 5px;"
+            <img src="images/Foto de frente.jpg" alt="nombre" style="margin-bottom: 5px;"
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -271,7 +280,7 @@ Somos ReelHaven y te presentamos MindFlix, una aplicación innovadora diseñada 
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Mi nombre es Sebastián De Las Casas, soy estudiante de Ingenieria de Software. Tengo experiencia con lenguajes de programación como python y c++. 
+        Mi nombre es Sebastián De Las Casas y tengo 20 años. Actualmente estoy cursando la carrera de Ingeniería de Software en la UPC. Me considero una persona paciente, optimista y que se maneja bien bajo presión. Como miembro del equipo me esforzaré en apoyar en todo lo que pueda al avance del trabajo. Tengo experiencia con lenguajes de programación como python y c++. 
         </td>
     </tr>
 	  
@@ -1628,11 +1637,6 @@ Link: <https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?n
 
 ![image](images/DB_Mindflix.png)
 
-* **Creador de contenido de salud mental:** personas involucradas en la creación de películas/series/documentales en los cuales se desarrollan temas que contribuyan en cambiar la mentalidad de las personas y mejorar su bienestar mental. # Capitulo I: Introducción
-
-
-
-
 # Capítulo V: Product Implementation
 
 ## 5.1 Software Configuration Management
@@ -2188,14 +2192,334 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  ![report-insights](images/insights-report.JPG)
   
+- ### 5.2.2 Sprint 2
 
- **VIDEOS:**
+- #### 5.2.2.1. Sprint Planning 2
 
- * Presentacion del trabajo:
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>20-09-2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>16:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Video-conferencia</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>ReelHaven team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Piero Miranda/ Sebastián De Las Casas / Gabriel Omar Lapa / Johan Karl Bottger / Niurka Lucero Huarcaya</td>
+        </tr>
+        <tr>
+            <td>Sprint 1  Review Summary</td>
+            <td>Se completó Satisfactoriamente las tareas planteadas en el anterior Sprint. </td>
+        </tr>
+        <tr>
+            <td>Sprint n Retrospective Summary</td>
+            <td>Se estableció la necesidad de una mejor organización de planeamiento en este Sprint a comparación del primero. </td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>Implementar el frontend de la aplicación web de MindFlix siguiendo con el diseño y poniendo a prueba nuestra propuesta de valor. </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>21</td>
+        </tr>
+    </tbody>
+</table>
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- #### 5.2.2.2. Sprint Backlog 2
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="5">Sprint 2</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="4">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>US19</td>
+                <td>Explorar Contenido</td>
+                <td>Como usuario, quiero poder navegar por una selección de contenido disponible en la aplicación.</td>
+                <td>3 hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
+            <tr>
+                <td>US04</td>
+                <td>Filtrar Contenido por Categoría</td>
+                <td>Como usuario, Quiero poder filtrar el contenido por categoría, Para encontrar información relevante más fácilmente.</td>
+                <td>2 hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US01</td>
+                <td>Iniciar sesión</td>
+                <td>Como usuario registrado, quiero poder iniciar sesión en mi cuenta, para utilizar las funciones disponibles de la plataforma.</td>
+                <td>3 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US20</td>
+                <td>Listas</td>
+                <td>Como usuario no registrado, quiero poder crear una cuenta nueva, para utilizar las funciones disponibles de la plataforma.</td>
+                <td>2 hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US21</td>
+                <td>Visualizar Listas</td>
+                <td>Como usuario, quiero poder visualizar el contenido en listas personalizadas.</td>
+                <td>3 hrs</td>
+                <td>Johan Bottger</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US22</td>
+                <td>Agregar a Listas</td>
+                <td>Como usuario, quiero poder añadir el contenido de la aplicación a las listas.</td>
+                <td>2 hrs</td>
+                <td>Johan Bottger</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US23</td>
+                <td>Ver foros</td>
+                <td>Como usuario, quiero poder visualizar las publicaciones de la comunidad en la aplicación.</td>
+                <td>2 hrs</td>
+                <td>Sebastián De Las Casas</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US24</td>
+                <td>Publicar en foros</td>
+                <td>Como usuario, quiero poder hacer publicaciones propias en los foros de la comunidad en la aplicación.</td>
+                <td>3 hrs</td>
+                <td>Sebastián De Las Casas</td>
+                <td>In progress</td>
+            </tr>
+	    <tr>
+                <td>US23</td>
+                <td>Eventos</td>
+                <td>Como usuario, quiero poder visualizar información acerca de eventos.</td>
+                <td>3 hrs</td>
+                <td>Gabriel Lapa</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US24</td>
+                <td>Eventos</td>
+                <td>Como usuario, quiero poder explorar eventos según su información.</td>
+                <td>3 hrs</td>
+                <td>Gabriel Lapa</td>
+                <td>Completed</td>
+            </tr>
+	    
+
+    </tbody>
+</table>
+
+- #### 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+            <tr>
+                <td>https://github.com/ReelHaven/Landing-Page </td>
+                <td>Develop</td>
+                <td>009e891</td>
+                <td>chore: Initial commit</td>
+                <td>chore: Initial commit</td>
+                <td>21-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/events</td>
+                <td>b61d0e4092</td>
+                <td>feat: added language switcher to toolbar component</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/explorer</td>
+                <td>ad6343</td>
+                <td>added available content explorer page</td>
+                <td>feat: added styles.css for layout</td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/forums</td>
+                <td>8f519e</td>
+                <td>feat: updated forums</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/lists</td>
+                <td>98b49a4</td>
+                <td>feat: Feature lists</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>feature/login-register</td>
+                <td>860227</td>
+                <td>feat: added register component</td>
+                <td></td>
+                <td>24-09-24</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+ ![landing-evidence](images/repositorio.jpeg)
+
+ 
+
+ - #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Service de FakeAPI
+
+ ![vista-servicios1](images/vista-servicios1.jpeg)
 
 
-* Entrevistas:
+ ![vista-servicios2](images/vista-servicios2.jpeg)
 
-  Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+ - #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Frontend Web Application
+
+Login
+
+ ![vista-login](images/vista-login.jpeg)
+
+Registro
+
+![vista-registro](images/vista-registro.jpeg)
+
+Explorar
+
+![vista-explorar1](images/vista-explorar1.jpeg)
+
+
+![vista-explorar2](images/vista-explorar2.jpeg)
+
+
+ 
+![vista-explorar3](images/vista-explorar3.jpeg)
+
+
+Listas
+
+![vista-listas](images/vista-listas.jpeg)
+
+
+Foros
+
+![vista-foros](images/vista-foros.jpeg)
+
+
+Eventos
+
+![vista-eventos](images/vista-eventos.jpeg)
+
+ 
+
+- #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
+![insights](images/gitcontributions.jpeg)
+
+
+ 
+
+# Conclusiones
+
+- Durante el desarrollo de la Landing Page, el equipo de ReelHaven ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
+- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
+- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
+- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
+- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
+- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+
+## Video About-the-Team.
+No se entrega 
+# Bibliografía
+- Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
+- Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
+- Venmo (2021) Venmo Brand Guideline. Paypal, Inc. : https://venmo.com/about/brand/
+
+# Anexos
+- Anexo 1: [Entrevistas de segmentos objetivo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EeyZzLH4koNGiKL-bplhk2EBZ3yimDFzYmTSQfe3QDrZbg?e=pVUI9M&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Anexo 2: [As-is Scenario Mapping](https://miro.com/app/board/uXjVKkQHFZI=/?share_link_id=942422651628)
+- Anexo 3: [To-Be Scenario Mapping](https://miro.com/app/board/uXjVKkXdjos=/?share_link_id=419241166516)
+- Anexo 4: [Landing Page Wireframe and Mock-up](https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=1-2&t=BGPwfMqOvWRPFYsJ-1)
+- Anexo 5: [Web Applications Wireframes and Mock-ups](https://www.figma.com/design/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=0-1&node-type=canvas)
+- Anexo 6: [Web Applications User Flow Diagrams](https://lucid.app/lucidchart/9e585c86-46d8-4b2b-8164-171dc7389447/edit?invitationId=inv_af682ab9-6ffb-4ef4-8ca2-5ce276061cc7)
+- Anexo 7: [Web Applications Prototyping - primer segmento](https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-4278&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A4278)
+- Anexo 8: [Web Applications Prototyping - segundo segmento](https://www.figma.com/proto/0BL3f4X1cKpK0vYFh2vayd/Open-Source-MindFlix?node-id=167-6042&node-type=CANVAS&t=CMypXeQGuIaKcD56-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=167%3A6042)
+- Anexo 9: [Repositorio de la Organización](https://github.com/ReelHaven)
+- Anexo 10: [Repositorio del Landing page](https://github.com/ReelHaven/Landing-Page)
+- Anexo 11: [Landing Page](https://reelhaven.github.io/Landing-Page/)
+- Anexo 12: [TB1 - video presentación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- Anexo 13: [Presentación del proyecto](https://www.canva.com/design/DAGP5FNtzuI/0d_bFHSuGx5lRscGSDDsfA/edit)
