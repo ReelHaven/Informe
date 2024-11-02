@@ -2799,6 +2799,10 @@ El usuario expresó su agrado con la aplicación, pues la encontró simple y fá
 - La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
 - El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
 - El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
+- La implementación del frontend de la solución web ha permitido al equipo demostrar su capacidad para convertir requisitos y especificaciones en una aplicación funcional. Se ha desarrollado una estructura escalable que facilita el mantenimiento y la expansión futura del proyecto.
+- La colaboración ha sido fundamental para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, resolver problemas de forma conjunta y aprovechar al máximo nuestras capacidades.
+- La elección de Spring Boot ha facilitado la creación de servicios RESTful que cumplen con los requisitos funcionales de la aplicación. Los endpoints han sido planeados para garantizar un acceso rápido y seguro a los datos, permitiendo interacciones eficientes con el frontend.
+- La estructura modular del proyecto, combinada con patrones de diseño como el patrón de repositorio y el de servicio, ha permitido al equipo desarrollar un backend escalable y organizado.
 
 ## Video About-the-Team.
 No se entrega 
