@@ -2815,3 +2815,4 @@ No se entrega
 - Anexo 11: [Landing Page](https://reelhaven.github.io/Landing-Page/)
 - Anexo 12: [TB1 - video presentación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/Efketfcb3WdCnliRzUU8rpgBfjAbrv8PD56nPbCvEjVo5Q?e=guLPn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Anexo 13: [Presentación del proyecto](https://www.canva.com/design/DAGP5FNtzuI/0d_bFHSuGx5lRscGSDDsfA/edit)
+- Anexo 14:[Web Application](https://mindflix.vercel.app/login)
