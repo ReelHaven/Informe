@@ -2705,6 +2705,14 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 ## 5.3 Validation  Interviews.
 
 - ### 5.3.1 Diseño de entrevistas.
+ #### Formato de preguntas para entrevistas de validacion (para ambos segmentos)
+ - ¿Qué opinas de la apariencia general del landing page y del mensaje que este transmite? ¿Te queda clara la propuesta de MindFlix para ayudar a los usuarios a mejorar su bienestar mental?
+ - ¿Las secciones en la página de inicio (como beneficios, testimonios, etc) te ayudan a comprender lo que ofrece la aplicación?
+ - ¿Qué tan intuitiva te resulta la navegación en el landing page y el frontend? ¿Hay algo que te confunda?
+ - ¿Te sientes motivado/a a registrarte en la plataforma al ver lo ofrecido? ¿Por qué o por qué no?
+ - ¿Crees que el objetivo principal de la aplicacion, que es recomendar contenido en base a tu estado de animo,  cumple su funcion de manera correcta?
+ - ¿Te gustaría participar en eventos en vivo o foros como se propone en el landing page? ¿Qué te motivaría a hacerlo?
+ - ¿Qué cambiarías o agregarías en el landing page o frontend application para hacerlo más claro o atractivo para ti?
   
 - ### 5.3.2 Registro de entrevistas
   
