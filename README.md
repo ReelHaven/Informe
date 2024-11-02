@@ -2579,35 +2579,51 @@ Eventos
     </thead>
     <tbody>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US07</td>
+                <td>Configurar Entorno de Desarrollo</td>
+                <td>Como desarrollador, Quiero configurar mi entorno de desarrollo local, Para poder comenzar a trabajar en el proyecto.</td>
+                <td>3hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US08</td>
+                <td>Implementar Funcionalidad Esencial</td>
+                <td>Como desarrollador, Quiero implementar la funcionalidad esencial del sistema, Para tener una base funcional sobre la cual construir.</td>
+                <td>4hrs</td>
+                <td>Johan Bottger</td>
                 <td></td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US18</td>
+                <td>Endpoint para obtener informacion de usuario en inicio de sesion actual.</td>
+                <td>Como desarrollador quiero obtener los datos del usuario que ha iniciado sesion para asi poder mostrar informacion del usuario en las vistas.</td>
+                <td>4hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US19</td>
+                <td>Endpoint para obtener contenido</td>
+                <td>Como desarollador, quiero tener un endpoint el cual me proporcione  el contenido total con el que se trabaje  en la plataforma </td>
+                <td>4hrs</td>
+                <td>Niurka Huarcaya</td>
                 <td></td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US20</td>
+                <td>Endpoint para gestionar eventos</td>
+                <td>Como desarrollador, quiero un endpoint el cual me permita configurar la opcion de agregar un evento a la base de datos, el cual servira para  que los usuarios agreguen sus propios eventos.</td>
+                <td>4hrs</td>
+                <td>Gabriel Lapa</td>
                 <td></td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US21</td>
+                <td>Endpoint para gestionar Foros</td>
+                <td>Como desarrollador quiero un endpoint que me  permita gestionar la publicacion de comentarios en los foros.</td>
+                <td>4hrs</td>
+                <td>Sebastian De Las Casas</td>
                 <td></td>
             </tr>
     </tbody>
