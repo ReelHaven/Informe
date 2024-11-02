@@ -2644,28 +2644,28 @@ Eventos
     </thead>
     <tbody>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>https://github.com/ReelHaven/Backend</td>
+                <td>Develop</td>
+                <td>ed9c16e</td>
+                <td>chore : initial commit</td>
+                <td>chore : initial commit</td>
+                <td>31/10/24</td>
             </tr>
 	    <tr>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Develop</td>
+                <td>624052b</td>
+                <td>feat: added openApi configuration for swagger</td>
+                <td>feat: added openApi configuration for swagger</td>
+                <td>31/10/24</td>
             </tr>
 	    <tr>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>feature/users</td>
+                <td>13495dc</td>
+                <td>feat: added User Repository</td>
+                <td>feat: added User Repository</td>
+                <td>01/11//24</td>
             </tr>
 	    <tr>
                 <td></td>
