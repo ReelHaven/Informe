@@ -2717,16 +2717,16 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 - ### 5.3.2 Registro de entrevistas
 
   **Entrevista N°1:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Nombre: Sergio 
+- Apellidos: Licas
+- Edad: 41
+- Ubicación: San Borja
+- Inicio de la Entrevista: 
+- Duración de la Entrevista: 7:20 min
 
 **Resumen de la Entrevista:**
+El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion, tanto con el landing page como con el web application. Se menciona la forma en la cual este logra interacturar y  los beneficios que este obtiene. Por ultimo se mencionan caracteristicas las cuales seran tomadas en cuenta en el futuro
 
-*imagen*
 
  **Entrevista N°2:**
 - Nombre: 
