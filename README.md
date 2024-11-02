@@ -2736,16 +2736,15 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 
 
  **Entrevista N°2:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
+- Nombre: Diego
+- Apellidos: Cacho Seminario
+- Edad: 19
+- Ubicación: Surco
 - Inicio de la Entrevista:
-- Duración de la Entrevista:
+- Duración de la Entrevista: 5:00 min
 
 **Resumen de la Entrevista:**
-
-*imagen*
+El usuario expresó su agrado con la aplicación, pues la encontró simple y fácil de utilizar. Aunque expresó que deberían incluirse más idiomas en la selección de internacionalización.
 
  **Entrevista N°3:**
 - Nombre: 
