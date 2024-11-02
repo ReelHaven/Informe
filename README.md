@@ -2682,7 +2682,17 @@ Eventos
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
+## 5.3 Validation  Interviews.
 
+- ### 5.3.1 Diseño de entrevistas.
+  
+- ### 5.3.2 Registro de entrevistas
+  
+- ### 5.3.3 Evaluaciones segun heuristicas
+
+## 5.4 Video About-The-Product.
+
+  
 
 
  
