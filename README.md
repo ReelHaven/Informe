@@ -2739,7 +2739,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             <td>POST</td>
             <td>no tiene</td>
             <td>api/v1/content</td>
-	    <td>Agreaga content a database</td>	
+	    <td>Agrega content a database</td>	
         </tr>
         <tr>
             <td>GET</td>
@@ -2911,6 +2911,17 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
+ * **Bounded Context Events**
+![events-endpoints](images/Events_endpoints.png)
+
+ * **Bounded Context Forum**
+![forums-endpoints](images/forum_endpoints.png)
+
+![forums-post](images/forums_post.png)
+
+* **Bounded Context Content**
+![content-endpoints](images/content-endpoint.png)
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -2926,25 +2937,100 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     </thead>
     <tbody>
         <tr>
-            <td rowspan="4"></td>
+            <td rowspan="4">Events</td>
         </tr>
         <tr>
             <td>GET</td>
-            <td></td>
-            <td></td>
-	    <td></td>
+            <td>No parameters</td>
+            <td>/api/v1/events</td>
+	    <td>Obtiene todos los eventos</td>
         </tr>
         <tr>
             <td>POST</td>
-            <td></td>
-            <td></td>
-	    <td></td>	
+            <td>No parameters</td>
+            <td>/api/v1/events</td>
+	    <td>Crea un evento</td>	
         </tr>
         <tr>
             <td>GET</td>
-            <td></td>
-            <td></td>
-	    <td></td>	
+            <td>id</td>
+            <td>/api/v1/events/{id}</td>
+	    <td>Obtiene un evento por el id</td>	
+        </tr>
+	<tr>
+            <td rowspan="4">Forums</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Obtiene un foro por forumId</td>
+        </tr>
+	<tr>
+            <td>PUT</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Actualiza un foro por forumId</td>
+        </tr>
+	<tr>
+            <td>DELETE</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Elimina un foro por forumId</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/forums</td>
+	    <td>Crea un foro</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No parameters</td>
+            <td>/api/v1/forums</td>
+	    <td>Obtiene todos los foros</td>	
+        </tr>
+	<tr>
+            <td rowspan="4">Content</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>Title, creatorId, type, category</td>
+            <td>/api/v1/content</td>
+	    <td>Obtiene todos los contenidos y busca por parámetros</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/content</td>
+	    <td>Crea un evento</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>/api/v1/content/{id}</td>
+	    <td>Obtiene un contenido por el id</td>	
+        </tr>
+	<tr>
+            <td rowspan="4">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>userName, password</td>
+            <td>/api/v1/users</td>
+	    <td>Obtiene user por username y password</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/users</td>
+	    <td>Crea un usuario</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>/api/v1/users/{id}</td>
+	    <td>Obtiene un usuario por el id</td>	
         </tr>
     </tbody>
 </table>
