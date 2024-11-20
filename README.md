@@ -2846,28 +2846,28 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     </thead>
     <tbody>
 	   <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US08</td>
+                <td>Implementar Funcionalidad Esencial</td>
+                <td>Como desarrollador, Quiero implementar la funcionalidad esencial del sistema, Para tener una base funcional sobre la cual construir.</td>
+                <td>4hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
             </tr>
 	   <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US20</td>
+                <td>Endpoint para gestionar eventos</td>
+                <td>Como desarrollador, quiero un endpoint el cual me permita configurar la opcion de agregar un evento a la base de datos, el cual servira para  que los usuarios agreguen sus propios eventos.</td>
+                <td>4hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
             </tr>
 	    <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>US21</td>
+                <td>Endpoint para gestionar Foros</td>
+                <td>Como desarrollador quiero un endpoint que me  permita gestionar la publicacion de comentarios en los foros.</td>
+                <td>4hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
             </tr>
     </tbody>
 </table>
@@ -2888,19 +2888,27 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
     <tbody>
 	    <tr>
                 <td>https://github.com/ReelHaven/Backend</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Forums</td>
+                <td>c150b44</td>
+                <td>feat:added endpoints for forums</td>
+                <td>feat:added endpoints for forums</td>
+                <td>20/11/24</td>
             </tr>
 	    <tr>
                 <td></td>
+                <td>Events</td>
+                <td>6f5106a</td>
+                <td>feat: fixed events bounded context</td>
+                <td>feat: fixed events bounded context</td>
+                <td>19//11/24</td>
+            </tr>
+	    <tr>
                 <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td>Content</td>
+                <td>3855e88</td>
+                <td>feat: added endpoints for content</td>
+                <td>feat: added endpoints for content</td>
+                <td>12//11/24</td>
             </tr>
     </tbody>
 </table>
@@ -3046,6 +3054,8 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
   Link: [Mindflix-frontend](https://mindflix.vercel.app/login)
  
 - #### 5.2.4.8. Team Collaboration Insights during Sprint.
+  
+ ![insights-sprint-4](images/insights-sprint-4.JPG)
 
 ## 5.3 Validation  Interviews.
 
@@ -3084,20 +3094,6 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 **Resumen de la Entrevista:**
 El usuario expresó su agrado con la aplicación, pues la encontró simple y fácil de utilizar. Aunque expresó que deberían incluirse más idiomas en la selección de internacionalización.
 
- **Entrevista N°3:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
-
-  
-- ### 5.3.3 Evaluaciones segun heuristicas
 
 ## 5.4 Video About-The-Product.
 
