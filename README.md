@@ -3037,7 +3037,13 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 
  - #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+	**Frontend desplegado**
+  
+  ![Frontend-login](images/frontend-desplegado-login.png)
+  
+  ![Frontend-desplegado](images/frontend-desplegado.png)
 
+  Link: [Mindflix-frontend](https://mindflix.vercel.app/login)
  
 - #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
@@ -3135,3 +3141,4 @@ En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarro
 - Anexo 16:[About the product Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EaHzs9nUnOFOkUkvosW06p8BwuQVAP5LNifiQZrcTvfadA?e=4MIUFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Anexo 17: [TB2 presentacion video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/ESalPWkioUhKnl7111grEcIBZoKvilvNsHjcOCZDYe6law?e=NA5Ctg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Anexo 18: [Entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EW2M9IBb4CZHrMhQj4vl-HIBQ_R3rVb3So1jHZb2vsOykA?e=KdTLRm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- - Anexo 19: [Frontend-mindflix](https://mindflix.vercel.app/explorer)
