@@ -2958,7 +2958,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 	    <td>Obtiene un evento por el id</td>	
         </tr>
 	<tr>
-            <td rowspan="4">Forums</td>
+            <td rowspan="6">Forums</td>
         </tr>
         <tr>
             <td>GET</td>
@@ -3003,7 +3003,7 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
             <td>POST</td>
             <td>No parameters</td>
             <td>/api/v1/content</td>
-	    <td>Crea un evento</td>	
+	    <td>Crea un contenido</td>	
         </tr>
         <tr>
             <td>GET</td>
