@@ -31,10 +31,8 @@
 |   1.0   | 06-09-24 |   Todos      | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
 |   2.0   | 26-09-24 |   Todos      | Se desarolló el primer avance de la aplicación web, formado por el Front End. Además, se actualizó la información del informe.             |
 |   3.0   | 02/11/24 |   Todos      | Se desarrollo la primera version de los web services.                                  |
-|         |          |              |                                   |
-|         |          |              |                                   |
-|         |          |              |                                   |
-|         |          |              |                                   |
+|   4.0   | 20/11/24 |   Todos      | Se desarrolló la version final del Landing Page, Web Services y Web Application                          |
+
 
 
 ## Project Report Collaboration Insights 
