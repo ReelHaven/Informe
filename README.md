@@ -2841,10 +2841,9 @@ El usuario expresó su agrado con la aplicación, pues la encontró simple y fá
 
 ## 5.4 Video About-The-Product.
 
-  
+|**`Link a video`**|>|[about-the-product-video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EaHzs9nUnOFOkUkvosW06p8BwuQVAP5LNifiQZrcTvfadA?e=4MIUFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
 
-
- 
 
 # Conclusiones
 
@@ -2860,7 +2859,10 @@ El usuario expresó su agrado con la aplicación, pues la encontró simple y fá
 - La estructura modular del proyecto, combinada con patrones de diseño como el patrón de repositorio y el de servicio, ha permitido al equipo desarrollar un backend escalable y organizado.
 
 ## Video About-the-Team.
-No se entrega 
+
+|**`Link a video`**|>|[about-the-team-video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EQj994rwsNhJsn0jfBjEp14BZA-u-4mXKPmRGYpMO7GTkw?e=4KQxz6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
+
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
