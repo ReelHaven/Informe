@@ -3004,29 +3004,6 @@ El usuario expresó su agrado con la aplicación, pues la encontró simple y fá
 
 *imagen*
 
- **Entrevista N°4:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
-
- **Entrevista N°5:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
   
 - ### 5.3.3 Evaluaciones segun heuristicas
 
@@ -3036,18 +3013,12 @@ El usuario expresó su agrado con la aplicación, pues la encontró simple y fá
 |-----|----|----|
 
 
-# Conclusiones
+# Conclusión
 
-- Durante el desarrollo de la Landing Page, el equipo de ReelHaven ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
-- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
-- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
-- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
-- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
-- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
-- La implementación del frontend de la solución web ha permitido al equipo demostrar su capacidad para convertir requisitos y especificaciones en una aplicación funcional. Se ha desarrollado una estructura escalable que facilita el mantenimiento y la expansión futura del proyecto.
-- La colaboración ha sido fundamental para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, resolver problemas de forma conjunta y aprovechar al máximo nuestras capacidades.
-- La elección de Spring Boot ha facilitado la creación de servicios RESTful que cumplen con los requisitos funcionales de la aplicación. Los endpoints han sido planeados para garantizar un acceso rápido y seguro a los datos, permitiendo interacciones eficientes con el frontend.
-- La estructura modular del proyecto, combinada con patrones de diseño como el patrón de repositorio y el de servicio, ha permitido al equipo desarrollar un backend escalable y organizado.
+- A lo largo del ciclo de vida del proyecto ReelHaven, el equipo ha demostrado su capacidad para traducir requisitos en soluciones funcionales, desarrollando tanto la Landing Page como el frontend de la Web Application con un enfoque sólido y estructurado. Desde las primeras etapas, la implementación de la Landing Page sirvió como una piedra angular, ofreciendo una experiencia de usuario atractiva y coherente que traduce los objetivos del proyecto en un diseño visual efectivo. Este logro inicial sentó las bases para las etapas posteriores del proyecto, incluyendo el desarrollo de la Web Application.
+El enfoque ágil adoptado permitió al equipo adaptarse a cambios y desafíos con eficiencia, facilitando la implementación de funcionalidades planificadas de manera progresiva. Herramientas como GitHub jugaron un papel crucial, permitiendo una planificación detallada, seguimiento eficiente y colaboración continua. La colaboración fue el eje central del proyecto, ya que permitió a los miembros del equipo compartir conocimientos, resolver problemas en conjunto y aprovechar al máximo sus habilidades, fortaleciendo el esfuerzo colectivo.
+La elección de tecnologías clave, como Spring Boot para el backend, simplificó la creación de servicios RESTful. Estos servicios no solo garantizan interacciones rápidas y seguras con el frontend, sino que también están respaldados por una estructura modular basada en patrones de diseño como el de repositorio y el de servicio. Esto ha permitido desarrollar un backend escalable y organizado, asegurando que la solución sea sostenible y extensible en el futuro.
+En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarrollo y gestión de proyectos en cada etapa. Desde una Landing Page funcional y atractiva hasta la implementación de endpoints eficientes, cada fase del proyecto ha contribuido a cumplir los objetivos establecidos, mostrando un equilibrio entre creatividad, técnica y colaboración. Este enfoque refuerza la preparación del equipo para completar las etapas futuras del proyecto con éxito.
 
 ## Video About-the-Team.
 
