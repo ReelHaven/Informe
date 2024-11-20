@@ -2764,6 +2764,199 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
 ![insights-sprint-3](images/insights-sprint-3.JPG)
 
+- ### 5.2.4 Sprint 4
+
+- #### 5.2.4.1. Sprint Planning 4
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>17/11/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>17:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Video-conferencia</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>ReelHaven team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Piero Miranda/ Niurka Lucero Huarcaya</td>
+        </tr>
+        <tr>
+            <td>Sprint 3  Review Summary</td>
+            <td>Se completaron parcialmente las tareas del  anterior Sprint.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Implementar de manera completa el Landing Page, Web Application y Web Services. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>15</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.2. Sprint Backlog 4
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="5">Sprint 4</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="4">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+	   <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+	   <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>https://github.com/ReelHaven/Backend</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+	    <th>Descripcion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4"></td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td></td>
+            <td></td>
+	    <td></td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td></td>
+            <td></td>
+	    <td></td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td></td>
+            <td></td>
+	    <td></td>	
+        </tr>
+    </tbody>
+</table>
+
+
+ - #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+ 
+- #### 5.2.4.8. Team Collaboration Insights during Sprint.
+
 ## 5.3 Validation  Interviews.
 
 - ### 5.3.1 Diseño de entrevistas.
