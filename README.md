@@ -2592,7 +2592,7 @@ Eventos
                 <td>Como desarrollador, Quiero implementar la funcionalidad esencial del sistema, Para tener una base funcional sobre la cual construir.</td>
                 <td>4hrs</td>
                 <td>Johan Bottger</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
 	    <tr>
                 <td>US18</td>
@@ -2608,7 +2608,7 @@ Eventos
                 <td>Como desarollador, quiero tener un endpoint el cual me proporcione  el contenido total con el que se trabaje  en la plataforma </td>
                 <td>4hrs</td>
                 <td>Niurka Huarcaya</td>
-                <td></td>
+                <td>Completed</td>
             </tr>
 	    <tr>
                 <td>US20</td>
@@ -2616,7 +2616,7 @@ Eventos
                 <td>Como desarrollador, quiero un endpoint el cual me permita configurar la opcion de agregar un evento a la base de datos, el cual servira para  que los usuarios agreguen sus propios eventos.</td>
                 <td>4hrs</td>
                 <td>Gabriel Lapa</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
 	    <tr>
                 <td>US21</td>
@@ -2624,7 +2624,7 @@ Eventos
                 <td>Como desarrollador quiero un endpoint que me  permita gestionar la publicacion de comentarios en los foros.</td>
                 <td>4hrs</td>
                 <td>Sebastian De Las Casas</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
     </tbody>
 </table>
@@ -2755,8 +2755,9 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+- Endpoints probados en swagger UI desde localhost para verificar la correcta funcionalidad. 
 
-
+![local-endpoints](images/mindflix-endpoints-local-sp3.JPG)
  
 
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
