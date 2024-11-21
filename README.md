@@ -3052,6 +3052,17 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
   ![Frontend-desplegado](images/frontend-desplegado.png)
 
   Link: [Mindflix-frontend](https://mindflix.vercel.app/login)
+
+
+  **Landing Page** 
+  
+  ![landing-sprint-4](images/home-landing-deployed.JPG)
+
+Link a Landing Page:  https://reelhaven.github.io/Landing-Page 
+
+**Endpoints para Backend**
+
+![endpoints-sprint-4](images/endpoints-sprint-4.jpeg)
  
 - #### 5.2.4.8. Team Collaboration Insights during Sprint.
   
