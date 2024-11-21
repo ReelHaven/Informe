@@ -31,10 +31,8 @@
 |   1.0   | 06-09-24 |   Todos      | Se desarrollo la idea de negocio planeada en un  entorno de desarrollo de aplicaciones Open Source. De igual manera, se llevo a cabo la primera implementacion del Landing Page, y los diseños para la plataforma en su version web.       |  
 |   2.0   | 26-09-24 |   Todos      | Se desarolló el primer avance de la aplicación web, formado por el Front End. Además, se actualizó la información del informe.             |
 |   3.0   | 02/11/24 |   Todos      | Se desarrollo la primera version de los web services.                                  |
-|         |          |              |                                   |
-|         |          |              |                                   |
-|         |          |              |                                   |
-|         |          |              |                                   |
+|   4.0   | 20/11/24 |   Todos      | Se desarrolló la version final del Landing Page, Web Services y Web Application                          |
+
 
 
 ## Project Report Collaboration Insights 
@@ -144,8 +142,8 @@
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro: Piero Miranda** <br> **TB1:** <br> Describir la problematica a tratar en el capitulo 1, analizando el problema y definiendo el segmento objetivo, al igual que describir el proposito de la startup. <br> **TP:**  <br> Desarrolle el proceso de login y registro del usuario. Al igual que el formulario para determinar el estado de animo del usuario. <br> **TB2:** <br> Desarrollo de Bounded Context Users for Web Servies <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Realicé una investigación basada en UX Research para establecer adecuadamente los User Personas, Task Matrix, Journey Maps y Empathy Mapping.  <br> **TP1:** <br> Desarrollé la sección "Explorar Contenido" del frontend con funcionalidades de filtrado por categorías y tipo. Esto me premitió identificar problemáticas y aplicar principios de UX, teniendo en cuenta las necesidades del usuario y el alcance a diferentes audiencias. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Contenido, para lo cual realice los endpoints de post y get, además se añadieron las secciones respoecto a esto en el informe escrito. <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br> Me encargué del diseño de las entrevistas y realicé una de ellas hacia uno de nuestros segmentos objetivos. Además, realicé la presentación del proyecto. <br> **TP1:** <br> Estuve presente y activo en la organización y planeamiento del proyecto y su segundo sprint al igual que su desarollo. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> <br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br>  Me encargué del desarrollo de las epic user stories y el backlog. Además me encargué de realizar los cuadros C4 <br>  **TP1** <br> Estuve al tanto de completar la parte asignada a mi persona. <br> **TB2:** <br> Mi responsabilidad fue la de desarrollar la sección de foros. <br> <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Me encargué de los Scenarios con su respectivo Lenguaje Ubicuo, además de realizar el Diagrama de clases con su Class Diagram <br>**TP1:** <br> Estuve atento a la organización de mi parte del proyecto, y que se reflejará en el siguiente Sprint<br> **TB2:** <br> Me encargué de la parte del bounded context de la sección de Eventos en el backend, diseñando la estructura y lógica de datos para asegurar una integración eficiente y robusta con el frontend. <br> |**TB1:** <br> Con el trabajo realizado, podemos concluir grupalmente que logramos comunicar de manera efectiva nuestra propuesta de solución al público objetivo, transmitiendo claramente los beneficios y características del producto. Asimismo, supimos adaptar nuestro mensaje a las necesidades y expectativas de diferentes rangos de audiencia. <br> **TP1:** <br> En esta entrega, el equipo ha demostrado la capacidad de integrar los principios de UX Design y UX Research con el desarrollo técnico, logrando desplegar una nueva versión del Landing Page y la primera versión del Frontend Web Application. Además, los avances alcanzados cumplieron con los objetivos del sprint y aseguraron la alineación entre las necesidades de los usuarios y nuestra solución propuesta. |                                                                                                                                    |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia.   | **Miembro: Piero Miranda** <br> **TB1:** <br> Desarrollé secciones del capitulo 4 como style guidelines, diseño de landing page, web wireframes y mockups, y software management en el capitulo 5 <br> **TP:**  <br> Lleve a cabo el desarrollo de la vista home, en la cual se aprecia el contenido recomendado al usuario, al igual que las estadisticas de este mismo. <br> **TB2:** <br> Desarrollo de Bounded Context Users for Web Servies <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Se realizó el Design y Prototyping, bajo un enfoque ágil evidenciado de forma escrita <br> **TP1:** <br> Generé la sección de explorar contenido con la herramienta indicada, así como con las convenciones de nomenclatura para los componentes de la solución. Se abarcó tanto en el código como en las funcionalidades implementadas, asegurando que se facilite la colaboración en el proyecto. <br> **TB2:** <br> Me concentré en desarrollar los endpoints necesarios para la sección de contenido, teniendo en cuenta los parámetros de búsqueda y la creación de contenido. <br> <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br>  Me encargué en explorar e investigar el mercado actual para identificar los posibles competidores y sus estándares.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> **TB1:** <br>  Trabajé mi bounded context y colaboré con la presentación del proyecto. Esto incluyó el manejo del os videos, exposiciones e informe.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br<br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br> Me informé de la necesidad de los usuarios y planifique la estructura del modelo. <br> **TP1** <br> Fui responsable de la página de foros además de apoyar con el desarrollo del informe <br> **TB2:** <br> Mi responsabilidad fue la de desarrollar la sección de foros. <br>  <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Resalté los posibles escenarios de los usuarios antes y despúes de conocer nuestro proyecto. <br> **TP1:** <br> Me encargué de la sección de Eventos, además de corregir el informe según la reciente retroalimentación <br> **TB2:** <br> Aseguré que el diseño fuera escalable y fácil de mantener, optimizando las rutas y garantizando una respuesta rápida y coherente en toda la plataforma. <br>  | **TB1:** <br> Gracias a la documentación detallada y al Landing Page implementado, logramos transmitir nuestras ideas de manera clara y efectiva. Además, presentamos un concepto visual atractivo del producto que refuerza la comunicación escrita, permitiendo que nuestro público objetivo entienda la propuesta y los beneficios de forma precisa. <br> **TP1:** <br> La documentación generada para este avance, refleja un enfoque estructurado y colaborativo en la implementación del proyecto. Se realizaron mejoras iterativas, asegurando que estén claramente documentadas, para facilitar la comprensión y colaboración entre los miembros del equipo. También, se evidenció la correcta aplicación de lenguajes de programación, frameworks y herramientas indicadas en la construcción de los componentes del proyecto. |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.         | **Miembro: Piero Miranda** <br> **TB1:** <br> Describir la problematica a tratar en el capitulo 1, analizando el problema y definiendo el segmento objetivo, al igual que describir el proposito de la startup. <br> **TP:**  <br> Desarrolle el proceso de login y registro del usuario. Al igual que el formulario para determinar el estado de animo del usuario. <br> **TB2:** <br> Desarrollo de Bounded Context Users for Web Servies  <br> **TF:** <br> Realice cambios en el bounded context de Users, añadi endpoints para el bounded Context de Events y lleve a cabo la verificacion de las funcionalidades existentes. <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Realicé una investigación basada en UX Research para establecer adecuadamente los User Personas, Task Matrix, Journey Maps y Empathy Mapping.  <br> **TP1:** <br> Desarrollé la sección "Explorar Contenido" del frontend con funcionalidades de filtrado por categorías y tipo. Esto me premitió identificar problemáticas y aplicar principios de UX, teniendo en cuenta las necesidades del usuario y el alcance a diferentes audiencias. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Contenido, para lo cual realice los endpoints de post y get, además se añadieron las secciones respoecto a esto en el informe escrito. <br> **TF:** <br> Fui responsable del desarrollo de la sección de Foros y mejorar la sección de contenido, para lo cual realice los endpoints de post, get, delete y put.  <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br> Me encargué del diseño de las entrevistas y realicé una de ellas hacia uno de nuestros segmentos objetivos. Además, realicé la presentación del proyecto. <br> **TP1:** <br> Estuve presente y activo en la organización y planeamiento del proyecto y su segundo sprint al igual que su desarollo. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> <br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br>  Me encargué del desarrollo de las epic user stories y el backlog. Además me encargué de realizar los cuadros C4 <br>  **TP1** <br> Estuve al tanto de completar la parte asignada a mi persona. <br> **TB2:** <br> Mi responsabilidad fue la de desarrollar la sección de foros. <br> <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Me encargué de los Scenarios con su respectivo Lenguaje Ubicuo, además de realizar el Diagrama de clases con su Class Diagram <br>**TP1:** <br> Estuve atento a la organización de mi parte del proyecto, y que se reflejará en el siguiente Sprint<br> **TB2:** <br> Me encargué de la parte del bounded context de la sección de Eventos en el backend, diseñando la estructura y lógica de datos para asegurar una integración eficiente y robusta con el frontend. <br> |A lo largo del desarrollo de nuestro trabajo, hemos demostrado nuestra capacidad para comunicar efectivamente la propuesta de solución a diferentes rangos de audiencia, adaptando nuestro mensaje de manera clara y persuasiva para resaltar los beneficios y características del producto. Esta habilidad fue clave para garantizar que las expectativas y necesidades de nuestro público objetivo fueran comprendidas y respondidas adecuadamente.  <br> Además, el equipo logró integrar de manera efectiva los principios de UX Design y UX Research con el desarrollo técnico, lo que resultó en el despliegue exitoso de una nueva versión del Landing Page, la primera versión funcional del Frontend Web Application y el diseño e implementación de los web services requeridos para soportar la solución. Estos avances fueron alcanzados gracias a una planificación sólida, trabajo colaborativo y un enfoque en cumplir los objetivos establecidos en cada sprint, asegurando así la alineación entre las necesidades de los usuarios y la solución propuesta.  <br> En conjunto, estos esfuerzos demuestran no solo nuestra capacidad para desarrollar una solución técnica robusta, sino también para comunicar su valor de manera efectiva a diversos públicos, consolidando un puente entre la tecnología y las personas. |                                                                                                                                    |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia.   | **Miembro: Piero Miranda** <br> **TB1:** <br> Desarrollé secciones del capitulo 4 como style guidelines, diseño de landing page, web wireframes y mockups, y software management en el capitulo 5 <br> **TP:**  <br> Lleve a cabo el desarrollo de la vista home, en la cual se aprecia el contenido recomendado al usuario, al igual que las estadisticas de este mismo. <br> **TB2:** <br> Desarrollo de Bounded Context Users for Web Services <br> **TF:** <br> Lleve a cabo la redaccion de nuevas secciones del informe, relacionadas con el sprint 4, secciones faltantes pasadas y conclusiones.   <br> <br> <br> **Miembro: Niurka Huarcaya Quispe** <br> **TB1:** <br> Se realizó el Design y Prototyping, bajo un enfoque ágil evidenciado de forma escrita <br> **TP1:** <br> Generé la sección de explorar contenido con la herramienta indicada, así como con las convenciones de nomenclatura para los componentes de la solución. Se abarcó tanto en el código como en las funcionalidades implementadas, asegurando que se facilite la colaboración en el proyecto. <br> **TB2:** <br> Me concentré en desarrollar los endpoints necesarios para la sección de contenido, teniendo en cuenta los parámetros de búsqueda y la creación de contenido. <br> **TF:** <br> Realice cambios en el bounded context de Content para usar los elementos de auditoría, agregué endpoints para el bounded Context de Forums, conecté ambos bounded context y lleve a cabo la documentación de sus funcionalidades. <br> <br> <br> <br> **Miembro: Johan Bottger** <br> **TB1:** <br>  Me encargué en explorar e investigar el mercado actual para identificar los posibles competidores y sus estándares.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> **TB1:** <br>  Trabajé mi bounded context y colaboré con la presentación del proyecto. Esto incluyó el manejo del os videos, exposiciones e informe.  <br> **TP1:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br> **TB2:** <br> Fui responsable del desarrollo de la sección Listas, además del apoyo en la correción del informe escrito. <br<br> <br> **Miembro: Sebastián De Las Casas** <br> **TB1:** <br> Me informé de la necesidad de los usuarios y planifique la estructura del modelo. <br> **TP1** <br> Fui responsable de la página de foros además de apoyar con el desarrollo del informe <br> **TB2:** <br> Mi responsabilidad fue la de desarrollar la sección de foros. <br>  <br> **Miembro: Gabriel Lapa** <br> **TB1:** <br> Resalté los posibles escenarios de los usuarios antes y despúes de conocer nuestro proyecto. <br> **TP1:** <br> Me encargué de la sección de Eventos, además de corregir el informe según la reciente retroalimentación <br> **TB2:** <br> Aseguré que el diseño fuera escalable y fácil de mantener, optimizando las rutas y garantizando una respuesta rápida y coherente en toda la plataforma. <br>  | A través de una documentación detallada y estructurada, junto con el desarrollo de un Landing Page funcional, hemos logrado transmitir nuestras ideas de manera clara y efectiva a diferentes rangos de audiencia. Esta documentación no solo refuerza la comunicación escrita, sino que también facilita la comprensión precisa de la propuesta y los beneficios de nuestra solución, proporcionando un soporte visual atractivo que complementa el mensaje escrito.  <br> Asimismo, el proceso de desarrollo incluyó la implementación de los web services necesarios para sustentar las funcionalidades del proyecto, los cuales fueron documentados de manera exhaustiva para garantizar su comprensión y correcto uso. Este enfoque estructurado permitió que las iteraciones realizadas durante el desarrollo quedaran claramente registradas, promoviendo la colaboración entre los miembros del equipo y asegurando una alineación con los objetivos del proyecto. <br> En conjunto, estas acciones reflejan nuestra capacidad para comunicar por escrito de manera efectiva, utilizando herramientas y estrategias que aseguran la claridad y precisión del mensaje, tanto dentro del equipo como hacia nuestro público objetivo. |
 
 # Capitulo I: Introducción
 ## 1.1. Startup Profile
@@ -2592,7 +2590,7 @@ Eventos
                 <td>Como desarrollador, Quiero implementar la funcionalidad esencial del sistema, Para tener una base funcional sobre la cual construir.</td>
                 <td>4hrs</td>
                 <td>Johan Bottger</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
 	    <tr>
                 <td>US18</td>
@@ -2608,7 +2606,7 @@ Eventos
                 <td>Como desarollador, quiero tener un endpoint el cual me proporcione  el contenido total con el que se trabaje  en la plataforma </td>
                 <td>4hrs</td>
                 <td>Niurka Huarcaya</td>
-                <td></td>
+                <td>Completed</td>
             </tr>
 	    <tr>
                 <td>US20</td>
@@ -2616,7 +2614,7 @@ Eventos
                 <td>Como desarrollador, quiero un endpoint el cual me permita configurar la opcion de agregar un evento a la base de datos, el cual servira para  que los usuarios agreguen sus propios eventos.</td>
                 <td>4hrs</td>
                 <td>Gabriel Lapa</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
 	    <tr>
                 <td>US21</td>
@@ -2624,7 +2622,7 @@ Eventos
                 <td>Como desarrollador quiero un endpoint que me  permita gestionar la publicacion de comentarios en los foros.</td>
                 <td>4hrs</td>
                 <td>Sebastian De Las Casas</td>
-                <td></td>
+                <td>In-Progress</td>
             </tr>
     </tbody>
 </table>
@@ -2696,18 +2694,379 @@ Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no 
 
  - #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+	    <th>Descripcion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
+	    <td>Obtiene user por username y password</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No tiene</td>
+            <td>api/v1/users</td>
+	    <td>Agrega user a database</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>api/v1/users/{id}</td>
+	    <td>Obtiene user por el ID</td>	
+        </tr>
+	<tr>
+		<td rowspan="4">Content</td>
+	</tr>
+        <tr>
+            <td>GET</td>
+            <td>No tiene</td>
+            <td>api/v1/content</td>
+	    <td>Obtiene content por ID</td>	
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>no tiene</td>
+            <td>api/v1/content</td>
+	    <td>Agrega content a database</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>no tiene</td>
+            <td>api/v1/content</td>
+	    <td>Lista todo el content</td>	
+        </tr>
+    </tbody>
+</table>
 
 
  - #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+- Endpoints probados en swagger UI desde localhost para verificar la correcta funcionalidad. 
 
-
+![local-endpoints](images/mindflix-endpoints-local-sp3.JPG)
  
 
 - #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 ![insights-sprint-3](images/insights-sprint-3.JPG)
+
+- ### 5.2.4 Sprint 4
+
+- #### 5.2.4.1. Sprint Planning 4
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td>Sprint 4</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Planning Background</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Date</td>
+            <td>17/11/2024</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>17:00</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Video-conferencia</td>
+        </tr>
+        <tr>
+            <td>Prepared By</td>
+            <td>ReelHaven team</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>Piero Miranda/ Niurka Lucero Huarcaya</td>
+        </tr>
+        <tr>
+            <td>Sprint 3  Review Summary</td>
+            <td>Se completaron parcialmente las tareas del  anterior Sprint.</td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>Se necesitó mayor organizacion dentro del equipo de trabajo.</td>
+        </tr>
+        <tr>
+            <td colspan="2">Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>Implementar de manera completa el Landing Page, Web Application y Web Services. </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <td>Sum of Story Points</td>
+            <td>15</td>
+        </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.2. Sprint Backlog 4
+
+<table>
+    <thead>
+            <tr>
+            <td>Sprint #:</td>
+            <td colspan="5">Sprint 4</td>
+            </tr>
+            <tr>
+                <td colspan="2">User Story</td>
+                <td colspan="4">Work-Item / Task</td>
+            </tr>
+            <tr>
+                <td>ID</td>
+                <td>Title</td>
+                <td>Description</td>
+                <td>Estimation (Hours)</td>
+                <td>Assigned to</td>
+                <td>Status (To-Do/In-Process/To-Review/Done)</td>
+            </tr>
+    </thead>
+    <tbody>
+	   <tr>
+                <td>US08</td>
+                <td>Implementar Funcionalidad Esencial</td>
+                <td>Como desarrollador, Quiero implementar la funcionalidad esencial del sistema, Para tener una base funcional sobre la cual construir.</td>
+                <td>4hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
+	   <tr>
+                <td>US20</td>
+                <td>Endpoint para gestionar eventos</td>
+                <td>Como desarrollador, quiero un endpoint el cual me permita configurar la opcion de agregar un evento a la base de datos, el cual servira para  que los usuarios agreguen sus propios eventos.</td>
+                <td>4hrs</td>
+                <td>Piero Miranda</td>
+                <td>Completed</td>
+            </tr>
+	    <tr>
+                <td>US21</td>
+                <td>Endpoint para gestionar Foros</td>
+                <td>Como desarrollador quiero un endpoint que me  permita gestionar la publicacion de comentarios en los foros.</td>
+                <td>4hrs</td>
+                <td>Niurka Huarcaya</td>
+                <td>Completed</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+    <thead>
+            <tr>
+                <td><strong>Repository</strong></td>
+                <td><strong>Branch</strong></td>
+                <td><strong>Commit ID</strong></td>
+                <td><strong>Commit Message</strong></td>
+                <td><strong>Commit Message Body</strong></td>
+                <td><strong>Commited on (Date)</strong></td>
+            </tr>
+    </thead>
+    <tbody>
+	    <tr>
+                <td>https://github.com/ReelHaven/Backend</td>
+                <td>Forums</td>
+                <td>c150b44</td>
+                <td>feat:added endpoints for forums</td>
+                <td>feat:added endpoints for forums</td>
+                <td>20/11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Events</td>
+                <td>6f5106a</td>
+                <td>feat: fixed events bounded context</td>
+                <td>feat: fixed events bounded context</td>
+                <td>19//11/24</td>
+            </tr>
+	    <tr>
+                <td></td>
+                <td>Content</td>
+                <td>3855e88</td>
+                <td>feat: added endpoints for content</td>
+                <td>feat: added endpoints for content</td>
+                <td>12//11/24</td>
+            </tr>
+    </tbody>
+</table>
+
+- #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+Para este sprint no se ha usado ningún servicio de Testing aún, por lo que no se presentan ejemplos de Unit test, Integration Test ni Acceptance Test para los servicios Web.
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+ * **Bounded Context Events**
+![events-endpoints](images/Events_endpoints.png)
+
+ * **Bounded Context Forum**
+![forums-endpoints](images/forum_endpoints.png)
+
+![forums-post](images/forums_post.png)
+
+* **Bounded Context Content**
+![content-endpoints](images/content-endpoint.png)
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table>
+    <thead>
+        <tr>
+            <th>Endpoint</th>
+            <th>Operaciones</th>
+            <th>Parametros</th>
+            <th>URL</th>
+	    <th>Descripcion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="4">Events</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No parameters</td>
+            <td>/api/v1/events</td>
+	    <td>Obtiene todos los eventos</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/events</td>
+	    <td>Crea un evento</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>/api/v1/events/{id}</td>
+	    <td>Obtiene un evento por el id</td>	
+        </tr>
+	<tr>
+            <td rowspan="6">Forums</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Obtiene un foro por forumId</td>
+        </tr>
+	<tr>
+            <td>PUT</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Actualiza un foro por forumId</td>
+        </tr>
+	<tr>
+            <td>DELETE</td>
+            <td>forumId</td>
+            <td>/api/v1/forums/{forumId}</td>
+	    <td>Elimina un foro por forumId</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/forums</td>
+	    <td>Crea un foro</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>No parameters</td>
+            <td>/api/v1/forums</td>
+	    <td>Obtiene todos los foros</td>	
+        </tr>
+	<tr>
+            <td rowspan="4">Content</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>Title, creatorId, type, category</td>
+            <td>/api/v1/content</td>
+	    <td>Obtiene todos los contenidos y busca por parámetros</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/content</td>
+	    <td>Crea un contenido</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>/api/v1/content/{id}</td>
+	    <td>Obtiene un contenido por el id</td>	
+        </tr>
+	<tr>
+            <td rowspan="4">Users</td>
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>userName, password</td>
+            <td>/api/v1/users</td>
+	    <td>Obtiene user por username y password</td>
+        </tr>
+        <tr>
+            <td>POST</td>
+            <td>No parameters</td>
+            <td>/api/v1/users</td>
+	    <td>Crea un usuario</td>	
+        </tr>
+        <tr>
+            <td>GET</td>
+            <td>id</td>
+            <td>/api/v1/users/{id}</td>
+	    <td>Obtiene un usuario por el id</td>	
+        </tr>
+    </tbody>
+</table>
+
+
+ - #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+	**Frontend desplegado**
+  
+  ![Frontend-login](images/frontend-desplegado-login.png)
+  
+  ![Frontend-desplegado](images/frontend-desplegado.png)
+
+  Link: [Mindflix-frontend](https://mindflix.vercel.app/login)
+
+
+  **Landing Page** 
+  
+  ![landing-sprint-4](images/home-landing-deployed.JPG)
+
+Link a Landing Page:  https://reelhaven.github.io/Landing-Page 
+
+**Endpoints para Backend**
+
+![endpoints-sprint-4](images/endpoints-sprint-4.jpeg)
+ 
+- #### 5.2.4.8. Team Collaboration Insights during Sprint.
+  
+ ![insights-sprint-4](images/insights-sprint-4.JPG)
 
 ## 5.3 Validation  Interviews.
 
@@ -2746,66 +3105,25 @@ El usuario nos da opiniones positivas acerca de su interaccion son la aplicacion
 **Resumen de la Entrevista:**
 El usuario expresó su agrado con la aplicación, pues la encontró simple y fácil de utilizar. Aunque expresó que deberían incluirse más idiomas en la selección de internacionalización.
 
- **Entrevista N°3:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
-
- **Entrevista N°4:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
-
- **Entrevista N°5:**
-- Nombre: 
-- Apellidos:
-- Edad: 
-- Ubicación:
-- Inicio de la Entrevista:
-- Duración de la Entrevista:
-
-**Resumen de la Entrevista:**
-
-*imagen*
-  
-- ### 5.3.3 Evaluaciones segun heuristicas
 
 ## 5.4 Video About-The-Product.
 
-  
+|**`Link a video`**|>|[about-the-product-video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EaHzs9nUnOFOkUkvosW06p8BwuQVAP5LNifiQZrcTvfadA?e=4MIUFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
 
 
- 
+# Conclusión
 
-# Conclusiones
-
-- Durante el desarrollo de la Landing Page, el equipo de ReelHaven ha logrado implementar con éxito las funcionalidades y características planificadas, proporcionando una experiencia de usuario sólida y coherente.
-- La implementación de la Landing Page ha permitido al equipo demostrar su capacidad para traducir los requisitos y especificaciones en código funcional, desarrollando una estructura sólida y un diseño visual atractivo.
-- La colaboración y el trabajo en equipo han sido fundamentales para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, habilidades y recursos para lograr los objetivos establecidos.
-- La implementación de la Landing Page ha sentado las bases para el desarrollo de la Web Application, que se espera completar en etapas posteriores del proyecto.
-- El uso de herramientas de gestión de proyectos como Trello y GitHub ha facilitado la planificación, el seguimiento y la colaboración en el desarrollo del proyecto, permitiendo al equipo mantenerse organizado y enfocado en los objetivos.
-- El proceso de desarrollo ágil ha demostrado ser efectivo para la implementación de la Landing Page, permitiendo al equipo adaptarse a los cambios y desafíos de manera eficiente y eficaz.
-- La implementación del frontend de la solución web ha permitido al equipo demostrar su capacidad para convertir requisitos y especificaciones en una aplicación funcional. Se ha desarrollado una estructura escalable que facilita el mantenimiento y la expansión futura del proyecto.
-- La colaboración ha sido fundamental para el éxito del proyecto, permitiendo a los miembros del equipo compartir conocimientos, resolver problemas de forma conjunta y aprovechar al máximo nuestras capacidades.
-- La elección de Spring Boot ha facilitado la creación de servicios RESTful que cumplen con los requisitos funcionales de la aplicación. Los endpoints han sido planeados para garantizar un acceso rápido y seguro a los datos, permitiendo interacciones eficientes con el frontend.
-- La estructura modular del proyecto, combinada con patrones de diseño como el patrón de repositorio y el de servicio, ha permitido al equipo desarrollar un backend escalable y organizado.
+- A lo largo del ciclo de vida del proyecto ReelHaven, el equipo ha demostrado su capacidad para traducir requisitos en soluciones funcionales, desarrollando tanto la Landing Page como el frontend de la Web Application con un enfoque sólido y estructurado. Desde las primeras etapas, la implementación de la Landing Page sirvió como una piedra angular, ofreciendo una experiencia de usuario atractiva y coherente que traduce los objetivos del proyecto en un diseño visual efectivo. Este logro inicial sentó las bases para las etapas posteriores del proyecto, incluyendo el desarrollo de la Web Application.
+El enfoque ágil adoptado permitió al equipo adaptarse a cambios y desafíos con eficiencia, facilitando la implementación de funcionalidades planificadas de manera progresiva. Herramientas como GitHub jugaron un papel crucial, permitiendo una planificación detallada, seguimiento eficiente y colaboración continua. La colaboración fue el eje central del proyecto, ya que permitió a los miembros del equipo compartir conocimientos, resolver problemas en conjunto y aprovechar al máximo sus habilidades, fortaleciendo el esfuerzo colectivo.
+La elección de tecnologías clave, como Spring Boot para el backend, simplificó la creación de servicios RESTful. Estos servicios no solo garantizan interacciones rápidas y seguras con el frontend, sino que también están respaldados por una estructura modular basada en patrones de diseño como el de repositorio y el de servicio. Esto ha permitido desarrollar un backend escalable y organizado, asegurando que la solución sea sostenible y extensible en el futuro.
+En conjunto, el equipo ha demostrado su capacidad para integrar diseño, desarrollo y gestión de proyectos en cada etapa. Desde una Landing Page funcional y atractiva hasta la implementación de endpoints eficientes, cada fase del proyecto ha contribuido a cumplir los objetivos establecidos, mostrando un equilibrio entre creatividad, técnica y colaboración. Este enfoque refuerza la preparación del equipo para completar las etapas futuras del proyecto con éxito.
 
 ## Video About-the-Team.
-No se entrega 
+
+|**`Link a video`**|>|[about-the-team-video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EQj994rwsNhJsn0jfBjEp14BZA-u-4mXKPmRGYpMO7GTkw?e=4KQxz6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|-----|----|----|
+
 # Bibliografía
 - Bigby, G. (2023) Organizing Your Website with Information Architecture Methods.  Dyno Mapper: https://dynomapper.com/blog/19-ux/268-information-architecture-methods
 - Microsoft (2024) Microsoft Writing Style Guide. Microsoft Learn: https://learn.microsoft.com/en-us/style-guide/welcome/ 
@@ -2830,3 +3148,4 @@ No se entrega
 - Anexo 16:[About the product Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EaHzs9nUnOFOkUkvosW06p8BwuQVAP5LNifiQZrcTvfadA?e=4MIUFh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Anexo 17: [TB2 presentacion video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/ESalPWkioUhKnl7111grEcIBZoKvilvNsHjcOCZDYe6law?e=NA5Ctg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 - Anexo 18: [Entrevistas de validacion](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210735_upc_edu_pe/EW2M9IBb4CZHrMhQj4vl-HIBQ_R3rVb3So1jHZb2vsOykA?e=KdTLRm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- - Anexo 19: [Frontend-mindflix](https://mindflix.vercel.app/explorer)
