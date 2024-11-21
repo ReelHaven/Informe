@@ -38,7 +38,7 @@
 
 ## Project Report Collaboration Insights 
 
-
+![insights-report](images/insights-final.JPG)
 
 
 
